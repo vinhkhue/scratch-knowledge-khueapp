@@ -24,8 +24,7 @@ def display_header():
     """Display the main header"""
     st.title("🤖 Scratch Knowledge Graph Assistant")
     st.markdown("""
-    Hệ thống hỏi đáp thông minh về lập trình Scratch, sử dụng **Knowledge Graph (Neo4j)** kết hợp với **LLM ** 
-    để cung cấp câu trả lời chính xác, kèm theo ngữ cảnh đồ thị trực quan.
+    Hệ thống truy vấn kiến thức lập trình Scratch lớp 8
     """)
     st.markdown("---")
 
