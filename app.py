@@ -24,7 +24,7 @@ def display_header():
     """Display the main header"""
     st.title("🤖 Scratch Knowledge Graph Assistant")
     st.markdown("""
-    Hệ thống hỏi đáp thông minh về lập trình Scratch, sử dụng **Knowledge Graph (Neo4j)** kết hợp với **LLM (GPT-4o)** 
+    Hệ thống hỏi đáp thông minh về lập trình Scratch, sử dụng **Knowledge Graph (Neo4j)** kết hợp với **LLM ** 
     để cung cấp câu trả lời chính xác, kèm theo ngữ cảnh đồ thị trực quan.
     """)
     st.markdown("---")
@@ -39,12 +39,12 @@ def display_sidebar():
         st.success("✅ Đã kết nối OpenAI")
         
         st.markdown("---")
-        st.header("ℹ️ Thông tin")
-        st.info("""
-        **Phiên bản:** 2.1 (Rebuild)
-        **Backend:** Neo4j + LangChain Concept
-        **Model:** GPT-4o
-        """)
+        # st.header("ℹ️ Thông tin")
+        # st.info("""
+        # **Phiên bản:** 2.1 (Rebuild)
+        # **Backend:** Neo4j + LangChain Concept
+        # **Model:** GPT-4o
+        # """)
         
         st.markdown("---")
         if st.button("🧹 Xóa & Tải lại Dữ liệu (Admin)"):
