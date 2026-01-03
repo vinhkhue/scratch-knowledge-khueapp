@@ -1,0 +1,79 @@
+TÀI LIỆU THAM KHẢO: CÁC NHÓM LỆNH CƠ BẢN TRONG SCRATCH 3.0
+
+Trong Scratch, các khối lệnh được chia thành các nhóm màu sắc khác nhau để dễ nhận biết và sử dụng. Dưới đây là chi tiết các nhóm lệnh:
+
+1. Nhóm Lệnh Chuyển Động (Motion) - Màu Xanh Dương Đậm
+- Chức năng: Điều khiển nhân vật di chuyển, xoay, thay đổi vị trí trên sân khấu.
+- Khối lệnh tiêu biểu:
+  + "di chuyển (10) bước" (move 10 steps): Di chuyển nhân vật về phía trước.
+  + "xoay phải (15) độ" (turn right 15 degrees): Xoay nhân vật theo chiều kim đồng hồ.
+  + "đi tới điểm x: (0) y: (0)" (go to x: y:): Đặt nhân vật tại vị trí cụ thể.
+  + "lướt trong (1) giây tới điểm x: y:": Di chuyển mượt mà tới vị trí mới.
+  + "bật lại nếu chạm cạnh" (if on edge, bounce): Giữ nhân vật không ra khỏi sân khấu.
+
+2. Nhóm Lệnh Hiển Thị (Looks) - Màu Tím
+- Chức năng: Thay đổi ngoại hình nhân vật, hiển thị hội thoại, thay đổi kích thước/hiệu ứng.
+- Khối lệnh tiêu biểu:
+  + "nói (Xin chào!) trong (2) giây" (say Hello for 2 seconds): Hiển thị bóng hội thoại.
+  + "chuyển sang trang phục (costume1)" (switch costume to): Thay đổi hình dáng nhân vật.
+  + "đổi phông nền thành (backdrop1)" (switch backdrop to): Thay đổi bối cảnh sân khấu.
+  + "thay đổi kích thước một lượng (10)" (change size by): Phóng to/thu nhỏ.
+  + "ẩn" / "hiện" (hide / show): Làm nhân vật biến mất hoặc xuất hiện.
+
+3. Nhóm Lệnh Âm Thanh (Sound) - Màu Hồng Tím
+- Chức năng: Phát nhạc, tiếng động và chỉnh sửa âm lượng/cao độ.
+- Khối lệnh tiêu biểu:
+  + "phát âm thanh (Meow) đến hết" (play sound until done).
+  + "bắt đầu âm thanh (Meow)" (start sound).
+  + "ngừng mọi âm thanh" (stop all sounds).
+  + "thay đổi hiệu ứng cao độ một lượng (10)" (change pitch effect by).
+  + "đặt âm lượng bằng (100)%" (set volume to 100%).
+
+4. Nhóm Lệnh Sự Kiện (Events) - Màu Vàng
+- Chức năng: Bắt đầu các kịch bản (scripts). Mọi chương trình Scratch đều cần ít nhất một khối Sự kiện để chạy.
+- Khối lệnh tiêu biểu:
+  + "khi bấm vào lá cờ xanh" (when green flag clicked): Khởi động chương trình chính.
+  + "khi bấm phím (trắng)" (when space key pressed): Xử lý sự kiện bàn phím.
+  + "khi bấm vào nhân vật này" (when this sprite clicked): Xử lý sự kiện chuột.
+  + "khi nhận tin (message1)" (when I receive): Nhận tín hiệu từ nhân vật khác.
+  + "phát tin (message1)" (broadcast): Gửi tín hiệu cho các nhân vật khác.
+
+5. Nhóm Lệnh Điều Khiển (Control) - Màu Cam
+- Chức năng: Quản lý luồng hoạt động (vòng lặp, điều kiện, đợi).
+- Khối lệnh tiêu biểu:
+  + "đợi (1) giây" (wait 1 seconds).
+  + "lặp lại (10) lần" (repeat 10): Vòng lặp xác định.
+  + "liên tục" (forever): Vòng lặp vô hạn.
+  + "nếu <điều kiện> thì" (if ... then): Cấu trúc rẽ nhánh.
+  + "nếu <điều kiện> thì ... không thì ..." (if ... then ... else).
+  + "dừng lại (tất cả)" (stop all): Kết thúc chương trình.
+
+6. Nhóm Lệnh Cảm Biến (Sensing) - Màu Xanh Nhạt
+- Chức năng: Phát hiện tương tác (chạm, khoảng cách, phím bấm, chuột).
+- Khối lệnh tiêu biểu:
+  + "<đang chạm vào (con trỏ chuột)?>" (touching mouse-pointer?): Trả về Đúng/Sai.
+  + "<đang chạm màu (xanh)?>" (touching color?): Phát hiện va chạm màu sắc.
+  + "khoảng cách đến (con trỏ chuột)" (distance to).
+  + "hỏi (Tên bạn là gì?) và đợi" (ask and wait): Nhập dữ liệu từ bàn phím.
+  + "(trả lời)" (answer): Chứa giá trị vừa nhập.
+
+7. Nhóm Lệnh Các Phép Toán (Operators) - Màu Xanh Lá
+- Chức năng: Thực hiện toán học, so sánh, logic và xử lý chuỗi.
+- Khối lệnh tiêu biểu:
+  + Phép tính: (+) (-) (*) (/).
+  + Lấy ngẫu nhiên: "lấy ngẫu nhiên từ (1) đến (10)" (pick random).
+  + So sánh: (<) (=) (>).
+  + Logic: <và> (and), <hoặc> (or), <không phải> (not).
+  + Chuỗi: "kết hợp (táo) và (chuối)" (join), "độ dài của (táo)".
+
+8. Nhóm Lệnh Các Biến Số (Variables) - Màu Cam Đậm
+- Chức năng: Lưu trữ và thay đổi dữ liệu (điểm số, thời gian, máu).
+- Khối lệnh tiêu biểu:
+  + "tạo một biến" (make a variable).
+  + "đặt (biến của tôi) thành (0)" (set variable to 0).
+  + "thay đổi (biến của tôi) một lượng (1)" (change variable by 1).
+  + "hiện biến" / "ẩn biến".
+
+9. Khối Của Tôi (My Blocks) - Màu Hồng
+- Chức năng: Tạo hàm/thủ tục riêng để tái sử dụng code.
+- Định nghĩa: Define [Tên khối].

@@ -1,0 +1,426 @@
+Hướng Dẫn Toàn Diện về các Khối Lệnh trong Scratch 3.0
+
+1. Giới thiệu về Khối Lệnh trong Scratch
+
+Trong môi trường lập trình Scratch, "Khối" (Block) là các mảnh ghép trực quan dùng để xây dựng mã lệnh. Thay vì phải gõ từng dòng lệnh phức tạp, người dùng chỉ cần kéo và thả các khối này để lắp ráp thành một chuỗi lệnh, được gọi là "kịch bản" (script). Phương pháp này, với các khối lệnh có hình dạng mảnh ghép (puzzle-piece shapes), giúp việc lập trình trở nên trực quan và dễ tiếp cận hơn rất nhiều so với lập trình dựa trên văn bản (text-based programming). Quan trọng hơn, nó loại bỏ hoàn toàn nguy cơ mắc lỗi cú pháp (syntax errors), một rào cản lớn đối với người mới bắt đầu.
+
+Trong phiên bản Scratch 3.0, có tổng cộng 125 khối lệnh thông thường (không tính các phần mở rộng). Chúng được sắp xếp vào các danh mục chức năng riêng biệt, mỗi danh mục được mã hóa bằng màu sắc để dễ dàng nhận biết và quản lý.
+
+Để hiểu cách các khối này hoạt động cùng nhau và tạo ra các chương trình có ý nghĩa, trước tiên chúng ta cần tìm hiểu về các hình dạng cơ bản của chúng, vì hình dạng quyết định vai trò và cách chúng tương tác với nhau.
+
+2. Phân tích các Hình dạng Khối Lệnh và Vai trò Chức năng
+
+Hình dạng của mỗi khối lệnh trong Scratch không chỉ mang tính thẩm mỹ mà còn quy định vai trò và cách nó tương tác với các khối khác trong một kịch bản. Việc hiểu rõ sáu hình dạng cơ bản này là chìa khóa để xây dựng các kịch bản logic, chặt chẽ và hiệu quả.
+
+1. Khối Mũ (Hat blocks)
+  * Đặc điểm: Các khối này có đỉnh được bo tròn và một mấu lồi ra ở đáy.
+  * Vai trò: Đây là điểm khởi đầu cho mọi kịch bản. Hình dạng đỉnh tròn của chúng ngăn không cho bất kỳ khối nào được gắn vào phía trên, chỉ cho phép các khối khác gắn vào bên dưới. Có tổng cộng 8 khối loại này, chủ yếu thuộc danh mục Sự kiện (Events), dùng để kích hoạt một chuỗi lệnh khi một sự kiện cụ thể xảy ra (ví dụ: khi nhấn vào cờ xanh).
+2. Khối Chồng (Stack blocks)
+  * Đặc điểm: Đây là loại khối phổ biến nhất, có một rãnh lõm ở trên và một mấu lồi ở dưới.
+  * Vai trò: Các khối này thực hiện các lệnh chính của chương trình, chẳng hạn như di chuyển một nhân vật, thay đổi trang phục hoặc phát âm thanh. Hình dạng của chúng cho phép chúng được xếp chồng lên nhau một cách liền mạch để tạo thành một chuỗi các hành động tuần tự. Có 62 khối loại này trong Scratch.
+3. Khối Logic (Boolean blocks)
+  * Đặc điểm: Các khối này có hình dạng lục giác dài.
+  * Vai trò: Chúng chứa các điều kiện và chỉ trả về một trong hai giá trị: "đúng" (true) hoặc "sai" (false). Chúng không thể tự đứng một mình trong một kịch bản mà phải được chèn vào các lỗ có hình dạng lục giác tương ứng trong các khối khác (như khối if <> then hoặc repeat until <>) để kiểm tra điều kiện.
+4. Khối Báo cáo (Reporter blocks)
+  * Đặc điểm: Các khối này có các cạnh được bo tròn.
+  * Vai trò: Chúng giữ và "báo cáo" một giá trị. Giá trị này có thể là một con số, một chuỗi ký tự (text string), hoặc giá trị hiện tại của một biến số. Tương tự như khối Logic, chúng được chèn vào các lỗ có hình dạng tròn hoặc chữ nhật trong các khối khác để cung cấp dữ liệu cho lệnh đó. Về mặt lý thuyết, có thể tạo ra vô số khối Báo cáo, vì mỗi biến số hoặc danh sách mới được tạo ra sẽ tự động sinh ra một khối báo cáo tương ứng, thể hiện tính chất năng động của môi trường Scratch.
+5. Khối C (C blocks)
+  * Đặc điểm: Đúng như tên gọi, các khối này có hình dạng giống chữ "C", còn được gọi là "Wrap blocks" (Khối bao bọc).
+  * Vai trò: Chúng được sử dụng để tạo vòng lặp hoặc kiểm tra một điều kiện. Các khối lệnh khác có thể được đặt bên trong "miệng" của khối C, và các lệnh bên trong sẽ được thực thi lặp đi lặp lại hoặc chỉ khi điều kiện của khối C được thỏa mãn. Có 5 khối loại này, chủ yếu thuộc danh mục Điều khiển. Một số khối C có một mấu lồi ở đáy (cho phép gắn các khối khác bên dưới), trong khi một số khác có đáy phẳng (đóng vai trò như một khối nắp phụ).
+6. Khối Nắp (Cap blocks)
+  * Đặc điểm: Các khối này có một rãnh lõm ở trên và một đáy phẳng.
+  * Vai trò: Chúng đóng vai trò là điểm kết thúc của một kịch bản hoặc một phần của kịch bản. Đáy phẳng của chúng không cho phép gắn thêm bất kỳ khối nào vào bên dưới. Chỉ có 2 khối loại này trong Scratch, đều thuộc danh mục Điều khiển (Control), ví dụ như khối stop [all v].
+
+Sau khi đã nắm vững hình dạng và chức năng cú pháp của các khối, chúng ta sẽ đi sâu vào từng danh mục cụ thể để khám phá chức năng của chúng.
+
+3. Khám phá các Danh mục Khối Lệnh Cốt lõi
+
+Các khối lệnh trong Scratch được sắp xếp thành 9 danh mục chính, mỗi danh mục được mã hóa bằng màu sắc riêng để dễ nhận biết và quản lý. Sự phân loại này giúp người lập trình nhanh chóng tìm thấy các lệnh cần thiết cho một nhiệm vụ cụ thể, từ việc di chuyển nhân vật, thay đổi ngoại hình, xử lý âm thanh cho đến quản lý luồng chương trình và dữ liệu phức tạp.
+
+3.1. Khối Chuyển động (Motion blocks)
+
+Các khối Chuyển động (màu xanh dương đậm) là những khối lệnh cốt lõi để kiểm soát vị trí, hướng và sự di chuyển của một đối tượng (Sprite) trên sân khấu (Stage). Chúng cho phép bạn lập trình các hành động như đi tới, xoay, lướt và thay đổi tọa độ X/Y.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+move () steps	Di chuyển đối tượng về phía trước một số bước nhất định theo hướng hiện tại.
+turn cw () degrees	Xoay đối tượng theo chiều kim đồng hồ một số độ nhất định.
+turn ccw () degrees	Xoay đối tượng ngược chiều kim đồng hồ một số độ nhất định.
+go to ( v)	Di chuyển đối tượng đến một vị trí ngẫu nhiên, con trỏ chuột, hoặc một đối tượng khác.
+go to x: () y: ()	Di chuyển đối tượng đến một vị trí cụ thể được xác định bởi tọa độ X và Y.
+glide () secs to ( v)	Lướt đối tượng một cách mượt mà đến vị trí ngẫu nhiên, con trỏ chuột, hoặc đối tượng khác trong một khoảng thời gian xác định.
+glide () secs to x: () y: ()	Lướt đối tượng đến một vị trí cụ thể (tọa độ X, Y) trong một khoảng thời gian xác định.
+point in direction ()	Đặt hướng của đối tượng theo một góc cụ thể (0 = hướng lên, 90 = sang phải, 180 = đi xuống, -90 = sang trái).
+point towards ( v)	Xoay đối tượng để hướng về phía con trỏ chuột hoặc một đối tượng khác.
+change x by ()	Thay đổi tọa độ X (vị trí ngang) của đối tượng một khoảng nhất định.
+set x to ()	Đặt tọa độ X của đối tượng thành một giá trị cụ thể.
+change y by ()	Thay đổi tọa độ Y (vị trí dọc) của đối tượng một khoảng nhất định.
+set y to ()	Đặt tọa độ Y của đối tượng thành một giá trị cụ thể.
+if on edge, bounce	Nếu đối tượng chạm vào cạnh của sân khấu, nó sẽ đổi hướng ngược lại dựa trên góc va chạm.
+set rotation style [ v]	Thiết lập kiểu xoay của đối tượng: all around cho xoay tự do, left-right để lật hình theo chiều ngang (hữu ích cho nhân vật đi bộ), hoặc don't rotate để giữ hướng không đổi.
+(x position)	Báo cáo giá trị tọa độ X hiện tại của đối tượng.
+(y position)	Báo cáo giá trị tọa độ Y hiện tại của đối tượng.
+(direction)	Báo cáo giá trị hướng hiện tại của đối tượng (tính bằng độ).
+
+3.2. Khối Hiển thị (Looks blocks)
+
+Các khối Hiển thị (màu tím) kiểm soát mọi khía cạnh trực quan của đối tượng và sân khấu. Chúng cho phép bạn thay đổi trang phục, hiển thị lời thoại hoặc suy nghĩ, điều chỉnh kích thước, áp dụng các hiệu ứng đồ họa và quản lý các lớp hiển thị.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+say [] for () seconds	Hiển thị một bong bóng lời thoại phía trên đối tượng trong một khoảng thời gian nhất định.
+say []	Hiển thị một bong bóng lời thoại phía trên đối tượng và giữ nó cho đến khi có lệnh nói hoặc nghĩ khác.
+think [] for () seconds	Hiển thị một bong bóng suy nghĩ phía trên đối tượng trong một khoảng thời gian nhất định.
+think []	Hiển thị một bong bóng suy nghĩ và giữ nó cho đến khi có lệnh nói hoặc nghĩ khác.
+switch costume to ( v)	Thay đổi trang phục (costume) của đối tượng thành một trang phục cụ thể.
+next costume	Chuyển sang trang phục tiếp theo trong danh sách trang phục của đối tượng.
+switch backdrop to ( v)	Thay đổi phông nền (backdrop) của sân khấu thành một phông nền cụ thể.
+switch backdrop to ( v) and wait	Thay đổi phông nền và đợi cho đến khi tất cả các kịch bản được kích hoạt bởi sự thay đổi này hoàn thành. (Chỉ dùng cho Sân khấu).
+next backdrop	Chuyển sang phông nền tiếp theo trong danh sách.
+change size by ()	Thay đổi kích thước của đối tượng một lượng nhất định.
+set size to ()%	Đặt kích thước của đối tượng thành một tỷ lệ phần trăm cụ thể so với kích thước gốc.
+change [ v] effect by ()	Thay đổi một hiệu ứng đồ họa (ví dụ: màu sắc, mắt cá, xoáy) một lượng nhất định.
+set [ v] effect to ()	Đặt một hiệu ứng đồ họa thành một giá trị cụ thể.
+clear graphic effects	Xóa tất cả các hiệu ứng đồ họa đang áp dụng trên đối tượng.
+show	Làm cho đối tượng xuất hiện trên sân khấu.
+hide	Ẩn đối tượng khỏi sân khấu.
+go to [ v] layer	Đưa đối tượng lên lớp trên cùng (front) hoặc xuống lớp dưới cùng (back).
+go [ v] () layers	Di chuyển đối tượng tới các lớp phía trước hoặc lùi về các lớp phía sau một số lớp nhất định.
+(costume [ v])	Báo cáo số thứ tự hoặc tên của trang phục hiện tại.
+(backdrop [ v])	Báo cáo số thứ tự hoặc tên của phông nền hiện tại.
+(size)	Báo cáo kích thước hiện tại của đối tượng (dưới dạng phần trăm).
+
+3.3. Khối Âm thanh (Sound blocks)
+
+Các khối Âm thanh (màu hồng đậm) đóng vai trò quan trọng trong việc thêm âm thanh, nhạc nền và hiệu ứng vào dự án. Chúng cho phép bạn phát, dừng, và điều chỉnh các thuộc tính của âm thanh như âm lượng và cao độ, giúp tạo ra trải nghiệm sống động và tương tác hơn.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+play sound ( v) until done	Phát một tệp âm thanh và tạm dừng kịch bản cho đến khi âm thanh kết thúc.
+start sound ( v)	Bắt đầu phát một tệp âm thanh mà không tạm dừng kịch bản, cho phép âm thanh và mã lệnh chạy đồng thời.
+stop all sounds	Dừng tất cả các âm thanh đang được phát trong toàn bộ dự án.
+change [pitch v] effect by ()	Thay đổi hiệu ứng âm thanh (cao độ hoặc pan trái/phải) một lượng nhất định.
+set [pan left/right v] effect to ()	Đặt hiệu ứng âm thanh (cao độ hoặc pan trái/phải) thành một giá trị cụ thể.
+clear sound effects	Xóa tất cả các hiệu ứng âm thanh đã được áp dụng.
+change volume by ()	Thay đổi âm lượng một lượng nhất định (giá trị dương để tăng, âm để giảm).
+set volume to ()%	Đặt âm lượng thành một tỷ lệ phần trăm cụ thể.
+(volume)	Báo cáo giá trị âm lượng hiện tại.
+
+3.4. Khối Sự kiện (Events blocks)
+
+Các khối Sự kiện (màu vàng cam) là những khối "Mũ" cực kỳ quan trọng, đóng vai trò khởi động các kịch bản. Chúng lắng nghe các hành động của người dùng (như nhấn cờ xanh, bấm phím) hoặc các sự kiện bên trong chương trình (như nhận tin nhắn) để kích hoạt các chuỗi lệnh tương ứng.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+when green flag clicked	Kích hoạt kịch bản bên dưới khi người dùng nhấn vào biểu tượng cờ xanh để bắt đầu chương trình.
+when [ v] key pressed	Kích hoạt kịch bản khi một phím cụ thể trên bàn phím được nhấn.
+when this sprite clicked	Kích hoạt kịch bản khi người dùng nhấp chuột vào đối tượng chứa kịch bản này.
+when backdrop switches to [ v]	Kích hoạt kịch bản khi phông nền của sân khấu chuyển sang một phông nền cụ thể.
+when [ v] > ()	Kích hoạt kịch bản khi một giá trị (ví dụ: độ lớn âm thanh, thời gian) lớn hơn một ngưỡng nhất định.
+when I receive [ v]	Kích hoạt kịch bản khi nhận được một tin nhắn (broadcast) cụ thể.
+broadcast ( v)	Gửi một tin nhắn đi khắp chương trình. Các kịch bản khác có khối when I receive tương ứng sẽ được kích hoạt.
+broadcast ( v) and wait	Gửi một tin nhắn và tạm dừng kịch bản hiện tại cho đến khi tất cả các kịch bản được kích hoạt bởi tin nhắn đó thực thi xong.
+
+3.5. Khối Điều khiển (Control blocks)
+
+Các khối Điều khiển (màu vàng) có vai trò trung tâm trong việc quản lý luồng thực thi của chương trình. Chúng cho phép bạn tạo ra các vòng lặp (lặp lại hành động), các câu lệnh điều kiện (chỉ thực thi nếu một điều kiện là đúng), tạm dừng chương trình và quản lý việc tạo ra các bản sao (clones) của đối tượng.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+wait () seconds	Tạm dừng kịch bản trong một khoảng thời gian nhất định (tính bằng giây).
+repeat ()	Lặp lại các khối lệnh được đặt bên trong nó một số lần xác định.
+forever	Tạo một vòng lặp vô hạn, lặp lại các khối lệnh bên trong nó mãi mãi cho đến khi chương trình dừng lại.
+if <> then	Kiểm tra một điều kiện. Nếu điều kiện đúng, thực thi các khối lệnh bên trong.
+if <> then else	Kiểm tra một điều kiện. Nếu đúng, thực thi các khối trong phần "if". Nếu sai, thực thi các khối trong phần "else".
+wait until <>	Tạm dừng kịch bản cho đến khi một điều kiện trở thành đúng.
+repeat until <>	Lặp lại các khối lệnh bên trong cho đến khi một điều kiện trở thành đúng.
+stop [all v]	Dừng tất cả các kịch bản trong dự án, chỉ kịch bản này, hoặc các kịch bản khác trong cùng một đối tượng.
+when I start as a clone	(Chỉ dùng cho đối tượng) Khối "Mũ" này kích hoạt kịch bản cho một bản sao ngay khi nó được tạo ra.
+create clone of ( v)	Tạo một bản sao (clone) của chính đối tượng đó hoặc một đối tượng khác.
+delete this clone	(Chỉ dùng cho đối tượng) Xóa bản sao hiện tại đang thực thi kịch bản này.
+
+3.6. Khối Cảm biến (Sensing blocks)
+
+Các khối Cảm biến (màu xanh lơ) cho phép chương trình nhận biết và phản ứng với môi trường xung quanh nó. Chúng có thể phát hiện các tương tác với con trỏ chuột, bàn phím, va chạm giữa các đối tượng, màu sắc, và thậm chí nhận đầu vào từ người dùng hoặc các thông tin hệ thống như thời gian.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+touching ()?	Kiểm tra xem đối tượng có đang chạm vào con trỏ chuột, cạnh sân khấu hoặc một đối tượng khác không.
+touching color ()?	Kiểm tra xem đối tượng có đang chạm vào một màu sắc cụ thể không.
+color () is touching ()?	Kiểm tra xem một màu trên đối tượng có đang chạm vào một màu khác không.
+(distance to ( v))	Báo cáo khoảng cách từ đối tượng này đến con trỏ chuột hoặc một đối tượng khác.
+ask [] and wait	Hiển thị một câu hỏi và một hộp nhập liệu ở cuối sân khấu, đợi người dùng nhập câu trả lời.
+(answer)	Chứa câu trả lời gần nhất mà người dùng đã nhập sau khi sử dụng khối ask and wait.
+key () pressed?	Kiểm tra xem một phím cụ thể có đang được nhấn hay không.
+mouse down?	Kiểm tra xem nút chuột có đang được nhấn hay không.
+(mouse x)	Báo cáo tọa độ X của con trỏ chuột.
+(mouse y)	Báo cáo tọa độ Y của con trỏ chuột.
+set drag mode [ v]	Cho phép hoặc không cho phép đối tượng được kéo-thả khi đang chạy dự án.
+(loudness)	Báo cáo độ lớn của âm thanh mà micro thu được (giá trị từ -1 đến 100).
+(timer)	Báo cáo thời gian (tính bằng giây) đã trôi qua kể từ khi dự án bắt đầu hoặc từ khi đồng hồ được đặt lại.
+reset timer	Đặt lại đồng hồ đếm giờ về 0.
+([ v] of ( v))	Báo cáo một thuộc tính (như vị trí x, y, hướng, số thứ tự trang phục, kích thước) của một đối tượng khác hoặc của sân khấu.
+(current [ v])	Báo cáo thông tin về thời gian hiện tại (năm, tháng, ngày, phút, v.v.).
+(days since 2000)	Báo cáo số ngày đã trôi qua kể từ năm 2000.
+(username)	Báo cáo tên người dùng của người đang xem dự án (nếu họ đã đăng nhập vào Scratch).
+
+3.7. Khối Các phép toán (Operators blocks)
+
+Các khối Các phép toán (màu xanh lá cây) là công cụ để thực hiện các phép tính toán học (cộng, trừ, nhân, chia), so sánh logic (lớn hơn, nhỏ hơn, bằng), kết hợp điều kiện (và, hoặc) và xử lý chuỗi ký tự. Chúng cho phép tạo ra các hành vi phức tạp và logic dựa trên dữ liệu.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+(() + ())	Thực hiện phép cộng hai số.
+(() - ())	Thực hiện phép trừ hai số.
+(() * ())	Thực hiện phép nhân hai số.
+(() / ())	Thực hiện phép chia hai số.
+(pick random () to ())	Chọn một số nguyên ngẫu nhiên trong một khoảng cho trước.
+<[] > []>	So sánh xem giá trị thứ nhất có lớn hơn giá trị thứ hai không.
+<[] < []>	So sánh xem giá trị thứ nhất có nhỏ hơn giá trị thứ hai không.
+<[] = []>	So sánh xem hai giá trị có bằng nhau không.
+<<> and <>>	Trả về 'true' nếu cả hai điều kiện bên trong đều đúng.
+<<> or <>>	Trả về 'true' nếu ít nhất một trong hai điều kiện bên trong là đúng.
+not <>	Đảo ngược giá trị của một điều kiện (đúng thành sai và ngược lại).
+(join [] [])	Nối hai chuỗi ký tự hoặc số lại với nhau.
+(letter () of [])	Lấy ra ký tự ở một vị trí cụ thể trong một chuỗi.
+(length of [])	Báo cáo số lượng ký tự trong một chuỗi.
+<[] contains []?>	Kiểm tra xem chuỗi thứ nhất có chứa chuỗi thứ hai không.
+(() mod ())	Báo cáo số dư của phép chia hai số.
+(round ())	Làm tròn một số đến số nguyên gần nhất.
+([abs v] of ())	Thực hiện một hàm toán học nâng cao (giá trị tuyệt đối, căn bậc hai, sin, cos, v.v.) trên một số.
+
+3.8. Khối Biến số & Danh sách (Variables & List blocks)
+
+Biến số và Danh sách (màu cam đậm) là những công cụ cực kỳ quan trọng, cho phép chương trình lưu trữ, truy xuất và thao tác dữ liệu. Biến số dùng để lưu một giá trị đơn lẻ (như điểm số), trong khi danh sách có thể lưu trữ một tập hợp nhiều giá trị. Chúng cần thiết để tạo các ứng dụng phức tạp như trò chơi có điểm số, trình mô phỏng, hoặc bất kỳ dự án nào cần ghi nhớ thông tin.
+
+3.8.1. Các khối Biến số (Variables)
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+(variable)	Báo cáo giá trị hiện tại của một biến.
+set [ v] to ()	Đặt giá trị của một biến thành một giá trị cụ thể.
+change [ v] by ()	Tăng hoặc giảm giá trị của một biến đi một lượng nhất định.
+show variable [ v]	Hiển thị màn hình theo dõi giá trị của biến trên sân khấu.
+hide variable [ v]	Ẩn màn hình theo dõi giá trị của biến khỏi sân khấu.
+
+3.8.2. Các khối Danh sách (Lists)
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+(list)	Báo cáo tất cả các mục trong một danh sách.
+add [] to [ v]	Thêm một mục mới vào cuối danh sách.
+delete () of [ v]	Xóa một mục ở vị trí cụ thể khỏi danh sách.
+delete all of [ v]	Xóa tất cả các mục khỏi danh sách.
+insert [] at () of [ v]	Chèn một mục vào một vị trí cụ thể trong danh sách.
+replace item () of [ v] with []	Thay thế nội dung của một mục ở vị trí cụ thể bằng một giá trị mới.
+(item () of [ v])	Báo cáo giá trị của một mục ở vị trí cụ thể trong danh sách.
+(item # of [] in [ v])	Báo cáo vị trí (chỉ số) đầu tiên của một mục trong danh sách.
+(length of [ v])	Báo cáo tổng số mục có trong danh sách.
+<[ v] contains []?>	Kiểm tra xem danh sách có chứa một mục cụ thể hay không.
+show list [ v]	Hiển thị danh sách trên sân khấu.
+hide list [ v]	Ẩn danh sách khỏi sân khấu.
+
+3.9. Khối của tôi (My Blocks)
+
+Khối của tôi (màu hồng tím) là một tính năng mạnh mẽ cho phép người dùng tạo ra các khối lệnh tùy chỉnh của riêng mình. Bằng cách nhóm một chuỗi các lệnh thường dùng vào một khối duy nhất, bạn có thể làm cho mã nguồn trở nên gọn gàng, dễ đọc, dễ bảo trì và có thể tái sử dụng trong nhiều phần của dự án.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+define custom block	Khối "Mũ" dùng để định nghĩa một khối tùy chỉnh mới. Các lệnh được đặt bên dưới khối này sẽ là nội dung được thực thi khi khối tùy chỉnh được gọi.
+custom block	Khối "Chồng" dùng để gọi và thực thi khối tùy chỉnh đã được định nghĩa ở trên.
+(custom reporter)	Khối "Báo cáo" tùy chỉnh, được tạo ra để thực hiện một loạt tính toán và trả về một giá trị.
+<custom boolean>	Khối "Logic" tùy chỉnh, được tạo ra để kiểm tra một hoặc nhiều điều kiện và trả về giá trị đúng (true) hoặc sai (false).
+
+Ngoài các khối lệnh cốt lõi này, Scratch còn cung cấp một hệ thống mở rộng mạnh mẽ để kết nối với các dịch vụ và phần cứng bên ngoài, chúng ta sẽ khám phá chúng trong phần tiếp theo.
+
+4. Phân tích các Khối Lệnh Mở rộng (Extensions)
+
+Các phần mở rộng trong Scratch 3.0 cung cấp các bộ khối lệnh bổ sung, mở rộng đáng kể khả năng của Scratch. Chúng cho phép các dự án tương tác với thế giới vật lý thông qua các thiết bị phần cứng như LEGO, micro:bit, hoặc khai thác các dịch vụ web và công nghệ tiên tiến như tổng hợp giọng nói, dịch thuật và cảm biến video.
+
+4.1. Mở rộng Âm nhạc (Music Extension)
+
+Phần mở rộng này cho phép người dùng chơi các nốt nhạc MIDI và tạo ra giai điệu bằng các loại nhạc cụ khác nhau.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+play drum ( v) for () beats	Chơi một loại trống cụ thể trong một số phách nhất định.
+rest for () beats	Dừng (nghỉ) trong một số phách nhất định.
+play note () for () beats	Chơi một nốt nhạc cụ thể trong một số phách nhất định.
+set instrument to ( v)	Chọn một loại nhạc cụ (ví dụ: Piano, Guitar) để sử dụng cho các khối chơi nhạc.
+set tempo to ()	Đặt tốc độ (nhịp độ) của nhạc thành một giá trị cụ thể (nhịp mỗi phút).
+change tempo by ()	Tăng hoặc giảm tốc độ của nhạc một lượng nhất định.
+(tempo)	Báo cáo giá trị tốc độ (nhịp độ) hiện tại.
+
+4.2. Mở rộng Bút vẽ (Pen Extension)
+
+Phần mở rộng Bút vẽ cho phép các đối tượng vẽ trực tiếp lên sân khấu khi chúng di chuyển, tạo ra các hình dạng, mẫu vẽ và hiệu ứng hình học.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+erase all	Xóa tất cả các nét vẽ trên sân khấu.
+stamp	In hình ảnh của đối tượng (trang phục hiện tại) lên sân khấu tại vị trí hiện tại.
+pen up	Nhấc bút lên, đối tượng sẽ không vẽ khi di chuyển.
+pen down	Hạ bút xuống, đối tượng sẽ để lại một vệt vẽ khi di chuyển.
+set pen color to ()	Đặt màu của bút vẽ thành một màu cụ thể.
+change pen ( v) by ()	Thay đổi một thuộc tính của bút (màu, độ bão hòa, độ sáng, độ trong suốt) một lượng nhất định.
+set pen ( v) to ()	Đặt một thuộc tính của bút thành một giá trị cụ thể.
+change pen size by ()	Thay đổi độ dày của nét vẽ một lượng nhất định.
+set pen size to ()	Đặt độ dày của nét vẽ thành một giá trị cụ thể.
+
+4.3. Mở rộng Cảm biến Video (Video Sensing Extension)
+
+Phần mở rộng này sử dụng webcam của máy tính để cho phép các dự án tương tác với chuyển động trong thế giới thực.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+when video motion > ()	Kích hoạt kịch bản khi lượng chuyển động trong video vượt qua một ngưỡng nhất định.
+(video ( v) on ( v))	Báo cáo lượng chuyển động hoặc hướng chuyển động trên một đối tượng hoặc toàn bộ sân khấu.
+turn video ( v)	Bật, tắt, hoặc bật với hiệu ứng lật ngược video từ webcam.
+set video transparency to ()	Đặt độ trong suốt của hình ảnh video hiển thị trên sân khấu.
+
+4.4. Mở rộng Dịch (Translate Extension)
+
+Phần mở rộng này cho phép dịch văn bản từ ngôn ngữ này sang nhiều ngôn ngữ khác bằng cách sử dụng dịch vụ web.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+(translate () to ( v))	Dịch một chuỗi văn bản sang một ngôn ngữ được chỉ định.
+(language)	Báo cáo ngôn ngữ hiện tại của trình duyệt người dùng.
+
+4.5. Mở rộng Chuyển văn bản thành giọng nói (Text to Speech Extension)
+
+Phần mở rộng này cho phép dự án đọc to văn bản bằng giọng nói được tổng hợp.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+speak ()	Đọc to một chuỗi văn bản.
+set voice to ( v)	Chọn một loại giọng đọc (ví dụ: giọng cao, giọng trầm, giọng mèo con).
+set language to ( v)	Đặt ngôn ngữ cho giọng đọc.
+
+4.6. Mở rộng Makey Makey
+
+Phần mở rộng này cho phép các dự án tương tác với bộ kit Makey Makey, biến các vật dẫn điện hàng ngày thành phím bấm.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+when ( v) key pressed	Kích hoạt kịch bản khi một phím trên Makey Makey (ví dụ: mũi tên, space) được nhấn.
+when ( v) pressed in order	Kích hoạt kịch bản khi một chuỗi các phím được nhấn theo đúng thứ tự.
+
+4.7. Mở rộng micro:bit
+
+Phần mở rộng này cho phép Scratch kết nối và điều khiển bo mạch micro:bit, một máy tính nhỏ có thể lập trình với đèn LED, nút bấm và cảm biến.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+when ( v) button pressed	Kích hoạt kịch bản khi nút A hoặc B trên micro:bit được nhấn.
+<( v) button pressed?>	Kiểm tra xem nút A hoặc B có đang được nhấn hay không.
+when ( v)	Kích hoạt kịch bản khi micro:bit được di chuyển, lắc, hoặc nhảy.
+display ()	Hiển thị một mẫu hình ảnh trên màn hình LED 5x5 của micro:bit.
+display text ()	Hiển thị một chuỗi văn bản chạy trên màn hình LED.
+clear display	Tắt tất cả đèn LED trên màn hình.
+when tilted ( v)	Kích hoạt kịch bản khi micro:bit bị nghiêng về một hướng cụ thể.
+tilted ()?	Kiểm tra xem micro:bit có đang bị nghiêng về một hướng cụ thể không.
+(tilt angle ( v))	Báo cáo góc nghiêng (trước-sau hoặc trái-phải) của micro:bit.
+when pin ( v) connected	Kích hoạt kịch bản khi một chân (pin) trên micro:bit được kết nối (chạm vào).
+
+4.8. Mở rộng LEGO MINDSTORMS EV3
+
+Phần mở rộng này cho phép điều khiển robot LEGO MINDSTORMS EV3, bao gồm động cơ, cảm biến và phát âm thanh.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+motor ( v) turn this way for () seconds	Quay một động cơ theo một hướng trong một khoảng thời gian nhất định.
+motor ( v) turn that way for () seconds	Quay một động cơ theo hướng ngược lại trong một khoảng thời gian nhất định.
+motor ( v) set power ()%	Đặt công suất (tốc độ) của một động cơ.
+(motor ( v) position)	Báo cáo vị trí góc quay hiện tại của một động cơ.
+when button ( v) pressed	Kích hoạt kịch bản khi một nút trên khối gạch EV3 được nhấn.
+when distance < ()	Kích hoạt kịch bản khi cảm biến khoảng cách phát hiện vật cản gần hơn một khoảng cách cho trước.
+when brightness < ()	Kích hoạt kịch bản khi cảm biến ánh sáng phát hiện độ sáng thấp hơn một ngưỡng nhất định.
+button () pressed?	Kiểm tra xem một nút trên khối gạch EV3 có đang được nhấn không.
+(distance)	Báo cáo khoảng cách mà cảm biến đo được.
+(brightness)	Báo cáo độ sáng mà cảm biến đo được.
+beep note () for () secs	Phát một nốt nhạc từ loa của khối gạch EV3.
+
+4.9. Mở rộng LEGO BOOST
+
+Phần mở rộng này cho phép tương tác với bộ kit robot LEGO BOOST, điều khiển động cơ, cảm biến màu sắc và độ nghiêng.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+turn motor ( v) for () seconds	Quay một động cơ trong một khoảng thời gian nhất định.
+turn motor ( v) for () rotations	Quay một động cơ một số vòng quay nhất định.
+turn motor ( v) on	Bật một động cơ và để nó chạy liên tục.
+turn motor ( v) off	Tắt một động cơ.
+set motor ( v) speed to ()%	Đặt tốc độ của một động cơ.
+set motor ( v) direction ( v)	Đặt hướng quay của một động cơ.
+(motor ( v) position)	Báo cáo vị trí góc quay hiện tại của một động cơ.
+when ( v) brick seen	Kích hoạt kịch bản khi cảm biến màu sắc nhìn thấy một viên gạch LEGO có màu cụ thể.
+seeing ( v) brick?	Kiểm tra xem cảm biến có đang nhìn thấy một viên gạch màu cụ thể không.
+when tilted ( v)	Kích hoạt kịch bản khi robot bị nghiêng về một hướng.
+(tilt angle ( v))	Báo cáo góc nghiêng của robot.
+set light color to ()	Đặt màu cho đèn LED trên hub BOOST.
+
+4.10. Mở rộng LEGO Education WeDo 2.0
+
+Phần mở rộng này cho phép điều khiển các thành phần trong bộ kit LEGO Education WeDo 2.0, bao gồm động cơ, cảm biến và đèn.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+turn ( v) on for () seconds	Bật động cơ trong một khoảng thời gian nhất định.
+turn ( v) on	Bật động cơ và để nó chạy liên tục.
+turn ( v) off	Tắt động cơ.
+set ( v) power to ()	Đặt công suất (tốc độ) của động cơ.
+set ( v) direction to ( v)	Đặt hướng quay của động cơ.
+set light color to ()	Đặt màu cho đèn LED.
+when distance ( v) ()	Kích hoạt kịch bản khi khoảng cách đo được lớn hơn hoặc nhỏ hơn một giá trị.
+when tilted ( v)	Kích hoạt kịch bản khi cảm biến bị nghiêng về một hướng.
+(distance)	Báo cáo khoảng cách mà cảm biến đo được.
+tilted ( v)?	Kiểm tra xem cảm biến có đang bị nghiêng về một hướng không.
+(tilt angle ( v))	Báo cáo góc nghiêng của cảm biến.
+
+4.11. Mở rộng Go Direct Force & Acceleration
+
+Phần mở rộng này cho phép tương tác với cảm biến lực và gia tốc Go Direct của Vernier, thu thập dữ liệu khoa học trong thế giới thực.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+when ()	Kích hoạt kịch bản khi cảm biến bị lắc.
+when force sensor ()	Kích hoạt kịch bản khi cảm biến lực được đẩy hoặc kéo.
+(force)	Báo cáo giá trị lực đo được.
+when tilted ()	Kích hoạt kịch bản khi cảm biến bị nghiêng về một hướng.
+tilted ()?	Kiểm tra xem cảm biến có đang bị nghiêng không.
+(tilt angle ())	Báo cáo góc nghiêng của cảm biến.
+falling?	Kiểm tra xem cảm biến có đang ở trạng thái rơi tự do không.
+(spin speed ( v))	Báo cáo tốc độ quay của cảm biến theo một trục.
+(acceleration ( v))	Báo cáo gia tốc của cảm biến theo một trục.
+
+4.12. Các Mở rộng chỉ dành cho Raspberry Pi
+
+Các phần mở rộng này chỉ có sẵn trên phiên bản Scratch được cài đặt trên máy tính Raspberry Pi, cho phép tương tác trực tiếp với các chân GPIO và các phụ kiện như Sense HAT.
+
+Mở rộng Raspberry Pi GPIO
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+when gpio () is ()	Kích hoạt kịch bản khi một chân GPIO có trạng thái cao (high) hoặc thấp (low).
+gpio () is ()?	Kiểm tra xem một chân GPIO đang ở trạng thái cao hay thấp.
+set gpio () to output ()	Đặt một chân GPIO ở chế độ đầu ra và thiết lập trạng thái cao hoặc thấp.
+set gpio () to input ()	Đặt một chân GPIO ở chế độ đầu vào.
+
+Mở rộng Raspberry Pi Sense HAT
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+display text ()	Hiển thị văn bản chạy trên ma trận LED 8x8 của Sense HAT.
+display character ()	Hiển thị một ký tự duy nhất trên ma trận LED.
+display ()	Hiển thị một mẫu hình ảnh trên ma trận LED.
+display sprite	Hiển thị hình ảnh của đối tượng trên ma trận LED.
+display stage	Hiển thị hình ảnh của sân khấu trên ma trận LED.
+clear display	Tắt tất cả các đèn LED.
+set colour to ()	Đặt màu mặc định cho các khối hiển thị.
+set background to ()	Đặt màu nền cho ma trận LED.
+set pixel x () y () to ()	Đặt màu cho một pixel cụ thể trên ma trận LED.
+set rotation to () degrees	Xoay hướng hiển thị trên ma trận LED.
+when joystick pushed ()	Kích hoạt kịch bản khi cần điều khiển joystick được đẩy theo một hướng.
+joystick pushed ()?	Kiểm tra xem joystick có đang được đẩy theo một hướng không.
+when shaken	Kích hoạt kịch bản khi Sense HAT bị lắc.
+when tilted ()	Kích hoạt kịch bản khi Sense HAT bị nghiêng.
+(temperature)	Báo cáo nhiệt độ môi trường.
+(pressure)	Báo cáo áp suất không khí.
+(humidity)	Báo cáo độ ẩm.
+(roll)	Báo cáo góc quay roll của Sense HAT.
+(pitch)	Báo cáo góc quay pitch của Sense HAT.
+(yaw)	Báo cáo góc quay yaw của Sense HAT.
+
+Mở rộng Raspberry Pi Simple Electronics
+
+Phần mở rộng này cung cấp các khối lệnh cơ bản để tương tác với các linh kiện điện tử đơn giản như nút bấm và đèn LED được kết nối với các chân GPIO của Raspberry Pi.
+
+Tên Khối - Tiếng Anh	Chức năng và Diễn giải - Tiếng Việt
+when button () is ()	Kích hoạt kịch bản khi một nút bấm được kết nối với một chân GPIO cụ thể được nhấn hoặc thả ra.
+button () is ()?	Kiểm tra xem một nút bấm cụ thể có đang ở trạng thái được nhấn hay không.
+turn LED () ()	Bật hoặc tắt một đèn LED được kết nối với một chân GPIO cụ thể.
+toggle LED ()	Đảo ngược trạng thái của một đèn LED (nếu đang bật thì tắt, và ngược lại).
+
+5. Kết luận
+
+Hệ thống khối lệnh của Scratch thể hiện một triết lý thiết kế mạnh mẽ và linh hoạt. Từ những khối Chuyển động cơ bản đến các khối Mở rộng phức tạp cho phép tương tác với phần cứng, Scratch cung cấp một bộ công cụ toàn diện cho việc sáng tạo. Bằng cách tìm hiểu và kết hợp các khối lệnh từ các danh mục khác nhau, người dùng ở mọi lứa tuổi và trình độ có thể biến ý tưởng của mình thành hiện thực, tạo ra vô số dự án sáng tạo, từ hoạt hình đơn giản, câu chuyện tương tác đến các trò chơi phức tạp và các ứng dụng kết nối với thế giới thực.
+
+Cách tốt nhất để làm chủ các khối lệnh này là thông qua thực hành. Chúng tôi khuyến khích bạn hãy bắt tay vào thử nghiệm, lắp ghép, và khám phá sự kết hợp của các khối lệnh khác nhau để giải phóng toàn bộ tiềm năng sáng tạo mà Scratch mang lại.

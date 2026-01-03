@@ -1,0 +1,2325 @@
+﻿HÓ Sĩ ĐÀM (Tổng Chủ biên) - HÓCẦM HÀ (Chủ biên) PHẠM ĐẦNG HÁI - NGUYỄN ĐÌNH HOÁ NGUYỄN NGUYÊN HƯƠNG - NGUYỄN THANH TÚNG
+BẢN MẪU
+ĩ	CÔNG TY có PHẤN ĐÃU Tư
+'ePỄC XUÁT BẢN -THIẾT BI GIÁO DUC VIÊT NAM
+CÁC CHỦ ĐỀ
+Máy tinh và cộng đòng
+Tổ chức lưu trử. tim kiềm vã trao đỏi thông tin
+Đạo đức, pháp luật và văn hoá trong môi trường số
+ửng dụng tin học
+Giái quyẻt vân đè
+VỚI sự trợ giúp cùa máy tinh
+Hướng nghiép với tin hoc
+KI HIEU DUNG TRONG SACH
+Khỏi dộng
+Hoạt dõng
+Luyện tập
+Vận dung
+Cau hỏi tụ kiểm tra
+Mgo
+Các em ghì gìn sách cần thận, không viết vào sách để sù (lụng đuợc làu (lài.
+LỜI NÓI ĐẨU
+Các em thản mến?
+Quyển sách Tin học 8 tièp tục giúp các em tim hiểu, khám phá thẻ giới còng nghệ sổ. một còng nghệ đã đem đèn những thay đổi ki diệu trong nền vân minh cùa loài người. Qua nhung chù để quen thuộc, các em sẽ có được thêm những kiến thức và kĩ nãng tin học cũng như khả năng vận dụng ngay những hiểu biết mới vào trong học tập và cuộc sống.
+Mỗi chù đề gồm các bài học. Ở đau mỗi bài học đểu nêu những yêu cầu mà các em cần đạt được sau khi hoàn thành bài học, bài thực hành. Tiêp theo là hoạt động Khởi dộng và các nội dung kiến thức mới; sau đó có nlìững câu hỏi, bài tạp để các em Luyện tạp. Vận dụng Cuối mỗi bài học là Cân hỏi tự kiềm tra và Tóm ĩằĩ bài học. Một sổ bài học còn có Bài dọc thêm, các em sẽ tim thấy ở đày một sồ điểu 11 thú dẻ mờ rộng tầm hiều biết cùa minh. Mỗi bài thục hành nêu các nhiệm vụ với yêu cầu cụ thể. Các em tự thực hiện theo hướng dẫn trong bài. Nếu có khó khăn, các em nhờ thầy/cô giáo trợ giúp.
+NỘI dung các bài học tiong quyền sách này đã được lựa chọn kĩ lưỡng đế giúp các em đạt được yêu cầu cùa Chương trinh mòn Tin học, phát triển được các phẩm chàt chù yếu và năng lực cổt lõi.
+Chúc các em húng thủ VỚI những bài học và có được nhiều niềm vui tu những sàn phẩm sỏ do các em tạo ra trong năm học mới.
+Các tác già
+MỤC LỤC
+Trang
+CHỦ ĐẺ A. MÁY TÍNH VÀ CỘNG ĐỎNG Sơ LƯỢC VÊ LỊCH SỪ PHAT TRIÉN MÁY TĨNH	5
+Bài 1. Vài nét lịch su phát triền máy tinh	5
+Bái 2. Vài nét lịch sít phát triển máy tinh (ticp theo)	8
+CHỦ ĐẾ c. TÓ CHỨC Lưư TRỮ, TỈM KI ÉM V À TRAO ĐÓI THÔNG TIN ĐẶC ĐIỀM CỦA THÔNG TIN TRONG MÔI TRƯỜNG SỐ THÔNG TIN VƠI GIẢI QƯYÉT VẮN DỀ	10
+Bái 1. Dữ liệu sổ trong thoi đại thông tin	10
+Bài 2. Khai thác thông tin số trong các hoạt động kinh tẻ xă hội	13
+Bài 3. Bài tập nhóm: Thông tin với giãi quyết vấn đề	16
+CHÌ ĐẺ D. ĐẠO ĐỨC, PHÁP LUẬT VÀ VẢN HOÁ 1R0NG MÔI TRƯỜNG SÓ ĐẠO ĐỨC VÀ VẢN HOÁ TRONG SỪ DỤNG CÒNG NGHÊ KĨ THUẬT SÔ	19
+Bai học. Sũ dụng công nghệ kĩ thuật số có đạo đức và văn hoá	19
+CHỦ ĐẺ E. ỨNG DỤNG TIN HỌC El. xừ Lí VÀ TRỰC QUAN HOÁ Dữ LIỆU BẰNG BẢNG TÍNH DIỆN TỪ	22
+Bãi 1. Lọc dữ liệu	22
+Bái 2. Sắp xép dữ liệu	26
+Bai 3. Biêu đồ trong phân mềm bàng tinh	29
+Đài 4. Thục hành tạo biền đồ	32
+Bái 5. Các kiều địa chi trong Excel	35
+Bái 6. Thục hành tồng họp	38
+E2. SOẠN THẢO VÃN BẢN VÀ PHÀN MÈM TRINH CHIÊU NÂNG CAO	40
+Bai 1. Xú lí đô hoạ trong văn băn	40
+Bài 2. Thục hành xũ li đô hoa trong văn bản	44
+Bái 3. Danh sách hệt kè và tiêu đè trang	45
+Bái 4. Thực hành tạo danh sách liệt kẻ và tiêu để trang	49
+Trang
+Bãi 5. Thực hanh tồng họp	51
+Đài 6. Sù dụng các bàn mầu trong tạo bái trinh chiếu	52
+Bài 7. Thực hànli sủ dụng bản mầu	55
+Bài 8. Kêt nối đa phuong tiên và hoán thiện trang chiếu	57
+Đài 9. Thực hanh tống họp	60
+E3. LAM QUEN VÓI PHÁN MÊM CHÌNH SƯA ẢNH	61
+Bài 1. Làm quen vói phần mềm GIMP	61
+Bài 2. Vùng chọn và úng dung	64
+Bái 3. Thục hanh vối vùng chọn	68
+Bái 4. Lớp ảnh	70
+Bài 5. Thực hành làm việc vói lóp ảnh và vũng chọn	73
+Bãi 6. Thêm chít vào ánh	75
+Bài 7. Thục hành tổng họp	78
+Bãi 8. Tạo sàn phẩm theo nhom	80
+CHỦ ĐÈ E GIẢI QUYẾT VÁN ĐẺ VỚI Sự TRỢ GIÚP CỦA MÁY TÍNH LẬP TRÌNH TRỰC QUAN	82
+Bài 1. Thê hiện cấu trúc tuần tụ trong chuông trinh	82
+Đài 2. Sù dụng biển trong chuông trinh	85
+Bài 3. Sù dụng biền thức trong chuông trinh	88
+Bài 4. The hiện cấu tnìc re nhanh trong chuông trinh	92
+Bài 5. Thè hiện cấu trúc lặp trong chuông trúil)	96
+Bái 6. Thực hanh tim vã sùa lỗi	99
+Bái 7. Thục hành tồng họp	102
+CHỦ ĐẺ G. HƯỚNG NGHIỆP VỚI TIN HỌC TIN HỌC VÀ NGÀNH NGHÊ	105
+Bài 1. Tin học và úng dụng	105
+Bái 2. Tin học và cac ngành nghề	108
+4
+Học xong bài này, ern sẽ:
+Trình bày được sơ lươc lịch sử phát tnển máy tính.
+(!)
+Em có nhận xét gi vè sự phát triền của máy tính khi so sánh hình ành máy tinh điện tử ENIAC (Hình ỉ) với máy tinh bâng mòng nhẹ hiện nay9
+1.	Vài nét về các máy tính điện cơ và kiến trúc Von Neumann
+Theo em, VI sao chiếc máy tính em dùng lại được gọi là máy tinh điện tử?
+Một trong nhũng máy tinh cơ học đàu tiên cua loài người có tén là “Pascaluie” do nhà khoa học Blaise Pascal (người Pliap) sáng chè ra, klu ỏng clù mới 19 tuỏi (năm 1642). Mặc dù máy Pascaline chì thực hiện được phép cộng và phép trữ nhưng nó đã mỡ ra một giai đoan mới ưong lịch sử tinh toán vã lịch sử pliát triên của máy tinh.
+Khoảng năm 1820, nhà pliát minh Charles Xavier Thomas (người Pháp) chê tạo thanh còng máy tinh cơ học thực luện các phép tinh cộng. ưứ. nhàn và clua. Đen thàp niên 1900, các máy tinh cơ học trước đó đã được thièt kè lại đè sừ dụng mò tơ điện.
+Khoảng năm 1944, nhà toán học Jolm von Neumann (người Mỹ) công bò đè xuât vẻ nguyên lí hoạt động theo chương trinh của máy tính điện tử, chương trinh được hru trữ trong bộ nhớ như những dữ liệu khác. Nguyên lí Von Neumann đã đặt nèn móng cho sự phát triẻn máy tinh điện từ, hàu như tât cà các kiên trúc máy tinh ngày nay đêu dựa trên nguyên li này.
+Lích sử phát trién máy tinh đã tiải qua nluẻu giai đoạn. Những máy tính xuât lnẻn trong ciuig một giai đoạn được COI là cùng một thế hệ.
+5
+2.	Các thế hệ máy tính
+a)	Thế hệ thử nhất
+Các máy tinh ra đời trong khoáng những năm tir 1945 đèn 1955, vi dụ như ENIAC, IBM-701,... là những máy tinh thè hệ thử nhất.
+Máy tinh thè hè này sử dụng òng chân không hoặc van nhiệt điện; đàu vào dùng thé đục lò và băng giày; kẻt quà dược in ra giày. Với đặc diêm như vậy, các máy tinh cỏ kích thước ràt lớn, tiêu thu nhiêu điện, klu hoạt động toà ra nhỉẻu nhiệt lượng vã không đàm bão kèt quà luôn đáng tin cậy.
+Năm 1945, máy tinli ENIAC (Elecboiuc Numencal Inteigrator and Computer)
+được hoàn thành tại Đại học Pennsylvania,	Hinh 1- Mày tinh ENIAC
+Hoa Kỳ, đánh dâu sự ra đời cùa máy tinh điện tử ki thuật sò (Hình 1).
+b)	Thể hệ thú hai
+Khoáng những năm tir 1955 dẻn 1965 là giai đoạn tliẻ hệ máy tinh tliử hai. Các máy tính IBM 1620, ƯNIVAC 1108,... đểu là vi dụ cho thế hệ này.
+Máy tinh thê hè thư hai sử diuig còng nghè bóng ban dan và lõi tir (magnetic core). VỚI đặc đièm đó, các máy tinh cỏ kích thước nhỏ hơn, tiẻu tliụ ít điện năng và toà nhièt ít hơn, tinh toán đáng tm cậy và nhanh hơn.
+Các máy tinh sứ dụng công nghè bán dẫn không chi phat tnên hơn vè CPU mà cỏn phát triẻn hơn ở thiết bi ngoại vi. Nãm 1956, RAMAC IBM 350 ra đời, đánh dâu sự xuât hiện của máy tính có ỏ đĩa
+c)	Thế hệ thứ ba
+Sự bìuig nô sừ diuig máy tinli nhờ sự phát triẻn của các máy tinh thẻ hệ thử ba, vào những năm từ 1965 đèn 1974. Các máy tinh IBM-360, Honeywell-6000,... lã các vi du cho máy tinh thuộc giai đoạn này.
+Máy tính thè hè thứ ba sừ dung còng nghè mạch tích hợp (IC). Một VI mạch duy nhàt chửa nhiêu bỏng bán dan, kích thước cùa các máy tinh hờ nèn nhò hơn, tiêu thụ ít điện nâng hơn, toà ra ít nhiệt hơn, tinh toán nhanh hơn và chi phi bào hi cũng thàp hơn.
+Máy tinh cá nhàn ra đời vào năm 1971. Kẻ tir đó, máy tinh cá nhàn ngày càng trờ nẻn thông dụng.
+d)	Thế hệ thứ tư
+Thê hệ máy tinh thử tư thuộc vào khoáng những năm tir 1974 đèn 1989. cỏ tliê nêu vi dụ là các máy tinh DEC 10, SAO 1000, PDP 11,... và sièu máy tinh CRAY-X-MP.
+6
+Mảy tinh thè hệ này sử dỊing còng nghè tich hợp quy mò rất lớn. gồm hàng trăm nghìn thành phàn trên một chip Silicon duy nhàt Máy tinh thê hệ thứ tu có kích thước ràt nhò và trờ nên di động được, dè sír dung, chạy nhanh và đáng tin cậy hơn. Giá thanh sân xuất máy tinh cá nhân giâm xuống rất thấp nên 111 liêu người có thẻ mua đẽ sừ dụng.
+Năm 1981, mây tinh Osbome 1 (Hinh 2) nặng gàn
+Hình 2. Mây tinh Osbome ỉ
+11 kg ra đời, danh dâu sự xuất hiện cùa máy tinh có thè xách tay được.
+e)	Thê hệ thú năm
+Tuy cỏn có các ý kiên khác nhau, nhung đa sò cho răng thè hệ máy tinh thứ năm thuộc giai đoạn khoang tìr năm 1990 đèn nay.
+Máy tinh thè hệ náy được chè tạo dựa tiên còng nghệ tích hợp vượt trội hơn hãn thê hệ trước, các cliip vi xử li có 111 liêu triệu 111111 kiện điện tử. Chúng được đặc trung bời khâ năng xử li song song của phàn cứng và phàn mém Trí tuệ nhân tạo (AI).
+Sự ra đời cùa điện thoại thòng minh lã một dâu mỏc lịch sử trong phát triên máy 111111. Năm 1992, hãng IBM tao ra chiêc diện thoai thòng minh IBM Simon và bán ra tiu trường vào năm 1994. Tháng 6 năm 2007, sự kiện điện thoai iPhone cua hãng Apple được bán tại Mỹ cũng là một thanh tựu có tinh lịch sử
+Dược phát m 11111 đẻ tinh toán khoa học, tư một cò máy lớn, máy tính điện tư nhó dân đi nhung làm việc nhanh hơn nhièu và trờ thành còng cụ cá nhàn
+^* Hãy cho biết, theo lịch sử phát triển, máy tính thay đổi như thè nào vè
+1)	Kích thước; 2) Điện năng tiêu thu; 3) Tòc độ tinh toán.
+u Theo em, máy tinh thu nhỏ dàn kích thước tời mức như một điện thoại thòng minh thi có ưu điẻm gi. có nhược điém gi?
+Câu 1. Hây liệt kê các thế hệ máy tinh vã công nghệ điện tử tương ửng.
+Câu 2. Vì sao máy tính cá nhân ngày càng trở nén thông dụng?
+Câu 3. Điện thoại thông minh iPhone là thương hiệu của hãng nào? Lần đầu được bán tại nước não, vào nam não?
+TÓM TẤT BÀI HỌC
+Lịch sử phát triẻn máy tinh đã ghi nhận cỏ năm thẻ hệ máy tinh kè tiẻp nhau. Tìr một cô máy lớn. đãt tiên nhung chì có khã nang thực hiện vài nghìn phép tinh một giây vào buôi ban đàu, hiện nay máy tính điện từ nhỏ gọn hơn nhiéu làn và thực hiện đirợc vài trăm tì phép tinh trong một giày.
+7
+(!)
+
+Iỉ ọc xong bài này, em sẽ:
+•	Nêu được một số thành tựu phát triển cùa giao tiếp người - máy tính.
+•	Nẻu được ví dụ về sự phát triển máy tính đã đem đến những thay đổi lớn lao cho xã hội loài người.
+Theo em, tại sao có thẻ nói sự phát triền máy tinh đã đem đên những thay đôi lờn lao cho xã hội loài người?
+1	. Giao tiếp nguôi - máy tính ngày càng tiện lọi hon
+Máy tinh tliế hệ thử nhất dìmg băng đục lỗ, bia đục lò (Hình Ị). Kẻt quà tinh toán được in ra dưới dạng chữ sỏ trên băng giày.
+Năm 1984, máy tính Macintosh dùng hệ diên hành với giao tièp đò hoạ và chuột máy tinh.
+Thao tác chạm vuòt băng đàu ngón tay vừa tiện vừa nhanh hơn dùng chuột. Màn hình cảm ừng ra đời là một thành tựu trong giao tièp người - mây tính
+Hìĩitỉ 1. Bìa đạc ỉỗ
+Các công cụ giao tiêp người - máy tinh ngày câng phát triẻn VỚI cãc còng nghệ mới, hiện đại, tiện diuig cho người dùng máy tinh điện từ. Ví dụ: chuyên trang vãn bân in thành văn bàn sỏ hoá; chuyên tiêng nói thành vãn bân sò hoả. Việc ra lệnh cho máy tinh băng tiêng nói đã thành hiện thực.
+2. Máy tính và cuộc sổng con người
+Hày cho biết máy tinh mang lại những lợi ích gi trong việc học tập của em và trong việc giảng dạy của các thày/cô.
+Máy tính giúp trao đôi thông tin, giao tiêp xã hội
+Ngày nay, ít ai còn câm bút viẻt thư gửi qua bưu điện. Những con tem chì còn danh cho người chơi tem Tin nhãn, thư điện tử, chat, các mạng xã hội, hội nghị trực tuyên,... trờ thành phương tiện giao tiêp hăng ngày
+8
+Máy tính giúp học tập, nâng cao trình độ, bồJ dưỡng kiến thức
+Ngày nay, muôn tim hièu một thòng tin ta chì càn biẻt dùng máy tim kiêm là nhanh chóng có được càn trà lời từ Internet. Internet là nguôn tri thức không lô vẻ mọi lình vực, sẵn sàng cung cấp cho tất câ mọi người.
+Máy tinh đã tạo bước ngoặt lớn trong lĩnh vực giáo dục và đào tạo. Các trường học đèn có kẻt nòi Internet, có phòng máy tính; tiên tiên hơn là có các phòng học thòng minh. Máy tinh bàng sẽ thay thê những chiêc cặp đựng nặng sách vờ. Nhiêu trường đại học có phương thức đào tạo tìr xa.
+Các dịch vụ và tiện ích khác của máy tính
+Máy tinh giúp con người điêu khiên máy bay, tàn thuyên, ò tò. Ưng dụng bàn đò và định vị toàn càn GPS (Global Positioning System) giúp ta tim đường đi và đã trờ thành tiêu chuàn trang bị cho ộ tò đời mới. Máy tinh kiêm soát ra vào và giám sát an ninh nơi còng cộng bang hè thòng camera.
+May tinh giúp nàng cao hiện quà chăm sóc sức khoẻ của người dãn. Nhiêu tlnèt bi y tè đươc điêu khiên băng máy tính, đòng hò thòng minh giúp theo dõi sưc khoẽ mọi lúc, mọi nơi.
+Bài 1. Em hãy giới thiệu sơ lươc vê sự phát triên tiện ích giao tiép ngươi - máy tinh. Bài 2. Em hãy nêu một vài vi dự vẻ sự phát triên của máy tinh đã tạo nên bước ngoặt lờn trong 111111 vực giao dục và đào tạo, giúp mọi người có thẻ học mọi lúc mọi nơi và học suôt đời.
+O Khi đi du lịch cìuig VỚI gia đinh đến một thanh phố ở địa phương khác và cần tim đường đèn một bảo tàng nhung chưa có địa chì chinh xác, em chọn làm theo cách nào dưới đày và giài thích li do?
+1)	Hôi người dàn gặp trên đường.
+2)	Tra cứu và tìm đường băng điện thoại thòng minh.
+1 ®^|
+10X
+Câu 1. Với máy tính thế hệ thử nhất, giao tiếp người - máy tính thực hiện bàng phương tiện gi?
+Câu 2. Hãy kê một vài dịch vụ và tiện ích mà máy tính mang lại cho con người trong lĩnh vực giao thông, chãm sóc sức khoẻ.
+TÓM TÁT BÀI HỌC
+❖	Giao tièp người máy tinh ngày cang thuận tiện: tư dùng băng, bia đục lò, gò từng dỏng lênh đèn dùng chuột hay chạm đâu ngón tay.
+❖	Máy tinh thay đòi cuộc sông của con người trong lao động vã học tập, trong sinh hoạt và giải tri.
+9
+
+Bỹ/!ỈLÊl^WWôĩrâĐẠỊjW^
+Học xong bài này, eni sẽ:
+• Nêu được các đặc điềm của thông tin sổ.
+. Nẻu được ví dụ minh hoạ việc sử dụng công cụ tìm kiếm, xử lí và trao đồi thông tin trong môi trường sổ.
+(!)
+Em lìãy kè một sò VI dụ vè thòng tin sỏ và cho biẻt nó có ờ đàu.
+1.	Nhũng đậc điểm cua thông tin số
+Các em đã bièt, “dữ liệu sỏ hoá” (gọi ngăn gọn lã “dữ liệu sỏ”) là tên gọi chung cho dữ liệu đã được chuyển thành dãy bit đẽ máy tinh cỏ thè xù lí. Ngày nay, có nhiêu tluẻt bị thu thập và chuyên đòi thông tin thánh các dạng sỏ nhu camera sò, glu àm sỏ, máy scan sò,... Thòng tin sỏ là nội dung mà dữ liệu sò mang lại cho con người. Thòng tin số gắn liền VỜI dữ liệu sổ. Hằng ngày, cỏ nhiều trường hợp ta thường không phàn biệt “thông tin sò” VỚI “dữ liệu sò” b ong cách nói. Tuy nhiên, tìr “thông tin” thương dược dùng khi muôn nhân mạnh khia cạnh nội dung và từ “dữ liệu” thường được dùng khi nhân mạnh khia cạnh hình thức thè hiện, dung lượng lưu trữ. phương thức truyên tài,...
+Thông tín sô chiếm ti ìệ rât lán. Các còng cụ công nghệ thông tin và truyên thông giúp thu thập, lưu trữ, xử 11 và truyèn dữ liệu sò rât tiện lợi VỚI tỏc độ nhanh. Hiện nay, VỜI sự phát triển nhanh chỏng của các thiết bi sổ và cãc chương trinh sổ hoá thông tin cùa các quôc gia trên thẻ giới, dữ liệu sô nhiêu hơn hãn so với dữ liệu được lưu trữ theo cách truyên thông.
+'Thông tin sô được tạo ra VỚI tôc độ ngày càng tàng. Thòng tin sò có tư nhiêu nguôn. Internet là kho dữ liệu sò không lỏ và thường xuyên dược cập nhật Bàt cử ai
+10
+VỚI một cluêc diên thoại thòng minh cung có thê chụp ảnh, vièt bài đăng lèn mạng xã hội mọi lúc, mọi nơi. Ngoài ra, còn có:
+-	Thiết bị thu nhàn thòng tin tụ động: camera giám sát an ninh, thiết bị cảm biên mòi trường đo nhiệt độ, độ ẩm, bức xạ, mức độ ô nhiễm không klú,...
+-	Thiêt bị sô thường ghi lại lịch SŨ làm việc thành các tệp có đuôi tên tệp là *iog”.
+Do thòng tin sò được tạo ra với tòc độ ngày càng tăng nên nhiều cơ quan, tỏ chức lập trung tàm dữ liệu (Data Center) đê lưu trữ lương dữ liệu rât lớn, có thẻ lèn đèn hàng triệu TB (TB xâp xì băng một nghìn ti byte). Cãc ô cứng, USB có dung lượng 1 TB hay lờn hơn đã trờ nên thòng dụng.
+Thông tin so rất đa dạng. Thòng tin sỏ thè hiện dưới nhiẻu dạng khác nhau như chữ và sỏ, hình ảnh, àm thanh, video. Trong máy tính, kiêu tệp dữ liệu thè hiện qua đuôi tên tệp. Vi dụ, dữ liệu dạng chữ và sỏ thường lưu trong tệp cỏ đuôi là “txt”, “docx", “xlsx”, “log”; tệp hình ảnh có các kiểu: “bmp”, “jpg”, ‘vpng'\ “giftép àm thanh có các kièu: “wav”, “mp3”, tệp video có các kiêu: “avi”, “mpg”, “mp4”,...
+Thông tin sô có tính bân quyên. Nhiẻu vãn bản, hình ảnh, video trên Internet, trên mạng xã hội được luật bàn quyên bão vệ và người dùng phải xin phép khi SŨ dung; một sò dữ liệu khác được nói rõ có thế tự do chia sẽ.
+Thông tin sô có độ tin cậy khác nhau. Tim kiêm thông tin vẻ một người, vật, sự kiện hay một vân đẻ mà ta quan tàm sẽ nhận được nhiêu tài liệu hèn quan. Việc xác định tai liệu não cung càp thông tin đáng tin cậy, phàn biệt tin già với tin thật là bài toán không dè. Vi dụ, thòng tin từ các trang web cùa chính phũ có đò tin cậy cao. Thòng tin trên mạng xã hội không đáng tin cậy vi có nhiéu người tung tin già VỚI mục đích xâu.
+Thòng tin sò đa dạng, được thu thập ngáy cang nhanh và nhiều, đươc lưu trữ VỚI dung lượng không lỏ bời nhiêu tò chức vã cá nhàn, cỏ tinh bàn quyên, cỏ độ tin cậy rất khãc nhau, cỏ cãc công cụ tim kiẻm, chuyên đôi, truyền và xử lí lúệu quả.
+2.	Thông tin số và các công cụ xu lí
+Hãy kè tén một vài phàn mèm làm việc VỚI dữ liệu chữ và sô.
+a)	Các công cụ trao dôi, lưu trữ và tìm kiêm
+Tin nhãn, thư diên tử, chat, các mạng xã hội, hội nghi trực tuyên,... trở thành phương tiện giao tiếp phổ biền.
+Các thiêt bi lưu trử dữ liệu rât đa dạng và có dung lương ngày càng lớn. Cơ quan, doanh nghiệp xây dinig các bung tâm dữ ìiệu phúc vụ hoạt động của minh. Dịch vụ lưu trữ trên dam mày như Google Drive, OneDrive, Dropbox,... ngày càng phát triển.
+11
+Các mảy tim kiêm trên Internet, vi du như: Google, Bing,... cho ta nhanh chóng có được nhiều tài liệu giúp giãi qưyêt một vàn đè nào đó.
+b)	Cóng cụ xủ lí dù liệu sô đa dạng
+MÒI còng cụ được tạo ra đê xử li những kiêu dữ liệu nhàt định, cho những mục đích khác nhau. Vi dụ: phàn mèm soạn thào văn bàn được dùng đè xử li các loại vãn bàn; phần mềm trinh chiêu được dùng dè thuyết trinh hay giảng bài;...
+Có nhiều phàn mèm xử li hình ảnh như: Pamt, Photoshop, GIMP,... Dữ liệu hình ảnh nguyên gôc tìr máy ảnh thường dược lưu bằng kiêu tệp ảnh chât lượng cao nên dung lượng lờn. Khi gửi qua các kênh trưyẻn tin trén mạng, tép anh thương bi nén giảm kích thước và do đó giảm chât lượng.
+Có nhiêu phân mèm trình diên âm thanh. Window’s Mecha Pỉayer (có san trong máy dùng hệ điêu hành ỈVmdoyvs), Winamp, AIMP, PowerD\T>t Groove Musĩc,... lã những phàn mèm chuyên diuig cho trinh diên âm thanh. Các tệp àm thanh nén “mp3" rất phổ biên.
+Tuỳ theo mục đích, chúng ta càn lựa chọn sử dụng công cu xử li dữ liệu phù hợp.
+Bài 1. Hãy nêu và giài tliich một vài đặc đièm của thòng tin sò.
+Bài 2. Hãy giới thiệu tẻn một phàn mèm img dụng và nèu rõ phàn mèm đó làm việc VỚI kiêu dữ liệu gi.
+a Em có nhiêu sách và cũng thường hao dỏi sách VỚI ban. Nếu muốn ghi lại những làn hao đôi sách với bạn dẻ dẻ theo dõi, em ghi vào sò tay hay dùng máy tinh VỜI phẩn mèm Word, Excel? Vi sao?
+Câu 1. Theo em. đặc điểm nào cúa thông tin số lã nồi bật nhất?
+Câu 2. Em hây nêu vỉ dụ minh hoạ về một đậc đĩẻm của thông tin sổ cỏ thề là lợi thế hoặc thách thức cho người dùng.
+TÓM TÁT BÀI HỌC
+Thông tin sò có các dãc điém: đa dạng, được thu thập ngây càng nhanh và nhiêu, đươc lưu trư VỚI dung lượng không lò bời nhiều tò chức và cá nhân, cỏ tinh bản quyên, có độ tin cậy ràt khác nhau, có các còng cụ tim kiêm, chuyên đòi, truyên và xử li thòng tin sô hiệu quả.
+12
+ROKGỊCẬ^^	Nơ KINHlTẾÍXẠHỢĨ
+Học xong bài này, em sẽ:
+• Trình bày được tầm quan trọng cùa việc biết khai thác các nguồn thông tin đáng tin cậy.
+. Nêu được ví dụ minh hoạ cho việc khai thác các nguồn thòng tin đáng tin cậy.
+(!)
+ơ nước ta hiện nay có bao nhièu trường trung học cơ sở? Môi em hãy thực hiện riêng việc tim ưèn Internet và clìo bièt:
+1)	Các kèt quà có giông nhau không?
+2)	Con sò nào là đáng tin nhàt? Vì sao?
+1.	Chất lượng dữ liệu và dộ tin cậy của thông tin
+Có được thông tin đáng tin cậy ỉà một thách thức
+Khi tim kiêm thòng tin trên Internet, ta có thẻ nhận được những tài liệu ciuig càp nhũng thòng tin không hoàn toàn giông nhau Thòng tin nào là đáng tin nhàt? Việc xác định tài liệu cung càp thòng tin đáng tin cậy, chính xác đang là một thách thức cho người tim kiểm. Xử li dữ liệu bằng máy tinh đẻ rút ra thòng tin tin cậy là một bài toán kho
+Si h--------------------------------------------------------------------------
+Theo em, trong hoạt động thường xuyên hãng ngày, các tô chức (cơ quan, doanh nghiệp) sử dụng thông tin từ nguôn nào sau đày?
+1)	Tir két quà tìm kiêm trên Internet.
+2)	Từ dữ liệu được thu thập và quản tri bởi các tò chức đó.
+Em hãy giai thích cho sự lựa chọn cua minh.
+13
+Thông tin phục vụ hoạt động hằng ngày cùa các cơ quan, doanh nghiệp
+Căn cước còng dàn, giày chửng nhận quyên sử dung đàt, chứng nhàn đãng ki xe mô tỏ,... là các giây tờ có giá tụ pháp li, được sử dụng bong hoạt động của các cơ quan quàn li nhà nước. Đày là dữ liệu chữa những thông tin có độ tin cậy ràt cao. Nguôn thông tin đáng tin cậy thường là nguôn thông tin được còng bỏ từ các cơ quan chinh phủ, từ các câp cỏ thâm quyên cùa nhà nước hoặc thòng tin đã được kiêm chửng.
+Trong tin học. cụm từ “cơ sớ dữ liệu" nói vè tập hợp toàn bộ dữ liệu được tỏ chức vã lưu trữ đẻ có thè dìmg máy tinh kliai thác nhăm phục vụ hoạt động hăng ngày của một tô chức, cơ quan, doanh nghiệp.
+Cơ sờ dữ liệu phải dâm bão dè từ dỏ xuàt ra thông tin tin cậy đáp ứng yèu câu SŨ dung của tỏ chức, cơ quan, doanh nghiệp.
+Biẻt khai thác các nguồn thòng tin đáng tin cậy ràt quan trọng bong hoạt động của tò chức doanh nghiệp Các doanh nghiệp cung càp hàng hoá, dịch vụ càn thòng tin chinh xác, đày đù vê khách hàng (như họ tên, sò điện thoai, địa chì), vẻ giá hàng,... đẻ đàm bào cho các hoạt động của họ. Nêu thông tin không đáng tin cậy, doanh nghiệp có thè bi thiệt hại. Vi dụ: Một sò còng ty có kế hoạch đàu tư vào việc xày dung các khu chung cư nhăm đáp ứng nhu càu nhã ở trong những năm tới. Các công ty này thường dưa vào nhung còng bò vẻ khảo sát nhu câu nhã ờ và một sò dự báo hèn quan. Nẻu những thòng tin như vậy không có nguôn gòc đáng tin cậy thi việc đàu tư của họ có thè sai mục tiêu dan đèn tluệt hại cho còng ty vã lãng phi cùa xã hội.
+2.	Khai thác nguồn thông tin dáng tin cậy
+ss2 —-----------------------------------------------------------------------
+Thòng tin tim kiêm được bèn Internet có đáng tin cậy hoàn toàn không? Vi sao?
+I	-	-	^1
+Câu chuyện “Tã giấy và Bia ”
+Phàn tích thòng tin chính xác từ lượng lớn phiẻu thanh toán mua hàng, ban Nghiên cữu Tin trường cua Walmart (chuỗi siêu thị nổi tiêng ờ Mỹ) đã phát hiện ra răng các ỏng bỏ khi đèn cửa hàng đẻ mua tã giây bẻ em thường mua thêm bia. Walmait đã bò bi chuyên các loại bia đèn vị bí bày tã giày, việc này đã khiên doanh sò bán bia và tã giày đêu tăng lẻn đáng kê.
+Googỉe dự doán dịch cúm
+Vào năm 2009, Google đã nghiên cửu 50 triệu từ được tim kiêm thường xuyên nhât, so sánh nó với dữ liệu đáng tin cậy của Trung tàm kiêm soát dịch bênh trong các mùa cúm tư năm 2003 đèn năm 2008 đê xày dựng mò hình thòng kẻ. Mò hình này đã dự báo thành còng sự lày lan của bệnh cúm mùa.
+14
+Cơ quan quàn li nhà nước quyèt định các chinh sách quan trọng cỏ ảnh hường đèn hàng triệu người, có tãc động làu dài nhièu năm Giám đòc doanh nghiệp qưyẻt dinh chiến lược kinh doanh có thè lãm giàu hay dàn đèn phá sàn. Những thòng tin lãm căn cử đẻ đưa ra các quyêt định lớn nliư vậy phải là những thòng tin có giá trị cao. Thòng tui có giá tri cao thường là kẻt quả của việc kliai thác một lượng lờn dữ liệu băng các phương pháp, còng cụ tin học chuyên sàu.
+Cỏ nhùng thòng tin dáng tin cậy mang lại giã tiỊ cao dược khai phá từ các tập dữ liệu lớn.
+Bài 1. Em hãy nêu một vi dụ đẻ thày được tàm quan bọng của việc bièt khai thác nguôn thông tin đáng tin cậy.
+Bài 2. Đẻ có thông tin đang tin cậy phục vụ quàn lí việc dạy và học, theo em nhà trường cân làm gi?
+o Học sinli ờ cuối năm học lờp 9 thương cần tìm hiểu thòng tin tuyển sinh vào lớp 10. Giữa thòng tin tim được tìr hai nguôn sau đây, thòng tin nào đáng tin cậy hơn:
+1)	Internet.
+2)	Thòng bão chinh thức của Sờ Giáo dục vã Đào tạo dịa phương.
+Hãy giãi thích ỷ kiên cùa em.
+Câu 1. Em hãy cho ví dụ về việc khai thác các nguồn thông tin không đáng tin cậy cổ thề dẫn đến những kết quà không mong muốn.
+Câu 2. Hãy nêu ví dụ cụ thẻ cho thấy cỏ những thông tin đáng tin cậy mang giá trị to lớn trong hoạt động kinh tể xã hội.
+z-------------------------------------------------------------------X
+TÓM TẤT BÀI HỌC
+♦ Các tò chức, cơ quan, doanh nghiệp,... thường xày dựng nguòn dữ liệu cung câp thòng tin đáng tin cày phục vụ cho các hoạt đòng cùa minh.
+❖ Bièt khai thác các nguỏn thòng tin đáng tin cậy giúp moi cá nhàn cũng như môi tò chức kinh tẻ xã hội có được những quyẻt định hợp li Thông tin tin cậy được lút ra từ nguỏn dữ liệu lờn sẽ mang lại giá trị cao.
+15
+^H:GtoljllWGÌÀĨQUYẾT VÁN ĐE
+I ỉ ọc xong bài này, em sẽ:
+. Biết chù động thực hiện được tìm kiếm thông tin để hoàn thành một nhiệm vụ.
+. Đánh giá đươc lợi ích cùa thông tin trong giải quyết vắn đề và nêu được ví dụ minh hoạ.
+1.	Yêu cầu chung
+Dưới đày là một sò nỉ liệm vụ theo nhỏm. Mỏi nhóm (từ 3 đèn 4 học sinh) thực hiện một nhiệm vụ trong hai tuân (trong đó có hai tiẻt học ti ên lớp). Cà nhóm cân tim hièu yèu càu cùa nhiệm vụ, sau đỏ cúng nhau thực hiện và báo cáo kỏt quà ờ một tièt học trên lớp tlieo hướng dàn của tliày/cô giáo. Két quà của môi nỉ liệm vụ được tliè luện trong hai tẻp:
+-	Tệp thứ nhât: Bài trinh chiêu cỏ nội dung báo cáo kèt quà thực hiện nhiệm vụ cũa nhóm, gôm từ 5 đến 10 trang chiếu.
+-	Tệp thứ hai: Bàn thu hoạch vè việc tim kiếm thòng tin đè thực hiện nhiệm vụ và vai trò cùa thòng tin trong giãi quyẻt nhiệm vụ đặt ra cho nhỏm (làm theo mâu ờ Bâng 1 cuỏi bài).
+2.	Các nhiệm vụ
+Nhiệm vụ 1
+Chuột máy tính là tluèt bị quen thuộc với người sử dmig máy tinh. Nhung không phài ai cũng bièt hẻt các khả nãng của nó. Nhỏm em hãy giới tluệu thèm vẻ một sò khà năng của chuột máy tinh mà trước đày, khi chưa tim luẻu tlii nhỏm chua biẻt đèn.
+Gọi ý: Dưới đày là vài klià năng có thể nhiều bạn chưa biêt:
+-	Thay đòi nhanh dạng hiẻn thị nội dung thư mục.
+-	Thay dòi tỉ lệ luèn tlụ.
+-	Chọn nhanh tìr hoặc đoạn vãn bản.
+16
+Nhiệm vụ 2
+Nêu máy tinh của em kèt nôi được VỜI Internet, em có thè lập trinh Scratch theo pluẻn bân Online (Hình 1). Nhỏm em hãy tim hiẻu và giới tluệu cách sử dỊing plìiẻn bàn Online cua Scratch
+Hình ỉ. Màn ỉiình chào đón phiên bân Scratch Online
+Gợi ý: Nên giới thiệu những điều quan trọng như:
+-	Cách tạo tài khoản.
+-	Cách chia sẻ một dự án nhỏ (một chương trinh nhỏ) VỚI cộng đồng Scratch Online.
+Nhiệm vụ 3
+Phụ huynh của nhỏm em muôn tò chức cho nhỏm gia đinh một chuyên du lịch Đà Nằng trong 5 ngây. Nhom em hãy lèn một kế hoạch cho chuyến đi đẻ dè xuất VỚI bỏ, mẹ.
+Gợi ý: Trong bàn kẻ hoạch nén nói rõ nhóm gia đinh sẽ thăm những danh lam thăng cảnh nào, vào lúc nào và thưởng thức àm thực gi ờ đó? Một bàn kê hoạch tòt càn có nlũêu thòng tin quan trọng như: phương tiện di lại, clu phi, địa chỉ,...
+Nhiệm vụ 4
+Nhóm em hãy chọn lọc và giới thiệu 6 bài hát nói vè tinh câm cùa lứa tuôi học sinh đỏi với trường, lớp, tliày/cô giáo và bạn bè.
+Gợĩ ý: Nén chọn các bài hát có nội dung đa dạng (tinh cảm giữa học trỏ VỚI thây/cô giáo; tình câm bạn be, tinh cảm với trường, lớp;...), hình thức biêu diễn phong phú (đòng ca, song ca, đơn ca), của nhiêu tác giã cùng VỠ1 một sò thòng tin chi tièt vẻ tác già và năm sáng tác bài hát.
+17
+Báng 1. Màu bân tỉiìi hoạch cùa bài tập nhỏm
+BÀN THU HOẠCH SAU THựC HIÊN NHIỆM vụ
+Tên các thành viên của nhóm:
+Nhiệm vụ so:
+A.	Nhóm tự dành giá kết quã thực hiện lìluệm vụ:
+Hoàn thành tổt J Hoàn thành	Không hoàn thành —
+B.	Để thực hiện nliiệm vụ, nlióm đã:
+Tim kiếm những thòng tin chưa biết Kliỏng cần tim kiếm thòng tin
+Nếu nhóm đã thực hiện tìm kiềm thông tin đế thực hiện nhiệm vụ thì trà lời tiếp càc càn hòi dưới dày:
+1)	Nhỏm đã tim thòng tin băng cách:
+HÒI người quen Đọc sách i Tim trẻn Internet Cách khác
+2)	Thòng tin tim được ờ dạng:
+Chữ	Hình ành	Video	LỜI nói
+3)	kết quà tim thòng tin liên quan: Rẩt nhiều thòng tin liên quan
+Nhóm phài chọn lọc	Nhóm không can chọn lọc
+4)	Tinh hữu ích cùa nhưng thòng tin tim đirợc:
+Có những thòng tin không có ích, không dùng được cho nhiêm vụ
+Tất cã thòng tin tim được đểu cỏ ích, đểu dùng cho nlũệm vụ
+5)	Tinh đáng tin cậy cũa những thòng tin tim được:
+Nhóm COI tẩt cả thông tin là đáng tin cậy
+Nhóm thử nghiệm dể tự kiểm chứng xem cỏ đúng không
+Nhóm chọn nguồn thòng tin đáng tin cậy	__
+6)	Mỗi thành viên nêu một VI du cụ tlìể về lợi ích cùa thòng tin trong giãi qưyẻt vàn đè (Gợi ỷ: Có thẻ qua trái nghiệm thực hiện nhiệm vụ, nén mọt vướng mắc do chưa biết một điều nào dó và nẻu thông tin cụ thẻ khi tìm đươc đã giài quyết được vướng mắc nôi trèn, góp phần hoàn thành dược nhiệm vụ;
+-	Thành viên thứ nhất (họ tèn):.........................................
+-	Thành viên thứ hai (họ tên):..........................................
+-	Thành viên thứ ba (họ tèn):...........................................
+18
+Chũ đe D
+EntÕNS^ItT^
+ẠO ĐỨC VÀ VĂN HOÁ TRONG sử
+NG
+
+Học xong bài này\ em sẽ:
+. Nhận biết và giải thích được một sổ biểu hiện vi phạm đạo đức và pháp luât, biều hiện thiếu văn hoá khi sử dung công nghệ kĩ thuật sổ.
+• Bào đàm được các sán phẩm sổ do em tạo ra thể hiện được đao đức, tính văn hoá và không vi phạm pháp luật.
+(!)
+Theo em, san phàm sỏ có phàn ánh đạo đức và văn hoá của người tạo ra nó không?
+1.	Gíữ gìn dạo đúc và văn hoá khi công nghệ kĩ thuật sổ phát triền
+91---------------------------------------------------------------
+Trong các hành vi sau đây, nhũng hành VI nào vi phạm pháp luật, vi phạm đạo đức và thiêu văn hoá?
+1)	Lén quay phim, chụp ảnh ờ nơi có biên câm quay phim, chụp ảnh.
+2)	Nhìn trộm bạn đang nhập mật khâu tài khoản mạng xã hội (hay thư điện từ) đè bièt mật khàu đăng nhập của bạn.
+3)	Glu âm cuộc tranh cãi của một nhỏm bạn và đua lén mạng xã hội.
+4)	Trêu đùa băng cách lày một ảnh của bạn, cãt ghép với những ảnh khác đẻ gày cười rồi gửi cho một số bạn.
+19
+Với sự phát trièn cùa cỏiig nghệ kĩ thuật sò, chủng ta làm dược nhiẻu điêu mã người xira xem là ki diệu. Ngày nay, chì VỚI một chiẻc điện thoại thòng minh chúng ta dẻ dàng chụp ảnh, quay video, ghi àm, truy cập Internet đẻ tim thòng tin, xem và đãng bai trên mang xã hội,... Tuy nhiên, mỏi người đèn phải tránh nhũng hành vi vi phạm pháp luật, càn có ý thức đạo đữc và thè hiện văn hoá lành mạnh khi sừ dụng còng nghệ kĩ thuật sò.
+Sừ dụng điện thoại, email, mạng xã hội đè lìra đảo người khác, rõ ràng là những hành VI phạm pháp và vò đạo đức. Dùng cac săn phàm vãn hoá của người khác (như tranh anh. bài vièt,... đã được sỏ hoá) khi chưa dược phép cùa tác giả hoặc không nêu rõ tác già là VI phạm bàn quyên. Cò tinh thu âm, quay phun, chụp ảnh người khác klu chưa được sư đòng ý của họ vừa là hanh VI phạm luật, vừa là hành VI thiếu vãn hoá, bất lịch sự.
+Dù trong thê giới ão, chúng ta cũng phài tuân thu pháp luật, ung xử phu hợp VỚI chuàn mực đạo đức và vãn hoá.
+Thày những hanh VI phạm pháp, vò đạo đức hay thiêu vãn hoá trong sử dụng công nghệ kì thuật sò mà không đàu tranh thi cũng là đỏng tinh với nhũng hành VI xâu dó.
+Khi sù dụng còng nghệ ki thuật sò cànphài tránh VI phạm pháp luật, đóng thời thè hiện dao dức và vãn hoa băng sự trung thực, hch sự, tôn trong người khác.
+2.	Tạo ra sàn phâm số lành mạnh và họp pháp
+Theo em, khi tạo ra một sản phàm sỏ như bài viêt, video, tranh quảng cáo,... càn phải tranh những gi? Vi sao?
+Hinh 1. Sàn phàm sổ rất đa dạng
+Ngày nay, mảy 111111 và các thiẻt bị di động da trờ thanh một phân không thê thiêu trong cuộc sòng của chủng ta VỚI sự phát ù lèn của còng nghệ kĩ tlniật sò, mòi người khòng chì dẻ dàng tiẻp cận dược với các dạng thòng tin sò, mã cỏn dẻ dàng tạo ra các sản phàm số đa dạng Hình ì minh hoa hình anh một vài sàn phàm số như: vãn bàn sô, ảnh sò, audio, video,...
+Khi sáng tạo ra sàn phàm sò, nêu dược sự cho phép, ta có thè sử dụng một phàn hoặc toàn bộ tác phàm cùa tác già khác trong sân phàm cua minh. Trong học tàp, giài trí hoặc giao lưu trên mạng, có thẻ em cũng đã tạo ra những tác phàm có sử dụng sàn phàm cua người khác. Ví dụ, bài viẻt của em có dùng
+20
+một đoạn vãn hay một bức ành không phải của em, video em tạo ra có dùng một bài hát không phai do em sáng tác,... Trong nhũng trường hợp như vậy, em cân tòn trọng bân quyển: càn được tác già cùa sân phàm em muôn dùng đòng ý cho SŨ dung hoặc càn nêu tên tác già, tên tác phàm mà em đã trích dàn, nêu đia chì trang web đã cung câp những sản phẩm sỏ đó. Chưa được sự đòng ý của em mà một người dã dùng sàn phàm của em đè tạo ra tác phàm của họ thi đỏ lã ngươi không trung thực va tác phàm của họ không có giã trị đích thực.
+Những sàn phàm sỏ cùa em phai vi mục đich gop phần làm cho xà hòi và mỗi người trờ nen tòt đẹp hơn. đòng thơi cho thày em biêt ứng xử lè phép, hch sự, tòn trong danh dự của cliinh minh và cùa những người khac
+KI
+Bài 1. Trong sử dụng còng nghệ kĩ thuật sò, em hãy nêu và phàn tích ba trường hợp cụ thê đè thày đó là biêu hiện vi phạm đạo đức và pháp luật, biêu hiện thiêu văn hoá.
+Bài 2. Trong một bài vièt của em, nêu em sử dụng một bức ảnh lày trên mạng Internet, một bài thơ của bạn cùng lớp thi em càn làm gi đê bài viẻt của em thẻ hiện sự tòn trọng bàn quyền?
+u Gia đinh bạn B11111 vừa lắp đặt camera an ninh để chống trộm. Bác hàng xôm của nhà bạn Đình nêu yêu càu không đè camera quay sang phía sàn nhà bác. Theo em, yêu càu đó có chinh đãng không? Vi sao?
+õ^|j
+VỚI sự phát triển của cóng nghệ sỏ. trong những hành vi có thẻ bắt gập sau đây. em rất càn tránh những hãnh vi nào? Vi sao?
+1)	Sao chép một phần bãi làm cùa bạn vào bài làm cùa minh để nộp cho cỏ giáo.
+2)	Lén ghi ảm một đoạn nói chuyên bàng tiếng Anh của mình với một người bạn nước ngoài đẻ khoe với các bạn cùng lớp.
+3)	Tranh thủ lúc không có người xung quanh, dùng điện thoại di động chụp một bức tranh trong bào tàng để đưa lên mạng xã hội. mặc dù trong bào tàng cỏ quy định không được chụp ảnh.
+TÓM TÁT BÀI HỌC
+Khi sử dụng còng nghệ kì thuật số đẻ tạo ra sàn phàm số, ai cũng càn tuân thù pháp luật vã các chuẩn mực đạo đức, vãn hoá trong mỏi trường sò
+21
+^àH. ỊỊ&GỈ&W|W
+Iỉ ọc xong bài này, em sẽ:
+. Nêu được cách thiết lập tính năng lọc và sắp xếp dử liệu cho một bàng dữ liệu.
+• Biệt cách thực hièn lọc được dữ liệu trong báng theo giá trị hoầc theo điều kiện.
+(!)
+Em có một bảng thổng kè sỏ lượng học sinh giòi của các lớp trong trường. Nêu chi muốn hièn thi các lớp cỏ tì lệ sò học sinh giỏi lờn hơn 15% thi em phài làm thè nào?
+Lọc dữ liệu nhầm clù hiển thị nhũng hàng tlioã mãn các điểu kiên nhất định, các hãng còn lại sẽ bị ẩn đi Ví dụ VỜI bâng trong Hình 1, có thè lựa chọn đè chỉ hiẻn thị sỏ lượng học sinh giòi cùa các lớp khôi 8. Lọc dữ liệu cân được thực hiện qua hai bước: thièt lập tứìh năng sãp xèp và lọc dữ liệu, thực hiện lọc dữ liệu.
+1.	Thiết lập tính năng sắp xếp và lọc dù liệu
+Quyên sách này dùng phàn mẻm Excel phièn bàn 2016 của còng ty Microsoữ đè minh hoạ. Dưới đày là các bước tlnẻt lập tính năng sãp xẻp và lọc cho một bàng dữ liệu:
+Bước 1. Nhay chuột vào một ò tinli bàt ki trong bàng dữ liệu cần săp xếp hoặc lọc (vi dụ ỏ CIO trong Hình ỉ).
+Bước 2. Chọn dài lệnh Data trên bảng chọn chức năng.
+Bước 3. Nháy chuột vào biêu tượng Filter (Hình 2) trong nhóm lênh Sort & Filter.
+J	*	•		0
+1	THỐNC KẾ Sổ HỌC SINH Clól			
+2	M»	SA	Sẽ lwfBỊ	Ti lẹ
+3	ỖA	39	0	134%
+4	SB	42	4	9 5%
+5	ỖC	40	4	10 0%
+6	7A	41	7	17 1%
+7	7B	40	3	12 5%
+8	7C	38	6	158%
+9	SA	39	5	128%
+10	SB	41	8	19 5%
+11	8C	39	7	179%
+12	9A	38	4	10 5%
+13	9B	40	3	12 5%
+14	9C	39	4	10 3%
+Hình 1. Bàng thống kê so hrợìig học siỉih gìõi
+22
+Sau Bước 3, biểu tượng H xuất hiện bên phải các ỏ tiêu để cùa tất cà các cột trong vừng dữ liệu {Hình 3). Lúc này bàng dữ liệu đã săn sàng cho cãc thao tàc săp xêp và lọc dữ liệu
+Lưii ý: Neu clũ muôn lọc bèn một vài cột dữ liệu, tại Bước 1 cản chọn dãy các cột em quan tàm trẻn dòng tiêu đè của bàng.
+Biếu tượng Fỉlter
+?! E
+Ỉ1 ^
+Sort & Filer
+Hình 3. Sau khi thiết lạp bộ ỉọc
+Hình 2. Nhỏm lênh Sort & Filter
+Hãy thiêt lập tinh năng sãp xèp và lọc dữ liêu cho bàng dữ liệu trong Hinh ỉ và so sánh các kết quà thu được khi lần lượt nháy chuột vào biểu tượng s trên dòng tiêu đẻ cãc cột Lóp và cột Sĩ số.
+2.	Thục hiện lọc dữ liệu
+Phần mềm bâng tính (PMBT) hỗ trợ nhiểu phương pháp lọc khác nhau như lọc theo giá trị hoặc lọc theo điêu kiện.
+a) Lọc theo giá trị
+Lọc theo giá trị nhăm chì hiển thị những hàng bong bàng dữ liệu mã giá trị tại cột muôn lọc đúng băng giá trị quan tàm. Các bước dè lọc dữ liệu theo giá trị như sau:
+Bước 1. Nháy chuột vào biếu tượng L bên cạnh tiêu đè còt muốn loc. Khi đó, xuất hiện một danh sách các tuỷ chọn cho thao tác lọc và sap xẻp dữ liệu tương img VỜI cột muôn lọc.
+Bước 2. Đánh dâu chọn vào các hộp kiêm tra canh những giá b ị muôn hiên thị ròi nhan phím OK. Sau bước này, Excel chì hiên thị những dòng mà giá b ị tại cột muổn lọc năm trong tập giá b ị đã chọn.
+2 ị SortSmallesttoLargest
+Ẩi Sọrt Largcst to Smđllest
+SortbyCokx	>
+Sheet Vtew	>
+Sx Ợwr Fít« From *$Ó lưong'
+FịherbyCo»Of	>
+Number Filters	>
+Search 2
+E(SdectAID 04
+E5
+-06
+07 08
+OK	CỊỊỊỊaị
+Hình 4. Danh sách tuỳ chọn sấp xỉp và lọc cho cột Sổ lượng
+23
+ớ Hình 4 lã danh sách các tuy chọn xuât hiện khi thực hiện lọc tại cột sổ lượng Các giá trị 4, 5, 6. 7. 8 xuất hiện tại phàn bèn dưới của hình là danh sách những giá trị khác nhau trên các hàng, tai cột Sổ lượng của bàng. Nếu chì giữ lai đánh dâu tại các hộp kiêm tia cạnh các giá trị 6, 7, 8 và nhẩn nút OK, thi sẽ thu được kết quà như Hình 5. Tiẻp tục thực hiện lọc với cột Sì sô và chì giữ lại giá tn 41, bàng dữ liệu sẽ chì cỏn hiên thi cãc hàng ứng VỚI các lớp 7A và 8B
+^	A	8	c	D
+1	THÔNG KE s<		5 HỌC SINH GIOI	
+2		Sla6 -		TI lệ “
+3	đA	39	ó	15 4%
+6	7A	41	7	17 1%
+8	7C	38	ú	15 8%
+10	SB	41	s	19 5%
+11	sc	39	7	17 9%
+Hình 5. Càc ỉớp có trẽn 5 học sinh giỏi
+Đè bò lọc dữ liệu tiên một cột, đánh dâu chọn tại hộp kiềm ưa cạnh tu Select All hoặc chọn biêu tượng Sx (đang dê mờ trong Hình 4).
+Đè bò cùng lúc tàt cả các bộ lọc, ưèn dải lệnh Data, nháy lại chuột vào biêu tượng Filter ưong nhỏm lệnh Sort & Filter (Hỉnh 2).
+b) Lọc theo điểu kiện
+Bèn cạnh cách lọc theo giá ưị, PMBT còn tích hợp săn một sò toán từ so sánh như lờn hơn. lớn hơn trưng binh, lớn nhàt,... đè người dùng có thè thực hiện lọc theo
+nhiêu loại điêu kiện khác nhau. Đê lọc theo điêu kiện ưong Excel, càn thục hiện tlieo các bước như sau:
+Bước ỉ. Nháy chuột vào biếu tượng EJ bèn cạnh tiêu đè cột muôn lọc.
+Bước 2. Chọn Number Filters hoặc Text Filters (tuỳ thuộc giá ưị ưong côt muốn lọc là dữ liệu sò hay dữ liệu vãn bàn). Khi đó, một danh sách các điêu kiện sẽ xuât hiện.
+Bước 3. Chọn kiêu điều kiện phù hợp. Tuỳ thuộc vào kiêu điêu kiện đã chọn. Excel có thê
+hiên thị một hộp thoại yêu càu điên thèm các tham sò cân thiét. Hình 6 là vi dụ hộp thoai xuàt hiện khi chọn điêu kiện Top 10 cùa tuỳ chọn Number Filters.
+Bước 4. Điển các tham sổ và chọn OK đế kết thúc. Trong vi dụ Hình 6, nêu thay giá trị 10 băng giá ưị 3 và nêu đang thực hiện lọc ưẻn cột Tỉ lẹ, kẻt quà tliu được sẽ như trong Hình 7, đó là thòng tm nhom 3 lớp có tì lệ sò học sinh giòi cao nhàt
+Hình 6 . Hộp thoại Custom Autofilter khi chọn điển kiện Top 10 cùa tnỳ chọn Number Fiỉters
+A 1 B		c	0
+1	THỒNG KE SÔ HỌC SINH GIOI			
+2		Si rô	Só luông.1 Ti lệ	
+s	7A	41	7	17 1%
+10	SB	41	8	19 5%
+11	8C	39	7	17 9%
+Hình 7. Vi chí nỉ lỏm 3 ỉớp cỏ ti ỉệ học sinh giỏi CCỈO nhất
+24
+3. Thực hành
+Nĩiiệỉỉỉ vụ: Sử dung hang tinh với bảng dữ liệu trong Hình ỉ, hãy lân lượt thực hiện cãc còng việc sau:
+- Trên cột Lớp. sử dụng tuỳ chọn Text Filters và điẻu kiện Begins \Mth... dè được hộp thoại như Hình 8. Điên các tham sô thích họp đẻ hiên dụ các lớp thuộc khỏi 7.
+Hình 8. Hộp thoại Custom Autofiỉter khí chọn điều kiện Begins Wiíh... cùa tuỳ chọn Text Fìlters
+- Sử dụng tuỳ chọn Number Filters và
+điểu kiện Greater Than... trên cột số lượng để lọc bổ sung, chì hiền thị các lờp khỏi 7 có trên 5 học sinh giỏi.
+- Huỷ bỏ bò lọc trên cột Lóp và quan sát kèt quà hiên thị.
+- Huỷ bỏ toàn bộ các bộ lọc đẻ bàng dữ liệu trờ vê trạng thái ban đàu như ờ Hình 1
+MŨ Sừ dụng trang tinh VỚI bàng dữ liệu trong Hình ỉ, hãy thực hiện cãc còng việc sau:
+-	Lọc theo điếu kiện đẻ hiển thi chỉ các lờp khỏi 7 và khối 8.
+-	Lọc theo điẻu kiện đẻ liien thị clù các lớp có tì lệ sỏ học sinh giỏi của lớp lớn hơn tì lộ học sinh giói cua toàn trường.
+Câu 1. Đẻ huỷ toàn bộ các bộ lọc cùa một bàng dữ liệu, cần thực hiên như thế não?
+Câu 2. Điều kiện Begins With... trong tuỳ chọn Text Filters cỏ ỷ nghĩa gì?
+Câu 3. Cho danh sách điẻm trung binh món Tin học của toàn khối 8. Đẻ hiẻn thị nhóm các bạn có điểm trung bình môn từ 9.0 trờ lẻn, cần sử dụng điều kiện nào trong danh sách các điều kiện của tuỳ chọn Number Filters?
+TÓM TẮT BÀI HỌC
+❖	Trên dãi lệnh Data, trong nhóm lệnh Sort & Filter, sử dụng lệnh Filter đè thiẻt lập/huỷ tính năng săp xèp vã lọc cho một bàng dữ liệu
+❖	Lọc theo giá trị băng cách giử lại các dành dâu trong hộp kiêm Ưa bèn cạnh các giá trị dữ liệu muôn hièn thị.
+❖	Lọc theo điêu kiện băng cách sừ dụng danh sách các điêu kiện cua tuy chọn Number Filters hoặc Text Filters.
+25
+(fôàì2. ì ỊSẬWEdDiưiiliẼư
+Học xong bài này, em sẽ:
+• Nêu đươc cách thực hiện sắp xếp dữ liệu trong một báng dữ liệu. .Trình bày được cách sử dụng hộp thoại sắp xếp để sắp xếp trên nhiều côt của bàng.
+(!)
+Em hãy nêu một sỏ tinh huống càn có một bàng dữ liệu đã sắp xẻp và nêu nhũng tiêu chi săp xèp tương img.
+1. Sắp xếp dử liệu trên một cột
+Hãy tạo bàng dữ liệu thõng kè xẻp loại học lục các lớp như ở Hình 2, ròi thiết lặp tinh năng sãp xêp và lọc dữ liệu cho bâng. Tiêp đèn, nháy chuột vào biẻu tượng s trong cột Sì sổ và lựa chọn mục Sort Sniallest to Largest.
+Em nhận xét gi về sự thay đổi của biểu tượng H trong cột Sĩ số và sự thay đổi cách hiển tliỊ dữ liệu trong bảng?
+sẳp xẻp một bàng dữ liệu nhăm hoán đôi vị tri các hàng trong bàng dựa ưên nội dung cùa một cột cụ thè đè giá trị dữ liệu trèn các hang cùa cỏt đó được sắp theo thư tự tăng dàn hoặc giàm dân Dữ liệu được sãp xẻp cỏ thè ở dạng vãn bàn, dạng sô hoặc dạng thói gian.
+Trong Hoạt đỏng 1, em đã sãp xèp lai bâng dữ liệu sau khi thiêt lập tính năng sãp
+xẻp và lọc dữ liệu cho bàng. Có thỏ sãp xẻp dữ liệu mà không càn thiẻt lập 111111 năng
+sắp xếp và lọc dữ liệu, các bước như sau.
+Bước ỉ. Chọn một ỏ tinh bàt ki trong cột muôn săp xẻp dữ liệu.
+Bưó‘c 2. Chọn dài lệnh Data
+Bước 3. NI láy chuột vào biểu tượng O hoặc E] trong
+nhóm lệnh Sort & Filter (Hình Ị) dè sãp xèp lại bàng
+— Biêu ỉirợng Sort
+ÚI Hôi Sxơear
+lỉlỉl	u
+Sort	Piltec RMpply
+Ậị	c—7
+]£ Advanced
+Sort & Rlter
+Hình I. Nhỏm lệnh
+Sort Ầ Fiỉter
+26
+dử liệu theo thứ tự tăng dàn hoặc giâm dàn tlieo giã trị của còt muôn săp xèp.
+Trong ví dụ ờ Hình 2, nếu chọn ò tinh bẳt ki trong cột Sì số và nháy chuột vào biểu tượng 32 trong nhóm lệnh Sort & Pilter sẽ nhận dược kết quà như ờ Hình 3. Các dòng cua bàng dừ liệu đă được sẳp xếp theo thử tự giảm dẩn cua cột Sĩ sổ.
+J	*			0	*	
+1	RANC xf p LOẠI HỌC Lực					
+2	Mí	s-	T.I	Kki	Đ.I	Ck*a 4ạ«
+3	6A	41	5	21	13	0
+4	63	40	7	21	11	1
+3	ÓC	41	6	22	13	0
+6	7A	39	7	23	9	0
+7	7B	40	3	21	13	1
+8	7C	39	7	17	13	0
+9	SA	38	6	18	14	0
+10	SB	40	3	21	14	0
+>1	8C	38	3	18	13	0
+12	9A	38	3	24	11	0
+13	93	38	6	17	13	0
+14	9C	40	4	19	13	2
+^	*			D		
+1		BANC xf p LOẠI HỌC Lực				
+2	u>	s-	T.I	KU	0?«	Chwa 4ịi
+3	6A	41	3	21	15	0
+4	6C	41	6	22	13	0
+3	63	40	7	21	11	1
+6	73	40	3	21	13	1
+7	83	40	3	21	14	0
+8	9C	40	4	19	15	2
+9	7A	39	7	23	9	0
+10	7C	39	7	17	15	0
+li	8A	38	6	18	14	0
+12	8C	38	3	13	13	0
+13	9A	38	3	24	ll	0
+14	93	38	ỗ	17	15	0
+Hình 2. Vi (hi bàng thống kẽ	Hình 3. Ví chỉ bàng thống kẽ
+xếp loại học lực các ỉởp trong	xếp loại học lực S(ip xếp theo
+toàn tnrờng	thứ tự giâm dấn của cột Sĩ số
+1. Sắp xếp dữ liệu trên nhiều cột
+p32 —■--------------------------------------------------—
+Trên bàng dữ liệu ờ Hình 2, em hãy thực hiện làn lượt các yêu càu sau:
+-	Sãp xèp theo thứ tư tăng dàn của cột Tốt.
+-	Săp xèp theo thứ tự giảm dàn cùa cột Sĩ sô
+Hãy quan sát cách sắp xẻp sò lượng học sinh xếp loại tốt của các lớp có cùng sĩ sô. Em nhàn xét gi vê cách hièn tliỊ dữ liệu trong bảng?
+Excel cho phép sãp xêp lại các dòng trong bàng dữ liệu dưa tiên nội dung của nhiêu cột. Két quả bàng dữ liệu dược săp xẻp tlieo thứ tự trên một cột chính, nêu cỏ nhièu dòng cỏ giá tn như nhau ưên còt cliinh tlìi chiing sẻ được săp xèp theo thứ tự trên cột phụ (khác VỚI cột chinh). Vi dụ, trong hoạt động trên, cột Sì so được COI là cột chính, cột Tốt là cột phu. Dùng hộp thoại săp xép là cách đơn giàn dè thực hiện săp xẻp dựa hèn nội dung của nhiều cột. Hai cách đê mờ hộp thoại sãp xèp là:
+Cách 1: Trên dài lênh Data, trong nhóm lệnh Sort & Filter, chọn biêu tượng Sort (Hình 1).
+Cách 2: Nháy chuột phải trên một ỏ bât kì trong bàng dữ liệu, chọn lệnh Sort rôi chọn Custom Sort trong cãc dãi lệnh xuất hiện tương ứng.
+Klu hộp thoại sãp xẻp xuất hiện (Hình 4), tiẻp tục thực hiện các bước sau:
+27
+Bước ỉ. Lựa chọn cột càn săp xèp và kiêu săp xèp tăng dàn hay giàm dàn.
+Bước 2. Nêu càn tluẻt, chọn lệnh Add Level đè thèm còt muôn săp xép, tièp tục thực hiện chọn cột càn sãp xẻp và kiểu săp xèp tăng dàn hay giảm dàn.
+Bước 3. Nhay chuột vào lệnh OK đè thu được kẻt quà mong muôn.
+Hình 4. Hộp thoại sắp xểp
+Lưu ý: Klìi có nhiêu cột trong hộp thoại Sort được chọn, tiêu chuân săp xèp được ưu tiên giảm dàn theo danh sách cột tư trên xuỏng dưới như ờ Hinh 4.
+^^ Em hãy thực hiện sắp xếp các lớp ờ bàng dữ liệu trong Hình 2 theo thứ tự tăng dân của sò lượng học sinh xép loại học lực Tòt, ròi tời Kha và sau củng lã Đạt.
+O Bảng xếp hạng các đội bóng trong một giãi đấu bóng đá được sẳp xếp dưa theo thứ tư các tièu chi sau: tòng sò diêm dạt được, hiệu sò bàn thăng thua, sò bàn thăng đã glii được. Nêu em có một danh sách kèt quà tiu đàu cùa các đội bóng gôm các thông tin: tòng diêm đã đạt được, sò bàn thăng dã ghi, sò bàn thua đã nhận. Em hãy sãp xẻp danh sách đè đưa ra bảng xẻp hạng các đội bóng
+Câu 1. Đẻ sáp xếp bàng dữ liệu theo một cột em cỏ thề dùng những cách nào?
+Câu 2. Lệnh Add Level trong hộp thoại sáp xếp dùng đẻ làm gi?
+TÓM TẮT BÀI HỌC
+❖ Trèn dài lệnh Data, trong nhóm lênh Sort & Filter. chọn biểu tượng HI hoặc 3 đè sãp xếp một bâng dư liệu theo trật tự tăng dan hoặc giâm dằn.
+ỉỉ
+❖ Trên dài lệnh Data, trong nhóm lệnh Sort & Filter, chọn biểu tượng So*' đè lũên thị hộp thoại săp xèp cho phép săp xèp bảng theo nhiều cột khác nhau
+28
+N)àí3.
+ỉ lọc xong bài này, em sẽ:
+Biết được ý nghĩa cùa việc biểu diễn dữ liêu băng biểu đồ.
+Nêu được một số dạng biểu đồ thồng dụng.
+Nêu được các thành phẩn chù yếu trong biểu đồ.
+(!)
+Em hãy nẻu một sô tình huông thực tê mà dữ liệu được biêu diên dưới dạng biêu đò.
+1.	Biêu diễn dù liệu bằng biêu dô
+Hãy quan sát bàng dữ liệu vẻ thành tích SEA Games của Việt Nam bong Bàng Ị vã các biêu đò tương ứng trong Hình 1 ròi cho biẻt: Bàng dữ liệu hay các biêu đỏ cho phép so sánh thànli tích cãc năm được dê dàng hơn.
+PMBT cho phép biểu diễn dữ liệu sò dưới dạng biêu đò đè dè dâng so sánh hoặc tim ra thòng tin vè xu thè hay môi quan hệ cùa những dữ liệu trong bàng.
+Một sò dạng biêu đỏ thông dỊing trong PMBT Excel được minh hoạ ờ Hình ỉ VÓI dữ liệu là thành tích SEA ỡames của Việt Nam ờ Băng 1.
+Biêu đô cột (Hình ỉa) tlúch hợp khi so sánh dữ liệu nói chung Chúng thường được
+Nam		 Vàng	Bạc	Đồng	Tổng
+2013	73	86	86	245
+2015	73	53	60	186
+2017	58	50	60	168
+2019	98	85	105	288
+2022	205	125	116	446
+Bàng 1. Thành tích SEA Ganies cùa Việt Nani từ nân ĩ 20 ỉ 3 đến nãtn 2022 (Nguồn: Thòng tấn xã Việt Nani)
+sử dung đẻ trực quan hoá sự khác biệt giữa các giá trị dữ liệu b ong một hoặc nluèu chuôi dữ liệu. Ví dụ: khi so sánh sô lượng học sinh xèp loại học lực Tỏt, Khá giữa các lớp VỚI nhau.
+Biêu đô đường (Hình Jb) thường được dùng đè biẻu diên các dữ liệu thay đỏi theo thời gian vã ràt hữu ích đè xác đu 111 xu hướng tăng hay giảm của dữ liệu. Ví dụ: khi biêu diên sô bạn xẻp loại học lực tòt cùa lớp em qua các năm.
+29
+a) Biêu đồ cột
+bì Biêu đồ đường
+c) Biêu đồ hình tròn
+Hình Ị. Một sổ (lạng biểu đồ trong PMBT Excel
+Biêu đô hình tròn (Hình lc) thích hợp khi muòn biêu diên tì lè hoặc mức đóng góp của dữ liệu so với tòng thê. Biêu đò hĩnh tròn chi dùng một chuôi dữ liệu và sò lượng mục dữ liệu càn so sánh là it. Vi dụ: khi bièu diễn ti lệ xếp loại học lục của lớp.
+Biêu đò là cách biẻu diẻn dữ liệu một cách tnrc quan dưới dạng hình ànlt giúp chúng ta dẻ dâng so sanh sự khác nliau, nhận tliây xu hường tliay đỏi, đánh giã tì lè giữa các thanh phàn cùa mót day sô liệu. Lưa chọn mòt dang biêu đó hơp 11 se tạo nèn hiệu quà tỏt trong việc trực quan hoá dữ liệu.
+2.	Tính tự động của biêu đồ
+-Tạo bàng sỏ liệu Thành tích SEA Games 3J như trong Hình 2. Tiêp đèn, chọn toàn bộ bàng (khôi ô A2:C7) ròi nhàn tỏ hợp phim Alt+Fl đẻ thu được biêu đò cột tương tự như trong Hình 3.
+- Thay đòi các giá trị bong các cột IICV, Tông cùa bàng sò liệu và quan sát những thay đòi tương ứng vời biêu đỏ vừa tạo ra Em cỏ nhận xét gi?
+Bàng sò liệu có thẻ gôm một hay nhiêu chuôi dữ liệu. Dữ liệu cho môi chuỏi được hèn kêt VỚI dữ liệu trong một hàng hoặc cột riêng biệt của một bàng dữ liệu.
+Bièu đỏ cột tạo ra trong Hoạt động 2 gôm hai chuôi dữ liệu úng với hai cột HCV và Tông của bàng dữ liệu Thành tích SEA Games 3Ỉ. Néu thay đòi dữ liệu trong bâng, những thay đòi này phàn ánh ngay lập tức hèn bièu đồ.
+Điẻm nòi bật của biêu đỏ ưong PMBT lã khâ năng tự động cập nhật theo sỏ liêu.
+J	A	B	c
+1	BÀNG THÀNH TÍCH SEA GAME 31		
+2	Ọuôc gia	HCV	Tông
+3	Indonesia	69	241
+-1	Plúlippines	52	227
+5	Singapoic	47	166
+6	Thailand	92	332
+7	Vietnain	205	446
+Hình 2. Thành tich SEA Games 31 cùa 5 CỊUổc gia đừng đầu (Nguồn: Thông tấn xâ Việt Nam)
+30
+3. Các thành phân cùa biêu dồ
+Biểu đò gồm nhiều thành plìẩn. ở Hình 3 minh hoạ một sổ thành phàn cơ bân của một biêu đỏ cột. Các thành phân này không nhàt thiẻt đêu phài xuàt hiên đỏng thời b ong biểu đo.
+Tiêu độ cùa biểu đồ	Ỷ nghĩa cùa càc cìiuoi dữ liệu
+^ Em hây quan sát biếu đồ bong Hình Ibvà cho biết:
+1)	Trong bièu đồ cỏ mấy chuỗi dữ liệu? Ý nghĩa cũa mỗi chuỗi dữ liệu đó la gi°
+2)	Y ngỉua của các hục giá b ị và bỊic danh mục bong biêu đỏ là gi?
+3)	Đe biết số lượng huy’ chương đã đạt được tlìi biểu đồ cân thèm thánh phần nao?
+a Em sẽ diuig loại biếu đổ nào để minh hoạ cho dữ liệu khi muốn:
+1)	So sánh dàn sò các nước b ong khu vực Đỏng Nam A năm 2022.
+2)	Biêu diên sự gia tăng dàn sỏ cùa Việt Nam trong 10 năm qua
+3)	Bièu dién tì bọng cơ câu GDP của Việt Nam năm 2022.
+0^1
+Câu 1. Tại sao nên sử dụng biêu đồ đẻ biêu diên số liệu?
+Câu 2. Tính tự động cập nhật của biểu đồ trong PMBT có nghĩa lã gi?
+Câu 3. Biêu đồ hình tròn thường được dùng khi nào?
+TÓM TẮT BÀI HỌC
+❖	Biểu diễn dữ liệu bằng biểu dò sẽ làm cho dữ liệu trực quan và dề hiểu hơn.
+❖	Bièu đỏ bong PMBT Excel tư động cập nliàt theo sự tliay đỏi của sỏ hèu.
+❖	Một sô loại biẻu đò thòng diuig bong PMBT Excel là: biẻu đò cột, biêu đò đường, biẻu đò hinh tròn
+❖	Cãc thanh phàn cơ bàn của biẻu đò gôm: tiêu đè cùa biẻu đò; các chuôi dữ liệu, bực giá tậ. bỊic danh mục, các giã b'Ị dữ liệu;...
+31
+
+Học xong bài này, eni sẽ:
+•	Tạo được một biểu đồ từ bàng dữ liệu đã có.
+•	Thay đồi được hình dạng cùa biểu đồ đã có.
+•	Thêm, bớt và thay đồi được định dạng các thành phần cùa mót biểu đồ.
+Bài thục hành. Tạo biêu đổ cột •	•	•
+Nhiệm vụ: VỚI bang dữ liệu ở Hình ỉ, hãy tạo một biêu đò cột chi gôm hai chuôi dữ liệu Aìíấs khàn và Tông, sau đó thèm và định dạng các thành phàn của biêu đỏ đè thu được biêu đò tương tự như ở Hình 2.
+a	A	8	c	D
+1	KIM NGẠCH XUĂT KHÂU (Đon 71 Tỉ USD)			
+2	Ním	Xuàt khâu	Nhàp khâu	Tỏng
+3	2018	243 70	237 20	48090
+4	2019	264 19	253 36	517 55
+5	2020	282 63	262 70	545 33
+6	2021	336 31	332 23	668 54
+Hình ỉ. Bâng dữ lìện kim ngạch Xi tất nháp khàn hàng hoà cùa Việt Nam (Nguồn: Nièn giàm thống kẻ 2021)
+I
+I
+KIM NGẠCH XUÃT NHẬP KHẨU
+iXult khiu
+Mng
+6» 54
+MO 00 70000 MO 00
+MO 00 40000 MO 00 20000
+10000
+000
+Mỉ ỉ}
+»18
+2
+3
+517.55
+440 90
+Hình 2. Biểu đồ cùa bàng dữ liệu ở Hình 1
+Hướng dẫn
+Chuàn bị: Tạo bàng dữ liệu như ờ Hình 1.
+Bước 1. Tạo và chèn biễu đô vào hang tinh.
+- Chọn vùng dữ ỉiệtt được biêu diễn băng biêu đô. Trong bàng dữ liệu đã chuân bị, dùng chuột lưa chọn khói A2:B6 ròi nhản, giữ phim Ctrl và tiêp tục dùng chuột lựa chọn khỏi D2:D6 đè được hai khôi tách rời nhau như ờ Hình 1.
+Biểu dồ cột Biểu đổ dirờng
+Biếu dồ hình tròn
+Hình 3. Càc dạng biểu dò thòng dụng trong nhóm lệnh Charts
+- Chọn dạng biêu đồ. Trên dai lệnh Insert. trong nhóm lệnh Cliarts (Hình 3), chọn dạng biểu đò cột. Biểu tượng biểu đò cột sẽ mở rộng và luèn tlụ một danh sách các kiêu biểu đỏ cột khác nhau.
+32
+- Chọn kiêu bỉêu đô. Chon kiêu bièu đò cột 2-D Column trong danlì sách. Sau bước này, Excel sẽ tạo một biêu đò cột như Hình -ta hoặc Hình 4b và đặt trong cìuig trang tính với bàng dữ liệu
+MO 00
+ChartTitle
+70000
+60000
+$0000
+40000
+10000
+70000
+10000
+000
+• Xu* khiu ■lóng
+Chart Tltle
+■ rum aXuỉtkMu ■ Tổng
+a) Vi dụ biểu đồ dirợc tạo phù tiợp
+bí Vi dụ biểu dồ dtrợc tạo khôngphù hợp
+Hình 4. Biểu dồ cột 2-D Cohimtt tương ứng VỚI dữ liệu trong Hình ỉ
+Bước 2. Thay đòi dạng và kiêu biêu đò nêu càn thièt
+Nêu biểu đò dược Excel tạo ra chua phù hợp đê trục quan hoá dữ liệu {Hình 4b\ ta càn thay đòi lại kiểu biểu đỏ theo các bước sau:
+-	Nhay chuột vào biểu dò đẻ chọn.
+-	Chọn dài lệnh Chart Tools và nhánh Design
+-	Trong nhóm lệnh Type, chọn lệnh Change Chart Type {Hỉnh 5) để hiển thị hộp thoai thay đổi dạng biểu đồ {Hình ó)
+tì	HÌ1		
+Switch Row/	Select	Change
+Column	Data	ChartType
+Data		Type
+ỉỉình 5. Các nhỏm Ìệììh Data và Type
+- Chọn biêu tượng biẻu đô phù hợp rỏi nhân OK. Ket quà, Excel sé thay biêu đò cũ băng bièư đò đã lựa chọn
+Bườc 3. Thêm tiêu dè trưc, nhẫn dữ liệu.
+Bièư đô được tạo ra chi có các thành phàn định săn nẻn càn thèm các thành phàn như tiêu đè trục, nhãn dữ liệu đè thè hiện thòng tin được chi tiết, rõ ràng hơn. Thực hiện như sau:
+- Nháy chuột vào biêu đò đè chọn.
+- Nháy chuột vào hình dâu “+" phía trên, bèn phải biêu đò đè xuât hiện một danh sách các thành phàn của biêu đò {Hình 7).
+Biểu dồ hiện tại
+Hlhllàto^43M
+Biền dồ mong muốn
+Hình 6 Hộp tỉioại then dổi dcnig biếu dỏ
+33
+Đaiứi dâu vào hộp chon bèn cạnh thành phàn ta muôn thém vào (ví du Axis Titles và Data Labels).
+Bước 4. Thay đòi nội dung của tiéu đẻ biêu dò, tiêu đè trục
+Nhảy chuột chọn thành phàn muôn thay đôi nội dung, thay thê nội dung mới phù hợp vào.
+Bưóc 5. Định dạng các thành phàn trong biêu đò.
+Biêu dò thu được sau Bước 4 đa có đày đủ thòng tin như ở Hình 2, nhưng có thè chua đạt tính thâm
+Hình 7. Thành phấn cỏ thể thêm vào biếu đồ
+mĩ Do vậy, ta càn thực hiện đinh dạng một sỏ thành phàn của bièu đò như sau:
+- Thay đòi phông, kiêu chữ của các thảnh phàn trong biêu đỏ với nhóm lệnh Font trén dải lệnh Home.
+- Thay đỏi hường nhãn dữ liệu của chuôi dữ liệu Xuãt khâu:
++ Chọn nhãn dữ liệu của chuỗi dữ liệu Xuất khâỉt
++ Trên dài lệnh Home, nhóm lệnh Alignment, chọn Orientation và Rotate Text up.
+- Thay đòi màu, độ rộng cùa thành phàn chuỗi dữ liệu:
++ Nháy đúp chuột vào chuôi dữ liệu niuỏn thay đòi dê hiện ra vùng cửa sô chứa các tưỳ chọn tương ứng.
++ Trong tab Fill & Line, lựa chọn màu của chuôi dữ héu tai mục Color (Hỉnh 8) theo mong muôn.
++ Trong tab Series Options (Hình 8), thay đỏi giã trị bong mục Gap Width dẻ thay dòi dộ rộng các chuôi dữ liệu hèn biếu đồ.
+Format Data Series ’ x
+Scricí Optiont V
+Tab Series Optìons
+Ọradient hll
+Pkture or texture fil
+Pattem nn
+Automatic
+Ịnvert I< negatrve
+Color
+Traníparency >
+Boeder
+- Thay đôi vị trí các thành phân băng cách nháy chuột chọn thành phàn và kéo đường viên cùa thành phàn này sang vị tri mới.
+Hìnỉi 8. Vùng cừa sô tiỉỳ chọn định dang cho chuôi dữ liệu
+MJM Hãy sưu tầm và tạo một bàng dữ liệu chứa thòng tin vè xếp loại học lực năm vừa qua cua các lớp khôi 7. Sau đó, hãy lựa chọn các biẻu đò phù hợp đè biêu diên: 1) Tòng sô học sinh xèp loại học lực tỏt và sĩ sò lớp cua từng lớp trong khôi.
+2) Tì lẹ sỏ học sinh xèp loại học lực tòt cua từng lớp bong khỏi.
+34
+
+ỉ lọc xong bài này, etn sẽ:
+. Giài thích được sự khác nhau giữa đia chi tương đối. địa chì tuyệt đổi và địa chì hỗn hợp của mòt ô tĩnh.
+. Giải thích được sự thay đồi địa chỉ trong công thức khi sao chép ô tính có chứa công thức.
+(!)
+Theo em, VI sao trong còng thửc/hàm, Excel thường sử dụng địa chì các ò tính chứa sỏ liệu thay cho sô liệu trực tiẻp?
+1.	Địa chi ố tính trong cống thức
+g 1
+1)	Hãy tạo một hang tinh với dữ liệu như ở Hình Ị. Tại ò E2, lập còng thức =B2*C2+D2 đè tinh doanh sỏ cho sân phâm Mảy tình
+2)	Sao chép công thức trong ò E2 sang các ò bong khôi ò E3:E5 ròi nliáy chuột vào các ò trong khỏi và nhận xét những thay đỏi xuàt hiện bong thanh còng thức.
+L	__ _________________
+Đặc tính nòi bật cùa PMBT là kha năng tự đỏng tinh toán lại khi sỏ liệu đàu vào thay đôi. Đẻ khai thác tính năng này, Excel sử dụng địa chì các ỏ (hoặc khỏi ô) chưa dữ liệu bong còng thưc ham tliay vi sử dụng dữ liệu trực tiẻp Khi
+Hình 1. Sao chép công ĩỉiírc trong PMBT Excel
+giá trị bong một ò tinh thay đòi thi ket quà tra về của còng thức/hàm hèn quan cũng thay đòi theo. Trong vi dụ ờ Hinh 7, thay đòi giá tri một ỏ trong khôi B2:D5 sẽ làm cho giá trị ô hèn quan b ong khôi ô E2:E5 thay đòi theo.
+35
+Một đặc tiiih khác nữa của Excel lã khà năng tự dộng thay đòi địa chi các ò được sử dưng trong cóng thức/hàm khi sao chép cóng thức/hàm từ ò này sang ỏ khác. Trong Hoạt động 1, khi sao chép công thức từ ô E2 sang các ô trong khối E3:E5, địa chỉ các ỏ được sử dụng trong còng thức đã thay đòi phù hợp VỚI VỊ tri mới. Vi dụ công thức ở ô E5 thanh =B5*C5+D5 {Hình ỉ).
+1.	Các kiêu địa chỉ trong Excel
+Si 2
+1)	Trong trang tính đươc tạo ra tìr Hoạt động 1, tại ỏ D2 lập còng thức =B2*C2*B7 đẻ tinh thuê cho sân phàm Máy tính. Sao chép nội dung ô 1)2 sang khỏi ô D3:D5 và giãi thích kẻt quà nhàn được.
+2)	Thực hiện lại yên càn trên nhưng công thức tại ò D2 là =B2*C2*SBS7 rôi cho nhận xét vẻ địa chì các ỏ tinh trong còng thức tại các ỏ thuộc khôi ò D3:D5
+PMBT Excel cung câp ba cách thay đòi địa chì cho một ò hoặc khỏi ò ứng VỚI ba kiểu dia chì khác nhau.
+- Địa chi tương đôi: dạng địa chì mà tên hàng và tên cột thay đòi khi sao chép ỏ chưa còng thức sang một ò khác. Theo mặc định, các địa chỉ trong còng thửc/hàm là địa chì tương đối. Trong ý 1 cùa Hoạt động 2, kết quà nhận được sai do B7 trong còng thức ở ỏ D2 đã thay đòi thành B8, B9. B10 trong còng thức tại các ò D3, D4, D5 trong khi biên B7 càn được giữ nguyên (vi ò B7 chửa mức thuê chung cho nhiêu loại hàng hoả).
+Địa chỉ tuyệt đôi: dạng địa chỉ mà tên hãng và tên cột không bị thay đòi kin sao chép ò chữa công thức sang một ỏ khác. Đẻ danh dâu là địa chì tuyệt đôi, Excel sử dụng ki hiệu “$” đặt trước tên cột và tèn hàng. Trong ý 2 cua Hoạt động 2, giã ti Ị nhận được là chính xác bời biên B7 trong công thức ờ ò D2 không bị thay đỏi trong
+còng thức ờ các ò khác. Vi dụ còng thức trong ỏ D4 là =B4*C4*$B$7 (Hinh 2). - Địa chi hỗn hợp: dạng đia chì có tèn hàng hoặc tên cột thay đòi khi sao chép ỏ chua còng thức sang một ò khác, phàn còn lại giữ nguyên Đè đánh dâu là địa clù hòn	SUM »)(x V		/•	.S<C«»BF			
+
+J	A	B	c	D	E
+1	Tên háng	. 80 hrọng	Đon giá (Nghìn VND)	Thuê (Nghìn VND)	Thành tiên (NghmVND)
+2	Máy tinh	24	8 400	17 136	218 736
+3	Mán hình	15	3 200	4 080	52 080
+4	Máy in	6	3 700	=B4*C4»SB$7	24 087
+5	Máy chiêu	5	9 400	3 995	50 995
+6					
+7	Thuế	8.5%			
+hợp, Excel sư dụng ki hiệu s dặt trước thành phàn không thay đỏi.	Hình 2. Sao chép công thừc chỉra địa chi tuyệt đồi					
+Vi dụ. SB7 và BS7 đêu là cãc dia chỉ hỏn hợp.
+36
+3. Thực hành
+Nhiệm vụ
+1)	Cho bảng dữ liệu như Hình 3, tại ò C3 lập còng thúc =SB3*CS2 để tinh diện tích hình chữ nhật có chiều dài và chiều ròng được hru trong các ỏ B3 và C2. Sao chép nội dung ò C3 ra toàn khôi C3:G6 ròi quan sát các kẻt quà thu được và nội dung cóng thửc trong các ỏ thuộc khỏi C3:G6.
+2)	Thực hiện lại yêu càu trèn VỜI các kiẻu địa chì khác nhau (tương đôi, tuyệt đòi, hòn hợp) trong công thức tại ò C3
+3)	Em có nhận xét gi VỚI kèt quà thực hiện hai yêu càu trên.
+■n Cho bàng dữ liệu doanh thu của một phòng bán vé xem phim như ờ Hình 4. Em hãy lập còng thửc dè tinh: 1) Tòng vé đã bán cho timg phim.
+2)	Doanh thu cho từng phim
+3)	Tổng doanh thu phong vé.
+J	~ÃT i 1 í 1 0 1 i					
+1	DOANH rau PHÓNG vi					
+STT	Tènpỉin.	Luông ve btnia			Doanh Ún
+N gay ứarangl Cuós tuân		Tỏng ve	
+4	]	Cbungưe bít khaa	2400	21 167		
+•		ThỏPeía 2	32 737	29 813		
+•	3	Mua h« của Luca	26 655	23 289		
+4	Khach san huyên ta	35 178	32 266		
+•		TáM				
+•						
+10	01» ve					
+II		Ngay thương	tí 000			
+1í		Ngay cuá min	110 030			
+Hình 4. Bàng dữ liệu về doanh fhit phòng vé
+•SI
+Câu 1. Khi sao chép ỏ tinh chứa cống thức sang nơi khác. đia chi ô tinh trong cõng thức thay đỏi như thề nào?
+Câu 2. Thế nào là địa chì tương đối, địa chỉ tuyệt đối, địa chi hỗn hợp? Hăy cho ví dụ.
+Câu 3. Các dạng địa chỉ sẽ thay đổi như thề nào khi được sao chép sang nơi khác?
+TÓM TẮT BÀI nọc
+❖	Klũ sao chép một ô có chua còng thức, địa chì ỏ trong còng thức sẽ thay đỏi phù hợp với vị tri mới.
+❖	Địa chi tương đỏi: dang dia chi có the thay đòi cã tên hàng và tẻn cột khi sao chép còng thức sang nơi khác.
+❖	Địa chì tuyệt đỏi: dạng dia chì có cả tên hàng và tèn cột khòng bị thay đòi khi sao chép công thức sang nơi khác
+❖	Đìa clũ hòn hợp: dạng địa chì có tèn hàng hoặc tên cột thay đổi kin sao chép còng thức sang nơi kliac.
+37
+(^ài 6. !
+Học xong bài này, em sẽ:
+.	Thực hiện được các thao tác tạo biểu đồ.
+.	Sao chép được dữ liệu từ cắc tệp văn bàn, trang chiếu sang trang tính.
+•	Sừ dụng được phần mềm bàng tính trợ giúp giải quyết bài toán thực tế.
+Bài 1. Lập sô chi tiêu hàng tháng
+Nhiệm vụ: Em hãy lập một sò chi tiêu cá nhân đè ghi lại nhật kí chi tiêu trong tháng Sổ quân li chi tiẻu gồm có ba bâng và hai biểu đồ như minh hoạ trong Hình 1.
+Hình 1. Miĩih hoạ vị số quàn ỉi chì tiêu cá nhân hàng thâng
+Bàng Nhật ki chỉ tiêu ghi lại những khoản dã chi trong tháng. Các khoản chi dược phàn thành các hạng mục: Học tập (mua đô dùng học tập, sách tham khảo)\ Ăn uông (ãn sáng, ãn quà,...)\ Giài tri (xem phĩm, mua truyện) và chi khác (đi ỉại, tiêu vặt,...).
+38
+-	Bang Ngán sách tháng bao gôm các mục: Sò tiên hàng tháng em được giao tự quản li chi tiêu; Sò tiên tièt kiệm được tìr tháng trước; Sò tiên có thèm được tir việc làm kẻ hoạch nhỏ như bán sách báo, giày vụn, chai lọ không sử dụng,...
+-	Bàng Tông hợp chỉ tĩêu tháng: ghi lại tòng sò tiên đã chi trong thảng theo các hạng mục. sỏ liệu trong bàng này được cập nhật tự động khi thay đòi sỏ liệu trong bàng Nhật ki chỉ hên.
+-	Biêu đò Tỏng hợp chì hên tháng biên diẻn trực quan sỏ tiên đã tiẻu cho mòi hạng mục và lượng tién còn dư lại (sẽ được chuyên sang tháng sau).
+- Biêu đỏ Ti lệ chỉ tiên theo hạng mục: biêu diên ti lệ chi tiêu theo timg hang mục.
+Em hãy nhập dữ liệu chi tiêu trong một tháng và quan sát những thay đôi tương ứng trong Bảng tông hợp chỉ tĩêu tháng, Biẽu đô tông họp chỉ tiêu và Biêu đô ti ỉệ chỉ tiêu theo hạng mục đè biẻt và tự quàn li clú tiêu của minh cho phù hợp
+Bài 2. Lập trang tính quan lí chi tiêu trong nãm
+Nhiệm vụ: Giã thiết em có một tệp văn bàn chửa bàng quàn li chi tiéu hàng tháng trong năm 2022 như Hình 2, trong đó:
+-	Cột Sô tiên có ghi sò tiên hàng tháng em được giao tự quàn li.
+-	Các cột trong nhóm Hạng mục chi ghi lại sò tiên đã chi trong tliáng theo tìmg hạng mục
+Em hãy điền dữ liệu thực tẻ (hoặc già đinh) cho bàng quân li, rỏi sau đó thực hiện các còng việc sau:
+SÓ QUẤN Li CHI TIÊU NĂM 2022
+ỉhâng	Sỉ t4n co	Hang muc ctM			
+Hộc up	Ân uổng	Giiitri	Khac
+1					
+
+ỉ					
+4					
+5					
+6					
+7					
+s					
+9					
+>0					
+11					
+12					
+Hình 2. Ọtừm ỉi chi tiêu trơììg nâĩti
+- Sao chép toàn bộ nội dung cua bàng (bao gôm cà tiêu đè) sang một tệp Excel và chỉnh sửa định dạng cho phủ hợp.
+- Chèn vào sau các cột Hạng mục chỉ cột có tiêu dê Tìêt kiệm tháng.
+- Lập còng thức đê tính sò tiên tiẻt kiệm trong thang ở cột mới thèm.
+- Chọn một ô hợp li đẻ đua vào đó còng thức tinh sỏ tiên tiẻt kiệm tích luỹ đirợc trong năm.
+»■ Em hãy giúp bạn quàn li quỹ cùa lớp, thièt kẻ một sô chi tiêu sao cho có thẻ
+quàn li quỵ lớp được rỏ ràng và hợp li.
+39
+)
+
+VÀ
+E2. SOẠN THẢO VÀN BẢN
+PHẦN MỀM TRÌNH CHIÊU NÂNGrCAO
+•*<ỉ>
+(!)
+XỪỊLW)MV|RbSM
+Học xong bài này, em sẽ:
+•	Biết được cách tạo vùng vẽ và tạo hình vẽ cơ bản. hiệu chình được hình vẽ.
+•	Biết được cách đưa ảnh vào văn bàn và hiéu chình vị trí, kích thước, đường viền cùa ành.
+Khi đọc một cuỏn sách có hình ãnh minh hoạ, dù chì là một sô nét vẽ đơn giàn cũng giúp ta thày húng thú hơn. Tại sao?
+1. Tạo và xử lí hình vê
+Theo em, mỏ tà quy trinh tuyên thành viên càu lạc bộ Tniyèn thòng ờ phàn bên trái trong Hùih 2 có tru điềm gi so VỚI thông báo chi băng văn bàn9
+Phàn mèm soạn thào vãn bàn có săn nliiẻu mâu hình cơ bản, có thẻ sử dung chúng đẻ tạo ra lùnh vẽ mong muôn. Quy binh tuyên thành viẻn bong Hình 2 là sự kẻt hợp cua các hinli cơ bàn như hinh chữ nhật, hinh tlioi, mũi tên. hòp văn bàn và kiêu hình chủ thích Quyẻn sách này dùng phản mèm Word phiên bàn 2016 của công ty Microsoít đe 11111111 hoạ.
+Lệnh Shapes ở dài lệnh Insert mỡ ra một bàng chọn các hình cơ bàn. Quy trinh chung đè tạo hĩnh vẽ như sau:
+Bước ỉ. Đặt con ưỏ soạn thào tại vị bí càn chèn trong văn bản, nháy chuột vào lệnh Shapes bèn dài lẻnh Insert. nháy chuột vào lênh New Drawing Canvas đẻ tạo vùng vẽ.
+Bước 2. Chọn một hình vẽ càn tạo trong nhóm Insert Shapes trên dãi lệnh Drawing Tools\Format (Hình 1). Lúc này, con trò chuột biên thành hình dâu cộng. Đua con trô chuột vào vùng vẽ, nháy chuột trãi, kéo rê khi được hình càn tạo tlii thà chuột trái.
+40
+0 «5-0
+Docixncntỉ7 • Wofd
+DtMMRQ Tooh
+hle Home Iruert Do^n líycvt Rcfmr>cei Midinạỉ tana* v>ew	ọ Tel'me AM'
+^□\\DO fO*SM*-
+□Ù1XỘỘ • EOrmlbrt#. ovyvị » •
+XlShipeMP £$hap«0tftm-
+Ỡ Shjpe í Me<t5 •
+AAAỂ
+I	mrtShipti_______________________________aw<aim_____________________*___________wợrdAitayk>
+Hình ỉ. Dãi lệnh Dranbig Tooỉs\ Format
+Bước 3. Chọn hình vẽ đã tạo và thực hiện hiệu chình bằng các lệnh phù hợp trèn
+dài lệnh Drawing Tools\Format
+Hiệu chinh kích thước, vị tri cùa khung vẽ
+Việc tạo vùng vẻ ờ Bước ì là càn thiêt đê cãc hình vẽ trong vùng vẽ sè không tự do di chuyên đên nhũng VỊ trí không mong đợi. Thêm nữa, các mũi tên nôi các hình như trong Hình 2 sẽ tự động băt dinh vào các diêm điêu khiên bao quanh hình càn nối đèn. Các mũi tên này tu động co giãn, thay đỏi theo hình vẽ.
+- Hiệu chỉnh kích thước của khung vẽ: nháy chuột phải tại cạnh của khung vẽ, chọn lệnh Fit đè kích thước khung vừa đủ bao b ọn các hình vẽ.
+- Hiệu chình vị tri của khung vẽ: (1) Nháy chuột tại cạnli đè chọn toàn bộ khung vẽ; (2) Chọn Layout Options; (3) Chon một kiểu vị tri trong báng chọn xuất hiện.
+Biểu tirợng
+Layout Options
+Kiểu vị tri đtrợc chọn
+Ợ
+
+LAYOUT OPTIONS X In Line with Text
+Nhân hồ sơ
+- -o----------
+QUY TRÌNH TUYÊN THÀNH VIÊN CÂU LẠC BỌ TRUYỀN THÔNG
+Đíl
+Không dại
+Trong vỏng I tuàn từ khi nhãn hồ sơ
+Gửi giây mời phông vấn
+hồ sơ
+Xét duyệi
+With Text Wrapping
+Move with text ® Fix posibon on ® page
+o
+Gưi (hỏng báo từ chổi
+o
+See more_
+Hình 2. Lựa chọn một kiêu vị tri cìia khung vẽ
+VỚI lựa chọn như trong Hình 2, khung vẽ được đặt ờ vị trí sao cho phàn văn bản bao xung quanh khung vẽ theo khung hình chữ nhật.
+Hiệu chình màu nên, nét vẽ và kích thước hình vẽ
+Khi chọn một đỏi tượng lìinh vẽ, trên dải lệnh Drawing Tools\Format cung càp nhiêu nhóm lệnh đè hiệu chỉnh. Trong Hình 3 lả minh hoạ các bước tò màu nên cho hình băng sử dụng lệnh Shape Fill
+41
+Nhảy' chuột vào tênh
+Shape Fiỉt
+Nháy chuột mở dãi lệnh Đraning Tooỉs\Format
+®Nhây chuột vào một kiẻu tỏ mâu nèn
+Hình 3. Tô màu nền một hình
+Muôn thay đỏi kích thước 1Ù1111 vẽ, ta nháy chuột vào 11Ì1111 vẽ đé làm xuàt hiện 8 nút tròn bao quanh như lìinh chữ nhàt màu xanh tại Bước 1 trong Hình 3. Sau đó, di chuyên con trò chuột vào vị trí các nút tròn này cho đên khi nó chuyên thành hinh mũi tên hai chiêu, thực hiên kéo thà đè chình kích thước.
+Đê thay đòi VỊ tri cùa hình vè, ta di chuyên chuột vào hình vẽ, khi nào con trỏ chuột chuyên sang mũi tên bôn chiẻu thi nháy chuột đè kéo thà đén vị u i mong muôn.
+2.	Chèn ảnh và hiệu chỉnh ảnh trong văn bàn
+Đè chèn ành vào vãn bàn, ta đãt con trỏ tại vị tri càn chèn, nháy chuột vào lệnh Pictures trẻn dãi lệnh Insert, chọn nguỏn lày ânh tir mảy tinh hoặc tìr Internet, thực hiện thao tác tim ành vã chèn vào văn bàn.
+Ht Him- >	Ootp l*1'1 Mrmcn Uttagi fcw 1 > Manhtr *<'W		lcmnt		2 IrinaU		
+r J	CoikM*- Hto^mltam a^»- ĩỉCh»r*w !*!»!»•« tỉ*M«íWK»- *i;Uí«»<tim -	rm	r-m	r—'	r—'	r—	p^ —	—	— sí	ií	đÉ	□		Khtu.tad,.- . ki**’’’*-"’:6.' - lỉiMc : • J P<M Mko •	-	ú s«nd U»*uí ■ ' í	* ’-^ ^^.^o^ T ^2»'« : •	*••*•••	to	•	A 1			
+Hình 4. Dãi lệnh Pictiưe Tools\Format xuất hiện khi một ánh dirợc chọn
+Klu một ảnh được chọn, uên vùng dài lênh cùa giao diện xuàt luện thèm dài lèiili Picture TooỊs\Format chửa nhiêu lệnh đè hiệu chinh ãnh (Hình 4).
+Một so hĩệu chinh thường dùng cho đẳi tượng ânh
+Hièu chình kích thước và VỊ ui aiúi được thưc luèn băng diing chuỏt tlieo cách hoàn toàn tương lự như đỏi với hình vẽ Ngoài ra, ta có thẻ sử dmig các lệnh phù hợp trên dài lênh Picturc Tools\Forniat
+Cắt xén ánh. Lệnh Crop cho phép căt xén một phàn cùa ành theo clìièu ngang hoặc chiêu dọc (Hình 5). Ngoài ra, cỏ tliè cãt xén ànli tlieo một khung lùnh màu cơ bàn.
+42
+Tạo khung vtền: Nhóm Picture Styles cỏ các lèiili cho phép tạo khung Viên theo mâu có săn hoặc tụ điêu chình khung viên, hiệu ừng của ành.
+©......
+Chọn lệnh Crop sau khi chọn ành
+vị trí gạch đen xung quanh hình và kéo thã đễ xẻn /linh
+Kết quà ÒỈIỈI sau khi xẻn ở Birớc 2)
+Hin/ì 5. Các birởc cát xẻn ành theo chiều ngang
+Em hãy chèn một ành trong máy tinh vào một văn bàn và tạo khung viển cho ânh theo một kiêu tự chọn.
+Em hãy ve sơ đổ thể hiện các vị tri trong thu viện trường em. Sơ đồ cẩn có VỊ tii các cửa ra/vào, bàn đãng ki mượn sách, các kệ sách.
+“-#
+Trong các câu sau, những câu nào đúng?
+1)	Nên tạo vùng vẽ và vẽ trong đó để tránh các hình vẽ bị di chuyển sai lệch so với bổ cục hình vẽ mà ta đã thực hiện.
+2)	Khi đã đưa một mău hình cơ bản vào văn bán thì không thẻ thay đồi hình dạng, kích thước và vị trí của nổ.
+3)	Chì có thẻ chèn vào ván bàn những ảnh đã lưu sản trên máy tinh đang dùng.
+4)	Có thẻ chèn được ành vào trong khung vẽ để kết hợp với các hĩnh vẽ cơ bản tạo được hình như mong muốn.
+/-------------------------------------------------------------------X
+TÓM TẤT BẢI HỌC
+❖	Các lệnh Shapes va Pictures trên dài lẹnh Insert cho phép chèn liinh và ành vào vãn bản
+❖	Dãi lệnh Drawing Tools\Format hoặc Picture Tools\Forniat chửa các lệnli cho phép lũệu clunh kích thước, đường viên, mâu nén,...
+43
+
+[M5
+ỉ lọc xong bài này, eni sẽ:
+Sử dụng được các hình cơ sờ và tạo đươc khung ảnh trong soạn thào văn bản.
+Bài 1. Sử dụng hình cơ sở
+Nhiệm vụ: Vẽ sơ đô của trường em đang học (Hình 1).
+Các hình vẽ được đặt trong một khung vẽ. Trong sơ đò càn có các vị trí công trường, các dãy nhà (phong HỘI đòng, phòng học), có the có vị tri sàn vận động, nhà đa năng, nhà ăn, nhà đè xe.
+Hưởng dân: Tạo vìing vẽ, sử dụng các lúnh cơ bản đê minh hoạ phủ hợp.
+Bài 2. Tạo khung ảnh
+Nhiệm vụ: VỚI ảnh lày dược tìr Internet, em ỉiãy tạo hình vẽ vòng đời của loài bướm. Yêu càu có ảnh cho đủ bòn giai đoạn và chú thích.
+ỉỉưởng dàn: Tham khảo Hình 2.
+-	Tài tìr Internet ành cùa bòn giai đoạn.
+-	Tạo một khung vẽ. Dưa bòn ành vào khung vẽ, săp xẻp vị tn cho hợp li.
+-	Tạo thêm các đòi tương mũi tên cong và thêm hộp văn bân chú thích
+Sừ dụng lệnh Crop\Crop to Shape và chọn một hình dê căt xén ành, vi dụ hình oval (Hình 3).
+Em hãy bổ sung thèm hinh vẽ hay ảnh vào một vãn bàn đã cỏ (vi dụ một bài tập) đẻ minh hoạ cho nội dung và làm vãn bàn trở nên sinh động hơn.
+Hinh 1. Sơ dỏ ỈỈIỘĨ trường học
+Hình 2. Vòng dời phát trièn cùa loài bướm
+Ahmr	# ,
+□□□QQDDoD	Ạ$p«tfU(>0 •
+BmK sk*p*4	. .,
+ÕÃ^^ỘỌỌỌ©©®® „ Hình 3. Lệnh cắt xén ãnh
+44
+c^ài3.
+Học xong bài này, em sẽ:
+. Trình bày được cách tạo danh sách dạng liệt kẻ.
+• Nêu được cách tạo tiêu đề đầu trang, tiêu đề chân trang và cách đánh số trang.
+(!)
+Trong sáclì giáo khoa Tin học 8, em có nhận xét gi vẻ cách trinh bày nội dnng các mục Cân hòi tự kiêm ti a và Tóm tăt bài học ờ cuôi mỏi bài học?
+ỉ. Tạo danh sách liệt kê
+g1----------------------------------------------
+Em hãy quan sát Hình 1 và cho biết sự giống nhau và khác nhau trong cách trinh bày nội dung “Tiêu lệnh chữa cháy" và “Quy tắc 5K”? Theo em, có nên trinh bày hai nội dung này theo dinh dạng giông nhau không?
+Tiêu lệnh chữa cháy:
+1.	Klũ xảy ra cháy cần báo động gàp.
+2.	Cúp cần dao điên cũa toà nhà.
+3.	Dùng binh chừa cháy, cát. nước đe dập lửa.
+4.	Gọi 114 để báo cháy.
+Quy tác 5K:
+> Khâu trang
+> Khừ khuẩn
+> Khoáng cách
+> Không tập trung > Khai báo y tề
+Hình ỉ. Ví dụ trình bày' nội dung dạng tiệt kê
+Trong thực tế, có nhiều tinli huống ta cần trinh bày thòng tin ờ dang hệt kè bằng các đoạn văn bản liên tièp, mỏi đoạn diẻn đạt một ý như vi dụ bong Hình 1. Nêu thứ tự các ý ở bèn trai Hình ỉ là quan trọng, ta dùng các chì sò có thử tự (chữ sò, chữ cái,...) đẻ thèm vào đàu môi đoạn. Trong trường hợp ngược lại, ta dùng cìuig một biêu tượng dẻ thêm vào đàu mỏi đoạn như ờ bèn phải Hình ỉ.
+a)	Tạo danh sách liệt kê
+Chùng ta có thè tạo các danh sách hệt kè ngay trong lúc đang soạn thao nội dung hoặc cỏ thè tạo danh sách hệt kê sau khi các nội dung đã dược soạn thao dày đủ.
+45
+Kiểu ki tự đầu dòng tự động thêm vào
+Lện/i Numbering cỏ màu xám
+Lệnh	Lệnh
+Buỉlets	Nttmbering
+Các mầu hiểu tượng dấu dòng có sẵn
+Hình 2. Quà trình tạo danh sách hệt kê dồng thời nhập ỈÌỘI dung
+Hình 3. Lệnh tạo danh sảch hệt kè
+ơ Hình 2 minh hoạ các bước tạo danh sách dạng liệt kè có thứ tự. Khi gõ “1.” và dân cách, phàn mém soạn thào cỏ chẻ độ mặc định đè tự dộng chuyên “1." thanh kí tự đánh dấu đàu đoạn Tiẻp đó, khi nhàn phim Enter, sẽ có “2.” tự động xuât hiện ngay đâu đoạn mới.
+Trong trường hợp các đoạn vãn bàn dã có săn, nhưng chưa ờ dạng hệt kẻ, ta thực hiện các bước sau đẻ tạo danh sách liệt kê cho các đoạn này:
+Bước ỉ Chọn các đoạn càn tạo danh sách liệt kè.
+Bước 2. Trên dài lệnh Home, nháy chuột vào lệnh Bullets hoặc Numbering (Hình 3), nliáy chọn một kiêu đánh dấu đâu đoạn trong bàng chọn xuất hiện. Kèt quả là các đoan đã chọn tạo thành danh sách ờ kiêu hệt kè vìra chọn.
+b)	Thay đôi hoặc huy bó danh sách liệt kê
+Si2
+Dùng chuột chọn một đoạn vãn bàn đã dược dnili dạng theo kiêu danh sách liệt kê có thứ tự, sau đó em hãy khám phá cách thay đòi định dạng hệt kè cho đoan vãn bản nãy. Hãy nẻu kèt quà em tim hièu được
+Phàn mèm soạn thao cho phép thay đòi biêu tượng/ki tư đàu các đoạn cua danh sách liệt kẻ, chuyên từ kiêu liệt kẻ có thứ tự sang kiêu không có thứ tự và ngược lại hoặc huỷ bỏ định dang kiêu danh sách hệt kè.
+2. Tạo tiêu dề đầu trang, chân trang và đánh số trang
+Trong một sỏ tài liệu, theo quy định phải có phân thông tin giông nhau xuât hiện ờ đâu hoặc chân các trang. Dạng thông tin này được xem như là tiêu đẻ ở đâu trang, chân trang. Hình 4 là một vi dụ vẻ tiêu đè đàu trang và tiêu đẻ chân trang. Trên dài lệnh Insert của phàn mẻm soạn thao, nhỏm lệnh Header and Footer chứa các lênh đẻ tạo tiêu đẻ đàu trang, chân trang và đánh sỏ trang cho văn bàn.
+46
+Bao cao món Tin hoc
+Chủ đê Hương nghỉ ép VÓI Tin hoc
+Tiêu đề đầu trang
+3. Một số ngành nghề trong linh vục vận hanh hệ thông công nghệ thõng tin
+^ Quản h cóng nghé thõng tin la người dưng đáu bó phãn cõng nghê thõng tin cũi mót co quan, doanh nghiép
+Một phần trang vân bàn
+NHOM 3 - LƠP SA 2
+TRANG 1
+Tiẻu đề chân trang
+Hình 4. Vỉ dụ về tiêu đễ đầu trang, chân trang trong ĩnọt bàn in báo cáo
+a)	Tạo tiêu đề đầu trang và chân trang
+Đê tạo tiêu đẻ đàu hang hoặc chân trang, ta thực hiện theo các bước sau:
+Bước 1. Trên dài lệnli Inscrt, nháy chuột vào lệnh Header hoặc Footer
+Bước 2. Chọn một màu tiêu đé bong bảng các màu tiẻu đè.
+Bước 3 Thục hiện chình sửa nội dung cho tiêu đẻ.
+Phàn vãn bản bong trang soạn thảo sẽ bị mờ đi khi ta đang ờ chẻ độ soạn thào tiẻu đẻ đàu b ang và chân trang
+Dài lệnh Header A
+Footer Tools\
+Design
+Vùng biên soạn tiêu đề đầu trang
+Vùng biên soạn nội dung
+Bao cao món Tin hoc
+Tin
+hoc
+Chù đó Hương nghi ép vơ
+3.
+vụ*
+vận hành
+cõng nghi
+'*
+^ Quản h cóng nghê thõng Un la ngucn dưng đáu bó phán cõng nghê thõng Un cùa mót co quan, doanh nghièp
+Hình 5. Chế dộ biẻn soạn ffội dung tièu dề dân trang	trang
+Đê chuyên vè soạn tliào nội dung bong bang văn bàn, ta lúiáy chuột vào lênh Close Hcader and Footer (Hình 5) lioặc nháy đủp chuột vào phàn bang vãn bàn.
+b)	Đánh so trang
+Việc đánh sò bang là càn tluèt ngay cà khi vãn bàn chì có vài bang in. Ta dẻ dâng làm điêu đó bâng hai bước sau:
+Bước ỉ. Trong dài lệnh Insert, chọn lệnh Page Number (Hình ố) đẻ mờ bàng có sẵn các mẫu đánh so bang.
+Bước 2. Nliáy chuột chọn một kiẻu màu phù hợp.
+Đê xoá phàn tiêu đẻ đàu bang, cliàn bang hoặc sỏ bang, tnrớc tiên nháy chuột vào
+47
+lẻiili Header, Footer hoặc Page Number trèn dải lệnh Insert. Tiêp đó, nháy chuột vào lệnh Remove Header, Remove Footer hoặc Remove Page Numbers ờ cuôi bàng chọn.
+Hình 6 Chèn sổ trang vào chân trang cùa ván bàn
+Các mân đánh so trang
+Lệnh Page Number
+* Em hãy thay đổi ki tự đầu đoạn danh sách hệt kè trong Hình ỉ như sau: sử dụng kiểu “1)”, “2)”,... cho phân “Tiêu lệnh chữa cháy”; sử dụng biêu tượng • cho phần “Quy tắc 5K”.
+UB Em hãy tao nội dung tiẻu đé đau trang, chân trang tương tư nliư vi dụ trong Hình -ỉ cho một tệp vãn bàn là báo cáo tỏng kẻt các hoạt động thi đua trong học ki I của lớp em.
+Trong các câu sau, những câu nào đủng?
+1) Cần phải thêm ki tự hoặc biểu tượng đánh dấu đầu các ỳ líêt kê trước khi nhập nội dung các ỷ đó.
+2) Có thẻ thực hiện thay đồi từ kiẻu danh sách liệt kẻ cỏ thứ tự sang kiẻu không có thứ tự hoạc ngược lại.
+3) Đẻ tạo tiéu đè đầu trang như nhau ở mọi trang, ta chì cần thực hiện biên soạn nội dung trong vùng đầu trang tại một trang bốt kl.
+4) Khi chèn sổ trang vào phần tiêu đẻ đầu trang hoặc chân trang thì sẽ không thẻ thêm nội dung khác ngoài số trang.
+5) Không thể thực hiện loại bỏ toàn bộ tiéu đề đầu trang hoặc chân trang bàng một lênh, mà ta cần thực hiện xoá lần lượt hết các nội dung của nỏ.
+TÓM TẤT BÀI HỌC
+❖	Khi càn đinh dạng nhiéu đoạn hèn tièp theo kiêu danh sách liệt kẻ, ta sử dụng lệnh Bullets, Numbering tiên dài lệnh Home
+❖	Lệnh Header. Footer. Page Number tiên dài lệnh Insert cung càp bàng các mẫu tiêu đề đau trang, chân trang, sổ trang. Sau khi chọn một mẫu, ta sẽ thực hiện biên soạn nội dung cho tiêu đê.
+48
+Cỳãàr 4.
+ữS!® ©2KKj
+
+S^GHĨĨỈĨỆTlKỂ
+ỉ ỉ ọc xong bài này, em sẽ:
+•	Trình bày đươc thông tin dang liêt kẻ có thứ tự hoẳc không có thứ tự.
+•	Thực hiện được việc tạo tiêu đề đầu trang, chân trang và đánh sổ trang cho văn bán.
+Bài ỉ. Tạo danh sách dạng liệt kê có thứ tự
+Nhiệm vụ: Em hãy trinh bày các mức nhận thức theo thang đo Bloom ờ dạng danh sách liệt kẻ có thử tự.
+Hướng dân: Tạo thử tự theo mức độ tăng dàn như gợi ý trong Hình J.
+Bài 2. Tạo danh sách dạng liệt kê không có thú tụ
+Nhiệm vụ: Em hãy tạo danh sách liệt kè tóm tăt các điên nêu trong
+Các cấp độ nhận thức tàng dần theo thang đo Bloom:
+1)	Glú nliớ (Remembering)
+2)	Hiểu (Ưnderstanding)
+3)	Áp dụng (Applying)
+4)	Phân tích (Analyzing)
+5)	Đánh giá (Evaluating)
+6)	Sáng tạo (Creating)
+Hình 1. Càc mức độ nỉìận thức đirợc trình bày dạng hệt kẻ
+NỘI quy phòng máy trường em. Các mục trong nội quy dược đảnh dâu đàu dòng băng một ki tự hoặc biêu tượng tuỳ ý.
+Hưởng dẫn
+- Soạn các mục trong nội quy và đinh dạng theo kiêu hệt kè khỏng có thứ tự.
+- Ngoài các kiêu đanh dâu đàu dòng có săn, ta có thẻ tạo một kiêu đánh dâu mới theo các bước sau (Xem minh hoạ như ở Hình 2Ỵ
+Bước ỉ. Nháy chuột vào lệnh Bullets
+Bước 2. Nháy chuột chọn Deíỉne New Bullet...
+Bườc 3. Nháy chuột vào lệnh Symbol đè chọn một ki tự đặc biệt, hoặc nhảy chuột vào lệnh Pỉcture đè chọn một ảnh dùng đê đánh dàu đàu dỏng.
+Bước 4. Nháy chuột vào lệnh OK dè tạo thèm kiểu đánh dâu đàu dỏng mới.
+Khi nháy chuột vào lènh Bullets, ta sẽ thày xuàt hiên thêm kiêu mời tạo như bèn phải Hình 2 và nó được sử dụng như các kiêu có săn khác.
+49
+Hình 2. Bổn birớc tạo một kiêu đánh dấu dâu đoạn ỉiệt kê mới và kết quà sau Birởc 4
+Bài 3. Tạo tiêu dề dầu trang và dánh số trang cho vãn bản
+Nhiệm vụ: Hãy sử dung một vãn bàn gôm vài trang, tạo tiéu đẻ đâu h ang và đánh số h ang cho văn bàn trong phẩn chàn trang như sau:
+Phấn dầu trang
+BÀI TẬP HÓA HỌC 8
+Năm học: 2022 - 2023
+Trang 1
+Phàn chân trang
+Hướng dẫn
+-	Tạo tiêu dể đau trang: (1) Chọn InsertMIcader, rồi chọn mẫu phù hợp; (2) Chèn biểu tượng/hinh ành vào phía trái; (3) Nhập nội dung văn bàn.
+-	Đánh sỏ trang: (1) Chọn ĩnsert\Page NumbeiABottom of Page, chọn màu có sỏ trang ờ bèn phài; (2) Nhập thèm tir “Trang" vào tnrớc sò bang.
+o	Hãy chọn một hinh hay ânh làm biểu tượng đại diện cho văn bàn cùa em và gãn nỏ vào tiêu đè chân trang trong các văn bàn cùa em.
+Vi du, VỜI biêu tượng chim đại bàng làm đại diện cho vãn bàn cùa mình, em có thè tạo tiêu đè chân bang VỚI dạng nliư san:
+Tài liệu õn tảp Ván học 8
+Trán Đức Trung
+Biểu tirợng dại diện
+Tèn tài liệu
+Tên học sinh
+50
+#N.G)HỎP
+ỉ lọc xong bài này, em sẽ:
+Tạo được một vài sản phàm là văn bàn có tính thầm mĩ phục vụ nhu cẫu thực tế.
+Bài thục hành. Tạo văn bân về kế hoạch đi dà ngoại
+Nhiệm vụ: Em hãy tạo một văn bàn trinh bày kể hoạch một ngày đi dã ngoại cùa lớp em tlieo những yêu càu sau:
+-	Bàn kẻ hoạch càn có các mục: 1. Thời gian, địa điẻm; 2. Lịch trinh; 3. Một sò hruý.
+-	Nội dung clu tièt mòi mục ngăn gọn, sử dụng các kièu đánh clii mục đàu đoan hợp 11.
+-	Cỏ một vài hình ânh vè địa điẻm tham quan mà lớp em sẽ tời.
+-	Có tiêu đề đầu trang và tiêu đề chân hang. Tiêu để chân trang: có tir “TRANG", tiẻp đèn là sỏ hang tự động đạt ờ giữa trang.
+Gợi ỷ và hưởng dân
+-	Quan sát Hình ỉ đẻ tham khảo cách trinh bày phàn nội dung ba mục theo yêu câu và sãp xẻp ảnh trong văn bàn.
+-	Tiêu đè đàu trang có thẻ là càu slogan của lớp ở bèn trai, ảnh logo cua trường ờ góc bên phải.
+Hình 1. Minh hoạ một phấn nội dnng đản trang ỉ và trang 2 cùa bàn ke hoạch
+■	KỂB Em hãy tạo mọt vãn bàn giời thiệu vè trường em. Nội dung vãn bàn gôm: sơ lược lịch sử ngòi trường, những thanh tích nôi bật, hinh ảnh khuôn viên trường (có thè có sơ đỏ kèm chú thích hoặc ảnh).
+51
+M§WpìflJĨHÌ6H IÉ Uj
+ỉ ỉ ỌC xong bài này, eni sẽ:
+• Biết được cách sử dụng các bản mẫu (template) khi tạo bài trình chiếu mới.
+. Biết được cách áp dụng các mẫu đinh dạng (theme) trong định dang bài trình chiếu.
+(!)
+Hình 1. Bổn trang trình chiểu cùa một bàn mầu
+Khi xem một bài trinh chiếu, yếu tò nào thường tạo ẩn tượng tốt nhất cho em (màu sãc, ỈIÙIỈI ảnh, hiệu ứng hay nội dung)?
+1.	Sử dụng các bản mẩu dê tạo bài trình chiếu
+® 1----------------;------------------------------------------;---------'
+Em hãy quan sát bón trang chiêu trong Hình 1. Em có nhận xét gì vè màu sắc và nội dung trinh bày trên các trang chièu?
+Một bân màu thường bao gôm một số trang chiểu đã được thiết kể sắn theo một mục đích cụ thè như tạo bài giảng môn học, thuyêt trinh vê bào vệ mỏi trường, báo cáo doanh số,... Ta chi càn sửa nội dung ờ các hộp văn bàn, thay hình ảnh phù hợp vào các vị tri tương ứng trên trang màu đẻ tạo được bài trinh chiêu mới.
+Quy trinh chung tạo bài trinh chiếu tư bàn màu gôm ba bước như Hình 2.
+Tại Bước 2, ta có thè tim kiêm thêm bản màu băng từ khoa liên quan đẻn chủ dè của bài trinh chiẻu.
+Mọt bản màu thường có săn vài kiêu bò cục (Hình 3). MÒI bò cục tương ứng một kiêu sãp xẻp các đôi tượng (hộp vãn bản, hình ảnh,...) trên hang chiêu.
+Tạo b ang chiêu mới theo bo cục có sẵn: Trên dãi lệnh Home, nhảy chuột vào phía dưới lệnh New Slide. nháy chọn một mẫu bỏ cục.
+52
+Từkhoáđể tìỉìi kiếm bân mấu
+Một sổ bàn mấu tim đirợc theo từkhoá
+Classic boH block presenution
+©Trên bàng chọn Fìle.
+nháy chuột vào lệnh Nen
+Nháy chuột vào một bàn mầu
+Nhảy chuột vào lệnh Creaíe
+Hình 2. Ba birởc cơ bàn tạo bài trình chiểu từ một bàn mẫu
+Hình 3. Các mấu bổ cục kỉìác nhau trong một bân mẫu
+Lệnh Lay (Hít
+Bổ cục cùa trang hiện tại
+Trang hiện tại
+Thay dôi bỏ cục cũa trang chiêu: Chọn hang chiêu càn thay đổi, nháy chuột vào lệnlì Layout trên dải lệnh Home rỏi nháy chuột vào kiêu bỏ cục mới.
+2.	Áp dụng các mầu định dạng trong bài trình chiếu
+Q2-------------------------------------—■---------------------
+Em hãy quan sát ba trang trinh chiẻu trong Hình 4 -và cho biẻt những điểm giỏng nhau, khác nhau cùa chúng.
+Thanh txh NkUo
+ThW>tKh Hkúo
+UtquU*plM<t*«a^:MAgìO
+« >»«•>«
+Hình 4. Ba trang chiểu có phối màu khác nhau cùa cùng mầu định dạng
+MỎI màu định dạng được coi như một tập hợp định dạng màu sãc, phòng chữ và hiệu úng thong nhất cho tàt câ các trang trong bài trình chiếu. Việc sử dụng mẫu định dạng sẽ giúp ta dè dàng đè định dạng màu săc hài hoà, đảm bào tính tương phàn và thông nhàt phòng chữ trong toàn bài trình chiêu.
+53
+Đê áp dung một màu định dạng cho toàn bài tiiiili chiêu, nháy chuột vào một kiêu trong nhóm Themes trên dài lệnh Design Đẻ hiển thị nhiểu mẫu định dang hơn, nháy chuột vào lệnh More ờ góc dưới bèn phải cùa nhóm Themes (Hình 5).
+Fĩle Home Insert	Transrtions Animatons SlideShow Rev.ew View MathTỳpe Help
+Hình 5 Nỉ lỏn I Themes chừa các màu định dạng có sân
+Ngoài ra, phàn mém trinh chiếu còn cho phép hiệu chình màu săc, phòng chữ, hình nén, kích thước cùa các màu định dạng. Trong dài lệnh Design, nhóm Variants và Customừe chưa các lệnh đê thực hiện các hiệu chỉnh cho màu định dạng (Hình 6).
+Hình 6. Nhỏm ỉ ariants và Customize đê hiệu chình mâu định dạng
+Ta có tliẻ hiệu chình dược màu săc, cỡ chữ cho bân màu hoặc cho từng trang chiêu. Màu sãc cần đâm bào tinh tương phân giữa màu nền và màu chữ, ví dụ như chữ màu tòi trên nên sáng hoặc chữ màu sáng trên nẻn tỏi. Đông thời, màu săc cùa các thành phàn nên phôi màu theo quy tăc phôi màu cơ bàn. Cỡ chữ cua tiêu đè lớn hơn cỡ chữ phẩn nội dung, cờ chữ phẩn nội dung nên trong khoang từ 18 đến 32.
+^ Em hãy thay đổi mẫu định dạng cùa một bài trinh chiếu bằng một mẫu định dạng khác.
+«■ Em lựa chọn bàn màu tuỳ thích đè tạo bài trinh chiếu có nội dung phát động
+tuần lễ hoạt động hương ứng Giờ Trái Đất.
+Trong các câu sau. những câu nào đúng?
+1)	Có thề tìm kiếm và tài từ Internet các bàn mẫu theo một mẫu định dạng nhất định.
+2)	Không thẻ thay đồi màu sắc và phông chữ của một mẫu định dạng.
+3)	Không thẻ thay đồi các ành trong một bàn mẫu.
+4)	Cần định dạng ván bản có màu tối trên nền sáng và ngược lại để dê đọc nội dung.
+TÓM TÁT BÀI HỌC
+❖	Đẻ sử dụng một bàn màu tạo bài trinh chièu, ta nháy chuột vào File\New, nháy chọn một bàn màu phũ hợp và chọn lệnh Create
+❖	Sử dụng các màu dinh dạng trong khung Themes trên dài lệnh Design giúp định dạng bài trinh chiẻu hài hoà vè màu sãc và thòng nhàt vè phỏng chữ.
+54
+s®NWẬwyi
+ỉ ỉ ọc.xong bài này, em sẽ:
+. Sừ dụng được một bàn mẫu tuỳ ý để tạo bài trình chiếu.
+• Hiệu chỉnh được màu sắc, phông chữ, hình nền cho bàn mẫu trình chiếu.
+Bài thục hành. Tạo hài trình chiếu tong kết thỉ đua
+Nhiệm vụ: Em hãy tạo một bai trinh chiêu đẻ báo cão tòng kẻt tlìi đua trong thảng cua lớp em. Yêu cẩu cần đạt như sau:
+1)	Sử dụng một bân mâu phù hợp đẻ tạo bài trinh chièu có từ 4 đèn 6 trang.
+2)	Yêu câu vè bò cục: trang đàu tiên có bò cục kiêu Title Slide, các trang còn lại SŨ dụng từ hai bỏ cục khác nhau trở lẻn
+3)	Đinh dạng màu: màu chữ, màu nên đảm bào tinh tương phàn và hài hoà trong toàn bài.
+4)	Định dạng phỏng chữ, cỡ chữ: tiêu đê có phông chữArial, cỡ chữ tìr 30 đèn 40; nội dung cỏ phòng chữ Times New Roman, cỡ chữ từ 22 đèn 28.
+5)	Có ảnh và bàng trong bãi trinh chiêu
+6)	Thiết lập hiệu ứng trinh chiếu tuỳ ý.
+Hướng dàn: Xem Hình ỉ minh hoạ bôn b ang trinh chiêu.
+ô • o
+BÁO CÁO TỐNG KẾT THI ĐUA
+LÓP8A7
+THÁNG 10	u ^ <-
+KẾT LUẠN
+Q _
+QUÀ THỰC HIÊN w KỄ HOẠCH NHỎ
+ĐƠT 1
+. Tảt cả ac thanh viên hoan thanh đung han va đù chỉ nêu quy én góp giày, sach. bao cũ
+. Tổng cỉ icrp Vượt 20kg so VOI dù bêu đẽ ra
+KẾT QUẢ ĐẠT ĐƯỢC
+. Duy tn tót nẻ nép cùa lơp
+. Hoán thanh kỉ hoach nhố đcrtl
+. Đatxẽp loai thang hang A
+NHÁCNHỞ
+Phat đáng thang tia đua chao mưng ngay Nha giao Via Nam
+Hoan thanh đẳng lũ tham pa cáu lac bô ngoai khoa
+3
+Hình ì. Minh ỉìoạ bốn trang cùa báo cào tồng kết thi dua tháng
+55
+-	Sử diuig từ khoả "Education" dẻ tiin kiêm bàn màu phủ hợp tạo bài trinh chiêu. Tạo sỏ lượng hang chiêu theo yêu càu.
+-	Chọn bò cục phù hợp và nhập nội dung cho tung trang Vi dụ trong Hình ỉ: trang đâu tiên cỏ bò cục kiêu Title Slide; trang 3 có bò cục Picture with Caption; trang 4 có bỏ cục Comparison
+-	Tluẻt lập bộ phỏng chữ cho phàn tièu đè và nội dung cùa bàn màu hoặc màu đinh dạng theo yêu càu như hướng dàn trong Hình 2.
+Xác định phỏiỉg chữ cho phần tiêu để và phần nội dung
+Save
+Hình 2. Thiết ìàp bộ phông chữ mới cho bân mẩn hoặc mân dinh dang
+■	ã Em hãy thay đòi hình nền của toàn bài trình chiểu dã tạo ò trên bằng một ảnli tuỳỷ
+Hưởng dân: Em hãy làm theo các bước hướng dàn trong Hình 3 đẻ thay đổi hình nen của toàn bài trình chiêu băng một ành lưu trong máy tính.
+Hình 3. Các birởc dặt một ành ỉâm nền cho bài trình chiểu
+Lệnh de áp dụng ành nền /^\ cho tocui bộ bài trình chiểu
+Chọn Format Background
+56
+CH I ÊUj
+ỉ ỉ ọc xong bài này, em sẽ:
+•	Biết được cách tạo siêu liên kết đến một tài liệu có sẵn, một địa chỉ trang web hoặc một trang khác trong bài.
+•	Biết được cách thêm tiêu đề đầu trang, chân trang, ngày tháng và sổ trang vào trang chiếu hoặc trang in.
+(!)
+Theo em. vai trò siêu hèn kẻt trên các trang web là gi?
+1. Tạo siêu liên kết
+Siêu hèn kèt giúp người đọc nhanh chỏng mở một tài liệu hèn quan hoặc chuyên đèn một trang web khác. Ta cũng cỏ (hẻ gan các siêu hèn kẻt cho một CỊU11 từ, lùnh vẽ hoặc ânh trong một trang trinh chiêu.
+Già sử khi trinh chiêu, ta muôn nháy chuột vào biẻu tượng qưyẻn sách trẻn trang chiẻu đẻ mờ một tài liệu dạng PDF đã có trèn máy tinh. Hình ỉ minh hoạ quá trinh găn siêu hèn kẻt đẻ thực hiện điểu nãy.
+Nhây chuột phái vào đối tượng cấn đặt liền kết
+Chọn thư mục
+^ PaHe Optaons: styte rả
+£ Ch*ro»*<tuw M»w
+Ìì <w
+•1 BrnotatraM
+^ S«ndtoB«»
+-► i Hvpw|r*.
+i*0*d* M**’ c*(«t
+ịMMPvtura
+E 51» •««*»««»
+V fnrr»MP<nM»
+Chọn Hyperỉink
+ì
+X
+In«*t Hyperlư*
+ĩett to dspUy < đíkction in Document»
+StrrmTip
+ỊookUk Sa A^onthm
+Bookmariu.
+FoMct
+|)0WMd
+DorurnMM
+\ \AJoo.«Wii\m*».l.wM»
+ự ( 4twl Addmt
+LMMc
+tụtSngRltor MMPaọc
+P1ạ«cmlh« Documcnl
+Q
+^ Rbonxct hmp - MmAipodiA th» f»e encyrlopedu Mm
+ĨhborvKCi AipLpdt
+hbona«> hMp pdf
+GA OAPpdt
+a- Gen_Rjrxfc>m doo
+5 Geomctry pythondoa
+a: GUI JhuM.»14dou
+n HMvydoo
+_ lntroto*ígorth«n» CHAPTÍR2I MBONACCI Hf APShtm c' <ntv_tr«*POf
+Hình ỉ. Các bước gắn sièu liên kết tới tệp PDF đã cò trong máy
+57
+Ngoài ra, hộp thoại Insert Hyperlink còn cho phép tạo siêu liên kêt trong những
+tinh huống sau:
+- Nêu càn mở 111 ột trang web, nháy chuột vào lựa chọn Existing File or Web Page và nhập đia chi trang web tại ỏ Address
+- Nêu càn chuyên nhanh sang một trang chiêu khác trong cung bài trinh chiêu, nháy chuột vào lựa chọn Piace in This Document. rôi nháy chuột chọn trang cliiêu càn hèn kẻt.
+£	Edit Hyperlink...
+V	Open HyperỊink
+Copy Hyperlink...
+Remove Hyperlink
+ỉ ỉ ình 2. Các lệnh chinh sữa. hỉậ bò siêu hên kểt
+Em hãy nliáy chuột phài vào một đòi tượng đang găn siêu hèn kẻt, sau đó chọn Open Hyperlink Em có nhận xét gi vê kẻt quà thục hiện yèu câu này?
+Nháy chuột phải vào đòi tượng (hình ảnh, hĩnh vẽ hoặc một CỊU11 tu) đang có găn siêu hèn kêt, khi đó sẽ xuàt hiện một bảng chọn cỏ các lệnh đè chỉnh sửa hoặc huỷ bò siêu hèn kết (Hình 2).
+1.	Thêm tiêu dề chân trang, ngày tháng và dánh số trang trình chiếu
+Các trang trinh chiêu thường được thiét kè săn ba hộp vãn bản đè điên thòng tin tiêu đẻ chân trang, ngày tháng và sò trang chiếu. Trong đó, tiẻư đè chân trang cung càp thòng tin ngăn gọn như ten tác già, chù đè bài trinh chiẻu.
+Chọn Insert Header & Footer, trong hộp thoại Header and Footer lựa chọn và đưa nội dung vào các mục có san (Hình 3).
+Chèn ngày tháng là ngày trình chiểu
+Đành sổ trang chiếu
+Chèn ĩiẻtt để chân trang
+Không hiển thị các thông tin ở trang tiẻu để
+58
+Trong hộp thoại Header and Footer, tương tự như thẻ Slide trong Hình 3, khi mờ thẻ Notes and ỉlandouts sẽ xuât hiện các lựa chọn đẻ chèn ngày tháng, sò trang, tiẻu đè đàu trang và tiêu đê chàn trang. Các nội dung này xuât hiện trẻn trang in bài trình chiêu theo kiêu Notes Pages hoặc Handouts. Hình 4 minh hoạ các trang in theo kiêu Notes Pages.
+Hinh 4. Một trang in kiên Notes Pages
+Tìẽiỉ đế đâu trang và ngậy tháng
+Một trang in gồm hình ãnh trang chiểu và tìội dung chti thích tirơng úng
+Tiêu đề chân trang và sổ trang in
+• Em hãy đánh sỏ trang tự động và chèn tiêu đẻ chàn trang cho một bài trinh chiẻu có săn. Hai thông tin này không hiển thị ở trang tiêu dẻ.
+u Em hãy tạo bài trinh chiếu có nội dung hưởng ứng Giờ Trái Đất, trong đỏ có hèn kẻt đên một trang web và một video có nội dung hèn quan.
+Trong các cảu sau. những câu nào đúng?
+1)	Siêu liên kết chi được gán cho một cụm từ. không thể gán cho ảnh hoặc hình vẽ.
+2)	Siêu liên kết được đật trong trang chiếu để dăn đến video hay tài liệu khác.
+3)	Trong hộp thoại Header and Footer, tiêu đề đầu trang chì có trong thẻ Notes and Handouts
+4)	Khi chèn tiêu đè chân trang, số thứ tự trang sẽ tự động xuất hiện ờ chân trang.
+TÓM TẮT BÀI HỌC
+❖	Sử diuig lênh Hyperlỉnk trên dài lênh ỉnsert đè găn siêu liên kẻt cho một đòi tượng trên trang trinh chiêu đè dàn đèn đia chì một trang web hoặc một tệp tài liệu trong mây tính hoặc một trang chiêu khác.
+❖	Lệnh Header & Footer trên dài lệnh Insert cho phép mở hộp thoại Header and Footer đê chẽn tiêu đè đâu trang, chân trang, ngày thang và sỏ trang vào trang chièu hoặc trang in.
+59
+yóài'9. )
+ỉ ỉ ọc xong bài này, em sẽ:
+. Sử dụng được và biết cách hiệu chình bàn mẫu.
+. Tạo đựợc bàn trình chiếu có sử dụng chữ, hình ảnh phù hợp và cổ tính thầm mĩ.
+• Tạo đựợc sàn phẩm là bài trình chiếu phục vụ học tập, giao lưu và trao đồi thông tin.
+Bài thực hành. Tạo bài trình chiêu giói thiệu một di sản vãn hoá
+Nhiệm vụ: Đàt nước ta có vòn di sàn vãn hoá phi vật thè hẻt sức phong phủ như: Hát Xoan, Dàn ca Quan họ, Nghệ thuật Dù kè, Hát ví dặm, Nglu lẻ càp sãc, Nhã nliạc cung đinh Huè,... Em hãy xày dựng các trang clũèu cho bàn thuyẻt trinh giới tluệu một di sàn vãn hoá mà em yêu thích hoặc hièu rõ hơn cà. Bài trinh chiẻu cân đáp úng các yẻu cảu sau:
+-	Bài thuyèt trinh gôm 5 trang
+-	Sử dung bàn màu hoặc màu định dạng bàt ki, chọn phòng chữ Arial cho cà tiêu đè và nội dung. Chẽn ảnh logo phù hợp ờ góc trèn phài cùa môi trang.
+-	NỘI dung một sô trang:
++	Trang 1: Nẻu được tẻn cùa di sân muôn giới thiệu và thòng tin cùa học sinh
++	Trang 2: Có các hình ãnh khác nhau vẻ di sàn.
++	Trang 3: Có một vài thòng tin vê di sàn như nguôn gòc, một vài nét đặc trưng tiêu biêu. Chèn siêu liên kẻt đèn một trang web có thòng tin vẻ những di sàn được giới thiệu.
++	Trang 4: Néu thòng tin vẻ thực h ạng bào tôn di sản hiện nay.
++	Trang 5: LỜI câm ơn.
++	Chen số hang và chú thích chàn hang VỜI nội dung là tèn di sàn đà chọn, trừ trang trinh cluẽu đàu tièn.
+O Hãy xây dỊHig một bài trình cluểu giới thiệu về một hoạt động cùa trường hoặc của lớp mà em yèu thích.
+60
+Học xong bài này, em sẽ:
+•	Bước đầu làm quen VỚI giao diên phần mềm GIMP.
+•	Thực hiện được một số thao tác cơ bàn: mờ một ảnh, thu nhò và phóng to ánh, quay ânh, lật ành, điều chinh độ sáng và độ rỏ nét cho ảnh.
+(!)
+Đã có klu nào em muôn clùnh sửa một bức ảnh đè nó trở nên đẹp hơn không? Hãy nói vè bức ành đó và ý muôn chinh sửa cũa em.
+1.	Làm quen vói giao diện phần mềm GIMP
+Có nluẻu pliàn mèm giúp chúng ta chinh sửa, nàng cao chàt lượng mĩ thuật của bức ảnh. GIMP là một phàn mèm chình sửa àiili nuén phi, mã nguòn mở, dìuig được trên nhiẻu hệ điẻu hành máy tinh khác nhau Trong quyèn sách này, phàn mèm GIMP phiên bàn 2.10.32 dành cho máy tinh sử dung hệ điêu hãnh Windows dược dìmg đẽ minh hoạ. Klu mới cài dặt, giao diện mặc định của GIMP có nẻn là màu tòi Em có tlìẻ tliay đỏi màu sắc giao diện băng cách vào Edit\Preferences, chon Theme trong mục Interíace đẻ tluẻt lập màu săc phù hợp
+Em hãy khởi động phàn mèm GINÍP băng cách nháy chuột vào biêu tượng ^* trên màn hình máy tinli và trã lời các cảu hỏi sau:
+1)	Giao diện của G1MP có gi giòng và khác VỚI những phần mềm em đã biẻt?
+2)	Em có tim được cách mở một ảnh, phóng to hay thu nhỏ một ành không9
+Giao diện ban đàu của GIMP như ỡ Hình ỉ có sáu vùng làm việc: Thanh bàng chọn: chứa các lệnh được săp xẻp theo tìmg nhóm.
+61
+lung hình anh: nơi đặt ảnh càn chỉnh sửa và cho phép xem trước.
+Hộp công cụ: các công cụ hoặc các nhóm công cụ điêu chình anh Tuỳ chinh công cụ: các thông sò hoặc cách thức điêu chỉnh còng cu. Bàng các loại bút: các loại bút dùng đè vẽ hoặc chỉnh sửa ảnh.
+Bàng Layers (lóp): giúp quàn li các đòi tượng của ành, hò trợ quá trinli chinli sừa ảnh.
+Hình I. Giao diệìì phần ìììềiìì GỈMP
+2. Điều chinh ảnh co* bân
+Đẻ chỉnh sửa một bưc ãnh cản khởi động GIMP, vào File\Open va chọn ảnh cản sửa. Chọn Convert ờ hộp thoai Convert to RGB Working Space (nêu có) đè ảnh hiên thị ở hệ mâu RGB (đẹp hơn khi hiên thị trên các thiêt bị điện tử).
+Đê cãt ảnh, càn chọn còng cụ Crop H, đưa công cụ vào vùng ảnh, giữ và di chuyên chuột theo đường chéo tạo thành vùng ảnh muôn giữ lại, hoàn tàt bằng phim Enter
+Đè di chuyên ảnh, càn chọn còng cụ Move Jl đưa chuột vào ảnh càn di chuyên, giữ chuột trái và di chuyên đến VỊ trí mong muôn.
+Khi một bức ảnh đa được mờ trong vùng làm việc, có thẻ thực hiện một sò điêu chỉnh cho bức ảnh băng các công cụ trong hộp còng cụ và các tuy chỉnh phía dưới
+Phóng to, thu nhỏ: chọn còng cụ Zoom Q (Hình 2), nháy chuột vào ảnh càn thu
+phóng (Zooni in phóng to, Zoom out: thu nhỏ).
+Quay ảnh: chọn còng cụ Rotate * nliáy chuột vào ảnh càn quay, điều chinh góc quay (Angle), toạ độ tàm quay (Center X; Center Y), roi chọn Rotate
+Lật ảnh: chọn công cụ Fiip 31. chọn hướng lật trong phàn tuỳ chình (Horizontal lật ngang; Vertical lật dọc), rỏi nháy chuột vào ành.	.
+Hình 2. Một so công cụ điểu chình ảnh
+RMM«TmI	'•’-.:
+RoUte tte U^M. w«Kt>o«i o» p*!h
+United T>amfo><n
+Cted< \a*—
+Còng cụ Rotate
+5M4
+Còng cụ Fỉìp
+62
+3.	Thục hành khám phá cách diều chình dộ sáng, dộ rõ nét cho ảnh
+Quan sát ành trong Hình 3a. Băng các lệnli trong bàng chọn Colors, hãy thèm màu sãc âm vào bức ành và điêu chình độ sáng tỏi đẻ đuợc bửc ành đẹp hơn (Hình 3b).
+Hướng dãn (Hình 4)
+Bước ỉ. Sử dung càn bãng trăng ành tụ động đè màu sãc bức àiili gàn với màu sãc thực tế lìliất.
+Bước 2. Chình độ sàng và độ tương phàn VỚI lénh Brightness - Contrast (vi dụ: Brightness = - 48; Contrast = 23).
+Bước 3. Thèm màu săc àm clio ành băng cách chọn Color Temperature sao cho nhiệt độ dụ định ĩntended temperature (lẻn 7500.0) cao hơn nhiệt độ ban đàu Original temperature (6500.0).
+Hình 3a. Một àìiìi cần chình sim
+Hình 3b. Kết qnâ chình sừci
+Hình 4. Bàng chọn Coỉors
+an Chọn một ành và sử dung các còng cụ điêu chình phù hợp đẻ cải tlnện chât
+lượng ânh. Sau đó, so sánh ành em vừa chinh sửa với ành ban đàu
+Với việc sử dụng phần mèm GIMP. trong các càu sau có những câu nào đúng?
+1)	Có thẻ thay đồi độ sáng của ành.	3) Khóng thẻ thay đổi màu sác của ảnh.
+2)	Cỏ thể phóng to hay thu nhỏ ảnh.	4) Không thể mờ một lúc nhiều ảnh.
+TÓM TẤT BẢI HỌC
+❖	Phàn mềm chình sửa ành giúp chúng ta chỉnh sửa cãc hình ành săn có đê thoâ mãn sờ thích cã nhân hoặc lãm các sân phàm chuyên nghiệp.
+❖	Có thẻ dinig còng cụ cũa phân mêm đẻ thực hiện căt anh quay ảnh, lật ành và dung các lènh trong menu Colors đẻ điêu chinh màu sắc, độ sáng tỏi cùa ànli
+63
+
+Học xong bài này, em sẽ:
+. Nẻu được vùng chọn là gì và giài thích được tại sao cần tạo ra vùng chọn trong việc chình sữa ảnh
+. Sao chép được ành từ vùng chọn vào môt ành khác.
+(!)
+Hãy kẻ vẻ tinh huông mà em muôn thực hiện một trong hai điêu sau đày:
+-	Clù thay đỏi hòng một phân cùa bức ảnh đang có.
+-	Ghép một hình ành lây tư bức ảnh này vào một VỊ ưi nào đó trong bức ảnh khác.
+1.	Khái niệm vùng chọn
+Khi chỉnh sửa ảnh, có thè ta chi muôn tác động vào một phần bửc ãnh và không lam ãnh hường tới những vùng khác. Đê xác định vùng ảnh sẽ được chỉnh sưa, càn phải chỉ ra biên bao quanh vìmg ảnh này. Việc lam như vậy gọi là tạo một vùng chọn.
+ư Vùng chọn.. vùng hinh ành được bao quanh bời nét đừt chạy liên tục, là kết quả tạo ra bởi công cụ tạo vùng chọn. Khi thực hiện các điểu chình ảnh đơn giản, chỉ có phần hình ảnh bên trong vùng chọn bị thay đồi.
+Hình ỉa. Anh chti chó	Hình ỉb. Anh baĩi công
+Ví dụ ờ Hình la ta sẽ tạo vùng chọn chì chưa hình chủ chó đẻ sau đó có thè ghép hình ành đỏ vào Hình Ib. Cách tạo vùng chọn như sau:
+-	Trong hộp công cụ chọn Paths 3 rồi đua chuột vào vùng bức ảnh.
+-	Nháy chuột trái tại một điẻm bàt ki ở điêm muổn băt đàu vùng chọn đè tạo thành
+64
+điẻm neo đàn tiên. Tiêp tục nháy chuột trai sao cho các đièm neo nôi nhau tạo thảnh một đường bao quanh nhàn vật Giữ phim Ctrl và nháy chuột vào điêm neo đàu tiên đẻ kẻt thúc đường bao quanh vùng chọn.
+Chọn Sekction From Path lủiu Hình 2a. Trong vi du, kêt quà là tạo được vùng chọn (Hình 2b).
+Chọn Edit\Copy đẻ sao chép ành vùng chọn vào vùng nhớ đệm (nêu dự kiẻn ghép ảnh vùng chọn vào ảnh khác).
+Hình 2. Tạo vùng chọn bằng Paths
+Trong quá trình tạo đưòng bao, nếu nháy chuột sai vị trí thì ta có thế dùng tổ họp phím ctrl+z để quay lại các vị trí trước đó.
+2.	Thục hiện một số diều chính cho linh trong vùng chọn
+VỚI một bức ảnli em có trong máy tinh, hãy tliực hiện một sỏ thao tác, chú ý quan sát và sau đó trả lời các càu hòi.
+Thao tác:
+-	Tạo một vùng chọn.
+-	Chọn ColorsHue-Saturation và tuỳ chỉnh các thông sò (Hue = 10, Lightness = - 10 và Saturation = 20), sau đó chọn OK (Hình 3). Nhàn tò hợp phim Ctrl+I đè đào ngược vùng chọn, tức là thay thè vùng ảnh đã được chọn băng vùng ành chưa được chọn.
+65
+-	Chọn Colors Color Teniperature và chọn nluệt độ mong muôn (Intended tempcrature = 1700), sau đỏ chọn OK
+-	Chọn SekctNone.
+-	Chọn Colors Desaturate\Color to Gray VỜI các thòng sò như ờ Hình 4, sau đó chọn OK
+Các càu hòi:
+1)	Các còng cụ điêu chình ảnh em vừa sử dụng có tác dụng VỚI 1111111 nén không?
+2)	Lệnh thay đổi nhiệt độ cùa ành tác động lén phàn nào của bức ànli? Tại sao?
+3)	Lệnh đòi ảnh màu thành đen trăng tác động lèn phàn nào? Tại sao?
+4)	Muôn đào ngược vùng chọn em dùng lệnh gi?
+5)	Muôn loại bò vùng chọn em dùng lệnh gi9
+i Hue-Sdturation
+Hue-Saturation ChuCun^pq 4 ItChuCun) (inportedr
+PreietK
+Sckct Primary Color to Adju*t
+Ox
+o M
+|Mjiiti|
+Og Ob
+Oẹ
+iQvertap
+Adju*t $«kct«d Color
+Simr.non
+Oữt
+
+:
+
+□ Split yiew
+s Blending Options
+0 Preview
+Help
+Reset
+QK
+Cancel
+Hình 4. Chuyền ành tnàu thành đen trắng
+[RMetCokỹ]
+à Blendinọ Optiom
+0 Preview
+□ splitvte*
+Help geset	ÕK ftnal
+Hình 3. Thay đổi Hue -Lightness - Saturation cùa ành
+3. Sử dụng công cụ tạo vùng chọn dê cắt và ghép ảnh
+Có thè ghép một phàn ảnh cua bức ành này vào một bức ảnh khác theo cãc bước
+sau đày:
+Bưó’c ỉ. Mờ bức ảnh cỏ chua hinh càn sao chép đè ghép vào bức ảnh khác, xác
+định vìing chọn sẽ được đem đi ghép (Ví dụ: Vùng chọn là vùng ảnh chủ chó trong
+Hình 2b đã được lưu trong Clipboard từ lệnh Copy ở cuối Mục 1).
+66
+Bước 2. Đặt àiih đã chọn vào một ành khác.
+-	Mở bức ảnh mà ta muôn ghép ảnh vùng chọn vào (vi dụ ghép vào ành Hình ỉb).
+-	Chọn EdiCPastc as New Layer đè đặt ành vùng chọn vào bức ành vừa mờ.
+Bước 3. Tuỳ chỉnh VỊ tri, kích thước ânh được ghép (Hình 5).
+-	Chọn công cụ Scale. nhay chuột vào vung làm việc đẻ tuy chình kích thước, sau đỏ chọn Scale
+Hình 5. Anỉi kết qnà
+-	Chọn còng cư Move * đẻ điều chinh vị tri ảnh cho phù hợp.
+Bước 4. Lưu ảnh sàn phàm.
+Lưu tệp ảnh bằng lệnh File\Save VỚI kiẻư tệp “xcf” đẻ khi cần tiếp tục dùng GIMP clìình sửa ảnh.
+- Xuât ảnh đã ghép băng lệnh Fỉle\Export As. chọn vị tri lưu ảnh và đặt tên cho tệp ảnh (tẻp có đuôi “jpg”).
+4. Thục hành
+Tương tự, em hãy ghép một phân ở bức ảnh này vào một phàn của bức ảnh khác dẻ dược bức ảnh đẹp và hợp li (trong thư mục Bai2 có một sò ảnh em có thè sử dụng).
+■tì® Bác Quyết muốn xếp đặt một bức tranh và vài cluèc ghế trong một phòng làm việc. Theo em, có thè dùng còng cụ tạo vùng chọn rỏi căt ghép ảnh các bức tranh và ghế đè tim ra cách sẳp xẻp hợp li cho văn phỏng cùa bác Quyết hay không?
+Những điều nào là đúng khi sừ dụng phần mềm GIMP?
+1)	Muốn thực hiện một số điẻu chình đơn giàn cho một vùng trong bức ành, ta cần chọn vùng ảnh này bằng cóng cụ tạo vùng chọn.
+2)	Vùng ành được chọn và sao chép vào một bửc ành khác luổn giữ nguyên kích thước ban đầu, không thể điều chinh được.
+3)	Đê lưu được ành sau khi chình sừa cần dùng lệnh File\Save.
+4)	Đảo ngược vùng chọn sẽ giúp chình sửa màu sác cho hình và nền một cách nhanh chóng.
+TÓM TẤT BÀI HỌC
+❖	Công cự tạo vìing chọn giúp chứng ta hra chọn vìuig ảnh càn tác động.
+❖	VỚI còng cụ tạo vung chọn Paths. ta cỏ thẻ thực hiện một sỏ điêu chinh đơn giãn cho ảnh trong viing chọn va cũng co thê ghép VỚI các hinh ânh khác.
+67
+
+ỉ ỉ ỌC xong bài này, em sẽ:
+•	Sử dụng đươc công cụ tạo vùng chọn Paths.
+•	Sao chép được hình ành từ vùng chọn ghép vào ành khác.
+•	Lưu được tẻp chinh sửa và xuất ra đươc tệp ảnh sàn phẳm.
+Bài thực hành. Tạo bức ảnh cho Ngày hội dọc sách
+Nhiệm vụ: Đưa vào một sò bức anh cỏ săn trong thư mục Bai3 (Hình 1), em hãy sừ dụng GIMP tạo bức ảnh như o Hình 2 đè ủng hộ t II111 thân Ngày hộj đọc sách do nhà trường phát động.
+Hình J. Câc ành cỏ sân
+Hình 2. Một hình ành sân phấm
+Hướng dẫn
+Bước 7. Tạo vùng chọn chửa phàn ảnh muốn sao chép.
+-	Mờ ảnh CanBe.jpg. Dìing công cụ Paths tạo vùng chọn bao quanh cậu bé.
+-	Loại bò khoáng trỏng ở phần chân cậu bé bằng cách: Tiếp tục dùng còng cụ Paths đè tạo vùng chọn là khoảng hống giữa hai chân của cậu bé; Chọn Selcction from Path dẻ loại bò vùng chọn này (Hình 3).
+Bước 2. Sao chép vùng ảnh da chọn và dưa vào bửc ảnh khác.
+Chọn Copy, mờ tệp BanTay.jpg và dùng lệnh Edit\Paste as\New Layer
+68
+Bước 3. Thay đôi kích thước anh mới, sao chép và đặt vào vị trí phù hợp.
+Dùng công cụ Scale và Move điêu chình kích thước vã vị tri đặt ảnh trong vùng chọn (Hình 4 gợi ý kẻt quả của bước này).
+Bước 4. Tạo hiệu úng toà sáng.
+Vào bàng Layers đẻ chọn lớp muôn tạo hiệu ứng toà sáng (vi dụ BanTay.jpg).
+Điêu chửih điểm phát sáng: chọn Filỉers\Light and Shadow\Supernova; ờ bàng tuỳ chọn Supernova (Hình 5) chọn biểu tượng H ròi nháy chuột vào vị trí muốn đặt điểm phát sáng.
+-	Chọn màu ánh sáng từ ảnh: chọn còng cụ Pick color from the image -1 rỏi nháy chuột vào phàn áo màu đò
+Sổ tia sáng
+Bán kinh cùa tàm sáng
+Mức độ hoà trộn
+Hình 5. Tuỳ chọn tạo hiện úng toà sàng
+Chế độ hoờ trộn
+sáng của cậu bé; tuỷ chình các thông sò còn lại đẻ được hiệu ứng toà sáng như mong muốn. Hình 2 lá một gợi ý cho sàn phàm kết quà.
+Bước 5. Lưu ảnh sàn phàm.
+-	Lưu tệp ảnh dưới dạng “xcf’ đẻ kin càn có thẻ chình sửa.
+-	Đè đưa ảnh vào bộ sưu tập ảnh, lưu tệp ảnh dưới dạng “jpg”.
+HB Hãy tạo một bức ảnli mới thê hiện Ngày Trái Đất.
+Gợiý: Em có thè tạo thanli bức hình như Hinh 6 hoặc
+sáng tạo theo ý tường cua em (có thê sư dụng hình Hình 6. Poster "Ngày Trài Đất" ảnh trong thư mục Bai3 hoặc ành em có).
+69
+Học xong bài này, em sẽ:
+• Nhận biết được lớp ành (layer).
+. Thực hiện được các thao tác với layer để cỏ thể sắp xếp bức ánh.
+• Tạo được hièu ứng cho layer đề hình ảnh thèm ấn tượng.
+(!)
+Nêu em vẽ trên hai tờ giày trong suôt, mỗi tờ giày vẽ một bỏng lioa và chông hai tờ giày lẻn nhau thi em sẽ nhìn thày bỏng hoa nào?
+1.	Khám phá các lóp ảnh của một bức ảnh
+1)	Em hãy tim sự khác nhau giữa hai bức ành ờ Hình /, em thấy tlúch ành nào hơn?
+2)	Hãy thực hiện các thao tác sau đày đê sửa ành đang có thành ảnh em thích hơn:
+-	Mờ tệp ảnh HoatDong.xcf được cung cap sẵn trong thư mục Bai4.
+Hìhỉi ỉ. Hai ành câỉì so sảììh
+-	Nháy chuột một sò làn vào
+nút cỏ hình con măt ; vào mũi tẻn lèn và xuỏng
+trong bàng Layers, cỏ
+thè kèt hợp cùng phím Shift. đỏng thòi quan sát những thay đỏi của ành cho đèn khi thày được bức ảnh em tlúch
+Bàng Layers giúp quàn li các lớp ảnh. MÒI đòi tượng cua một ảnh (ảnh thành phàn hay chữ) được đặt trẻn các lớp kliac nhau đé dẻ chỉnh sửa. Trong bức ảnh em vừa mở ờ Hoạt động thi hộp quà thuộc một lớp ảnh và bỏ hoa thuộc một lớp ảnh khác.
+70
+cỏ thè xép chòng ràt nhiêu lớp ành lèn nhau, môi đỏi tượng trên một lớp có thẻ bị che khuàt một phàn hoặc được làm trong suôt đé không nlùn thày băng mắt thương. Bàng Layers dùng đè kẻt hợp các đòi tượng ảnh ờ các lớp khác nhau nhăm tạo nèn một hình ảnh mới, đẹp và thẻ hiện được ý tường của người thiết ké ảnh. Hình 2 thế hiện cãc lệnh chính trong bàng Layers
+Tạo layer mới
+Hình 2. Các lệnh trong bàng Layers
+2.	Thục hành với các lớp ảnh
+a) Săp xếp lóp ảnh
+VỚI ảnh cung cảp sẵn trong thư mục Bai4 hoặc VỚI ành em có, theo các hường dàn sau đây, em có thè tạo được bức ảnh vẻ săp xẻp bán ăn, vi dụ như ờ Hinh 3.
+Hướng (lan
+Bước 7. Tạo cãc layer mới đè chứa thèm các đỏi tượng càn xuàt hiện trên bàn ăn (đĩa thức ăn, còc nước, nền,...) băng cách chọn File\Open as Layers
+Bườc 2. Chỉnh sửa thử tự các layer cho phù hợp.
+Bước 3. Chọn Scale và Move trong hộp còng cụ đẻ thay đỏi kích cỡ và di chuyên các ành mới tới vị trí hợp li (chú ý chọn đũng layer).
+Bước 4. Lưu tệp chỉnh sửa ảnh đã tạo với tên ThucHanh.xcf băng cách chọn File\Save
+Hình 3. Kết qnà thực hành
+0 Pr»ww
+Lum«no$ity thrcihold I	0.001 7
+Fldrc intcniity	I	0.67	;
+Spikelength:	I	33	*
+Sp<ke points:	I	4 V
+SpỊteangle(-1:mdom): I	[ũ______J
+Sptke density:	I 1.00	*
+Transparency:	I	0.00	?
+Random hue:	I	0.00	c
+Random saturation:	I	0.1ễ| ỉ
+□ Preserve lummosity:
+□ lnverw
+□ Add border
+© Natural color o For<?ọround cokx o Background color
+Help
+I « I Cancel
+Hùìh 4. Thòng sổ cho hiện ínig lấp lành
+71
+Bước 5. Chọn Fik Export As đè xuàt ảnh sản phàm với tên là SanPham.jpg trong cùng thư mục.
+Lưiỉý: Nháy chuột vào Sekct Fik Type (By Extention) ờ phía dưới cửa sỏ Export Image đẻ chọn kiêu tệp “jpg”.
+b) Đặt hiệu úng cho lóp linh
+Mờ tệp SanPham.jpg vừa tạo ra. Thực hiện lènli tạo thêm hiệu úng làp lánh hãng cách chọn Filtcrs Light and Shadow Sparkk với các thông sò như õ Hình 4.
+Chú ý: Có thè thực hiện hiệu ung cho tinig layer. Trong trương hợp ảnh chỉ có một layer duy nhất như tệp SanPham.jpg thi khi thực hiện hiệu ứng là cho toàn bộ ảnh
+n Tiếp tục VỚI tệp ThucHanh.xcf, em có thể thư và tuy chình hiệu ứng lấp lánh hoặc các lũệu ứng khác trong bâng chọn Filters cho các layer khác nhau sao cho có được bức ảnh em thích.
+Hãy lun tèp chinh sữa VỚI tên ThucHanhlỉieuUng.xcývà xuất ành kẻt quà ra têp SanPhamMoi.jpg đè có thẻ chia sẻ ảnh đó VỚI bạn bè.
+Trong các càu sau, những câu nào đúng khi SỪ dụng phần mềm GIMP?
+1)	Bảng Layers dùng đẻ quàn lí các đối tượng khi chinh sửa hình ánh.
+2)	Cổ thề làm một đói tượng không xuất hiện hoạc bị lấp sau một đối tượng khác trong bức ánh.
+3)	Không thẻ dịch chuyển và điều chình kích cỡ của các đối tượng trẻn layer.
+4)	Hiệu ứng có thề áp dụng cho từng layer.
+5)	Các loại hiệu ứng là cố định, không tuỳ chinh được gì.
+TÓM TÁT BẢI HỌC
+❖	Bang Layers giúp chúng ta quân li được các đòi tượng khi chỉnh sưa ành.
+❖	Chúng ta có thè dịch chuyên thứ tự các lớp ảnh và vị tri các đỏi tượng đê được bức ảnh có bỏ cục mong muôn.
+❖	Có thẻ thực hiện các hiệu ứng trèn tùng lớp ảnh dé tạo àn tượng khác nhau.
+❖	Lệnh Export As dùng đè xuất ảnh đã chinh sưa thành ảnh có thè chia sè cho người khác trên website, mạng xã hội hoặc mang đi in.
+72
+
+Học xong bài này, em sẽ:
+Tạo được sản phẩm là một bức ành có bố cục theo ý muốn bằng các thao tác làm việc với vùng chọn và lớp ánh.
+Mờ được tệp ánh để chình sửa và lưu được sàn phầm.
+Bài thục hành. Tạo ảnh bé gái vói khấn dỏ
+Nhiệm vụ: Em hãy sử dựng GIMP và các ảnh (Hình 7) đã cỏ săn trong thu mục
+Bai5\TuLieuThucHanhl đè tạo ra được bức ânh như Hình 2.
+Hình 1. Thư mục TuLieuThucHanhỉ
+Hưởng dân
+Hình 2. Minh hoạ ành bè gái với khàn đõ
+Bước 7. Tạo vùng chọn ảnh be gái.
+Mờ ảnh BeGai.jpg. Tạo vùng chọn bao quanh bé gái, không lày phân binh tưới nước.
+Bước 2. Sao chép ành bé gái đưa vào ảnh khư rừng.
+-	Chọn Edit\Copy đè sao chép vùng chọn (Hình 3).
+-	Chọn File\Open đè mỡ tệp Rung.jpg làm ảnh nền. Chọn Edit\Paste as\New Layer đẻ đặt hình bé gái vào cảnh khư rùng.
+Bước 3. Điêu chình vị tri, kích thước, hướng nhìn của bé gái.
+Chon Scaỉe thay đỏi tì lẻ hình ảnh bé gái (vi dụ với Wìdth = 250). Dùng Move đè đặt ảnh bé gái ở bèn trái
+Hình 3. Vùng chọn bao (pianh bẻ gái
+73
+khu rừng Dùng Flip VỚI tuỳ chọn Horizontal đè bé gái hướng sang bèn phải như ở Hình 4.
+Bước 4. Đưa thêm 1111111 khác vào ảnh sàn phàm.
+Làm tương tự làn lượt VỚI các ảnh GtoMan.jpg và KhanDo.jpg đè đưa các lùnh này vào cảnh khu rừng.
+Liniý
+-	VỚI ảnh GioMan.jpg: lày thêm phàn lá mận plúa trên; dùng phím Ctrl đê loại bò viuig chọn thừa giữa tay câm và giò; cỏ thẻ dùng lệnh Scale VỜI Wỉdth = 420.
+-	VỚI ảnh KhanDo.jpg. có thè dưng lệnh Scalc với Width = 250.
+Bưó‘c 5. Loại bõ phàn ảnh thừa.
+Chọn lờp chứa KhanDo.jpg, giảm độ trong suổt cùa lớp Opacitỵ = 70% vã tạo vùng chọn là phàn khăn che khuàt mặt của bé gái (Hình 5) rôi dùng phim Delete xoá vùng ành thừa này. Sau đó, bò vùng chọn, chỉnh độ trong suốt cưa lờp về 100%.
+Bước 6. Tuỳ chình màu sãc cho bức ảnh thèm an tượng.
+-	Chỉnh độ sáng lớp nên Brỉghtness = - 50.
+Hình 4. Thay đôi size, vị trí. hirớng cùa bẻ gài
+Hình 5. Xoớ phần khan thừa
+-	Chọn ColorsXColor Temperature và tăng Intended temperature lẻn 9 300.
+-	Nhàn đòi layer chứa bé gãi băng cách nháy chuột phải vào lớp này, chọn Duplicate Layer và đặt layer mới ờ ngay trên layer cũ. Chọn chè độ hoà trộn Multiplv với Opacity băng 70% cho layer ở trèn đê tạo săc tòi cho bé gái.
+Bước 7. Lưu ảnh sàn phàm.
+Lim tệp chình sửa; xuàt ành sản phàm băng cách chọn lệnh File\Export As với tên là SanPham.jpg trong củng thư mục.
+■	hh Hãy sử dụng một sò bửc ảnh em đã có đẻ ghép
+thành một bức ành theo sờ thích.
+Gợi ý
+Em có thê sử dụng các ảnh có trong thư mục Bai5 dè tạo bức ảnh như Hình 6.
+-	Khi sử dung ảnh cân lưu ý đèn bân quyển của ảnh.
+Hình 6. CẦỉỉi trại bnổi tổi
+74
+WÀW
+ỉ ỉ ọc.xong bài này, em sẽ:
+•	Thêm được chữ vào hình ành và tuỳ chình được các đặc tính của chữ trong ảnh.
+•	Thêm được các hiệu ứng cho chữ.
+(!)
+Em đã bao giờ nhìn tlìày chữ trong những bửc ảnh chưa? Em liãy mò tà một vài bức ành mà trong đó có một sô dòng chữ.
+1.	Khối chữ trong ảnlì
+Nên em có san một ành hoa, em có thè thèm lời chúc mùng vào ành đè được một tấm thiệp chúc mừng.
+Các bước đẻ thêm được chữ vào một bức ảnh như sau:
+Bưóc ỉ. Chọn còng cụ Text A ờ hộp công cụ ròi nháy chuột vào vị tri muốn thèm lời chúc.
+Bước 2. Khi xuât hiện cửa sô tuỳ chỉnh kiêu, cỡ và màu chữ như ờ Hình 1, hãy nhập nội dung lời chúc vào ô soạn thao.
+Bước 3. Đẻ tuỳ chỉnh cho chữ, trước hết chọn chữ cân điẻu chinh sau đó nháy chuột vào ỏ vuông (màu đen) plúa dưới cửa sổ như ờ Hình ì đế đổi màu cho chữ. Hãy chọn màu phù hợp cho chữ. Có thẻ chọn màu của một điẻm nào đó ưẻn ảnh hoa băng cách chọn còng cụ ®, rồi nháy chuột vào điểm ảnh đó để lày mã màu (Hình 2).
+UTM Pxebook K&T 62	: p* -
+Hình Ị. Bàng chọn tỉ tỳ chinh phông chữ
+Hình 2. Chọĩi màu cho chữ
+Bước 4. Nháy chuột vào ỏ chọn phòng chữ ờ Hinh J đẻ thay đỏi phỏng chữ của đoạn vãn bàn đang chọn 1
+Bước 5. Thay đổi cỡ chữ EH_________ã1" 3 theo sờ thích.
+Bước 6. Căn chình lẻ của khỏi văn bàn nhờ các nút Justỉfy ờ phàn dưới hộp còng cụ như ờ Hinh 3
+75
+Lim ý: Muôn gõ các văn bàn tiêng Việt theo kiêu gõ Telex VỚI phòng đẹp. hãy cài đặt bộ phòng UTM trong thư mục Bai6\FONT ƯTM băng cách chọn phỏng muôn cài, nháy chuột phâi chọn Install Khôi động lại phàn mèm đẻ sử dung phòng vừa cài.
+ơ Hình 4 là vi dụ vẻ một tâm thiệp chúc mimg. Như vậy, còng cự Text và các tuỳ chọn cơ bàn có thè giúp em thêm chữ vào ành của minh cũng như điêu chình các dãc tinh (màu sãc, kích cỡ, kiêu và vị tri) của chữ.
+Hình 4. Tàm thièp chúc mừng
+Hình 3. Tĩậ' chọn phòng và vân bân
+2.	Hiệu ứng cho chù
+Quan sát bèn bàng Layers, em sẽ thày các chữ trong tâm tluệp của mình năm trẻn một lớp riêng biệt. Em hãy thực lũện các yêu càu sau:
+-	Tạo các chẻ độ hoà trộn cho layer chửa chữ trong bảng Layers
+-	Tạo hiệu ửng bóng cho chữ băng cách chọn Filters\Light and Shadow Drop Sliadow.
+Trong GIMP, các chữ được đặt trên các layers nên em có thẻ sử dụng các chẻ độ hoà trộn trong bàng Layers, kẻt hợp VỚI các hiệu ứng ưong Filters đè làm bức ành chứa chữ ườ nẻn đẹp hơn.
+-	Các chè độ hoà trộn ưong bàng Layers hay dùng: Screen. Lighten Only, Burn, Lmear Bum,
+- Các hiệu ứng nong Filters thường được dìuig: Edge-Detect\Neon, Light and
+Shadow\Supernova,...
+76
+Lưíi ý: Em có thè nhàn đòi các layer trước khi chỉnh sửa đẻ cỏ thè giừ lại được layer cũ nẻu điêu clùnh mời chưa được như mong muôn.
+3.	Thực hành tạo tâm thiệp chúc mùng
+Nhiệm vụ: Em hãy chọn một ânh hoa, đưa một đoạn thơ vào ânh đè tạo thành tấm thiệp chúc mừng Ngày cùa mẹ.
+Hướng (lẫn
+-	Sử dụng phỏng chữ Times New Rom an, Bold Italic, size 62 px cho đoạn thơ.
+-	Chọn màn cho chữ đẻ làm nòi bật đoạn tlìơ.
+-	Sử diuig phòng chữ UTM Atlas Bold, size 70 px cho phàn tiéư đẻ.
+- Sử dụng hiệu ứng Sparkle VỚI thòng sỏ như ỡ Hình 6.
+ơ Hình 5 là vi dụ vè một tàm thiệp chức mừng Ngày cùa mẹ.
+M€IHErỉDAY
+"Trái um con dù ktẽu hành the nào Dứng trước me diu dàng chán chút Cnn thấy mình bé nhô làm sao. . '*
+- /ỉeinrtch Hetne -
+0|^J lumKxMyỌvtihold I Hw ĩntmliy: ỉphlmợth ỉphporti ỉpketnqleKMndomX I Spkedcntity Tụniporency.	B
+ỊUndomhue:	I
+Rdnóom MtuNtion.- I □ PrrKfw luminoũty. □ lnwn« □ Addborde'
+HHp
+0 50 :
+20	:
+- 15_____g
+I 100 :
+000	:
+9 Nituril coior o f oreground C0*0f o Bítíợound color
+I g I ù««<
+Hình 5 MỘ! tám thiệp chúc mừng
+Hình 6. Thông sô cho hiệu ừng lấp lành Sparkỉe
+■sh Hãy tạo tâm thiệp chức mừng sinh nliật một người bạn của em.
+Trong các càu sau. những câu nào đúng?
+1) Không thể thực hiện các hiệu ừng và chế độ hoà trộn với đối tượng chữ.
+2) Không thể gỗ tiếng Việt với kiểu chữ đẹp trong GIMP.
+3) Các đặc tính cùa chữ lã: màu sác. cở chữ và kiẻu chữ.
+TÓM TÁT BÀI HỌC
+❖	Sừ dung cóng cụ Text trong hộp còng cụ giúp thèm được chữ vào hình ảnh.
+❖	Ba đặc tính cơ bàn cùa chữ là màu săc, kiêu chữ và cỡ chữ
+❖	Có thê áp dimg các luệu ứng như toã sáng, tạo bóng, tạo khôi hay điêu clùnh các chẻ độ hoà trộn đẻ tạo chữ đẹp hơn.
+77
+(fôàỉ7.
+Học xong bài này, em sẽ:
+Sử dụng được một số chức năng cơ bàn của phần mềm chỉnh sửa ảnh để tạo ra một sàn phẩm ảnh sổ phục vụ thiết thực cho đời sổng.
+Hình ì. Thực dơn qncni ân
+Bài thực hành. Tạo thực don cho quán ăn
+Nhiệm vụ: Bác Hỏng chuàn bị mở một quán ăn. Em hãy tạo một tờ thực đơn giúp bác có thẻ 111 ra dùng tại quán và có thẻ đưa lèn mạng xã hội đẻ quàng cáo. ơ Hinh Ị là vi dụ vè một thực đơn quán ăn.
+Em có thè dùng ảnh đa có hoặc tim kiêm được hoặc ảnh cung càp sẵn trong thư mục Bai".
+Hướng dẫn
+Bước ỉ. Chọn và tạo độ tòi cho nén.
+-	Mỡ tệp ảnh dự kiên làm nen cho thực đơn (già SŨ tệp ành đó có tèn là Nen.jpg).
+-	Chon và nhân đòi layer nền. Với lớp nen ờ trèn, chọn độ trong suốt là 80% và chẻ độ hoà trộn Multiply
+Bước 2. Đira thèm ảnh món ăn vào thực đơn.
+-	Mờ tệp ảnh chửa vùng ảnh càn sao chép, vi dụ ảnh đĩa phở xào. Dùng Paths chọn vùng ãnh muôn đưa vào thực đơn Dùng Copy đê dán hỉnh ảnh này vào ãnh nền (Hình 2).
+Hình 2. Tạo vùng chọn cho đĩa phờ xào
+78
+Dùiig Scale giâm kích thước và dùng Move đẻ đưa vùng ành mới sao chép dán đứng vào vị tri mong muốn. Tièp theo, chọn Colors\Auto\White Balance đẻ đièu chinh làm đòi tượng mới dưa vào trờ nên nòi bật hơn
+Bước 3. Đưa thèm một vài hmh ảnh khác vào thực đơn.
+Tương tự Bước 2, có thẻ thèm các ảnh củ hành, còc nước quà vào thực đơn.
+Bước 4. Tạo khung viển trang trí cho thực đơn.
+-	Trong bàng Layers, nhấn nút * đẻ tạo layer mới ờ trên củng. Chọn Bucket Fill B rồi nhay chuột vào ò vuông phía trên của còng cụ * Ể đẻ mỡ ra bâng chỉnh màu tô {Hình 3). Dùng chuột đê chọn màu trong bàng màu. nháy chuột trai vào vùng làm việc tò màu vừa chọn cho layer
+-	Chọn còng cụ Rectangle Select 9. Nháy chuột trái ờ góc trên trái, giữ và kéo thả chuột đèn
+góc dưới phải để tạo một vùng chọn có dạng hình Hmh 3 Bang C^ÍN^ "^ỉ0 chữ nhật. Nhàn phim Delete tiên bàn phim dè được kèt quà như ờ Hình 4. Chon SelectXNone đẻ bò vìing chọn.
+-	Dùng Scale giâm kích thước khung viền ưãng (có thè lày độ rộng Wìdth = 820). Di chuyển khung uắng vào VỊ trí giữa của thực đơn băng Move.
+Bước 5. Sãp xẻp các lớp ảnh.
+Trong bàng Layers. sắp xếp thứ tự các layer cho hợp li (vi dụ: ìayer NuocOua và HanhTay ở trên khung viền, rồi đến \ayQY PhoXao và Nen ờ dưới khung viền).
+Bước 6. Thèm chữ vào ânh
+Dùng còng cụ Text đè viết nội dung thực đơn. Chọn phỏng chữ. cỡ chữ và chè độ căn lè cho các đoạn chữ.
+Bước 7. Xuàt và in ảnh sàn phàm.
+Xuât ảnh sân phàm với tẻn ThucDon.jpg. Cỏ thè sử dụng lệnh File\Page Setup chình lại hướng giày; Dìuig lênh File\Print, chọn máy 111, tuỳ chỉnh kích thước và vị tri ành (trên giày) nêu cần, rồi in ảnh.
+Hình 4. Tạo khung: viền màu trâng
+■	L» Em hãy tạo một tâm danh thiêp vê vị trí và còng việc tương lai theo mong muôn của bàn thân. Tàm danh thiêp đó nẻn sử dung hình ảnh đẻ minh hoạ cho nghè nghiệp mà em yêu thích.
+79
+
+ỉ lọc xong bài này, em sẽ:
+•	Thưc hiện được việc lên kế hoạch, phân cổng việc cho một dự án thiết kế ẩnh.
+•	Thề hiện được ý tường cùa mình bằng sán phầm dưới dang hình ành.
+•	Thể hiện được tính hợp tác và tinh thần trách nhiệm trong hoạt đông nhóm.
+1.	Yêu cầu chung
+Dưới đày là một sô dự án được tiên hành theo nhóm. Moi nhóm (tư 3 đèn 4 học sinh) thực hiện một dự án trong hai tuàn (trong đó có 2 tièt học tại phòng máy). Cả nhóm tun hiểu yêu càư của dự án, cìing nhau lèn kè hoạch, phàn còng chuàn bị tư liệu và thực hiện tạo sàn phàm trên phòng máy Các nhóm nộp cho thày/cô giáo sàn phẩm cữa nhóm theo các yẻư càư như sau:
+Sân phàm nộp cho giảo viên gôm:
+>	Một thư mục chửa các tư liệu gôm các ảnh ban đàu (có thể là ảnh chụp hay ảnh sưu tàm được) và các phòng chữ hèn quan (nêu có).
+>	Tệp chỉnh sửa, tạo sàn phẩm GIMP (định dạng “xcf”).
+>	Tệp ảnh sân phàm cuôi cìuig thè hiện ý tường cùa nhỏm (định dạng “jpg/jpeg").
+>	Một bàn tự đánh giá của nhỏm.
+>	Một bản thuyêt minh ngăn gọn ý tường của sàn phàm (không quá 1 trang A4).
+Tiêỉỉ ch nân (Ị ánh giá sản phàm (ỉự án:
+>	Sàn phàm thè hiện phu hợp với chủ dè mà dự án yêu càu.
+>	Sàn phàm đảm bào các yêu càu cua dự án vè sò lượng, kích thước, kì thuật.
+>	Hình ânh và nội dung đàm bào sự lịch sự, tòn trọng mọi người.
+>	Sàn phàm có bò cục hợp li, cỏ tính sáng tạo.
+2.	Các dụ án dê các nhóm tuy chọn
+Dự án Ị: Trường em sãp tò chức ngày hội hướng nghiệp. Nhóm em hãy giúp ban tỏ chức làm một mâu giày mời cho sự kiện đó vã một ảnh đẻ làm một tâm hình dùng cho trang web của nhà trương ( tham khảo Hình 1).
+80
+Chú ý
+-	Em càn phải xác định kích thước tệp ảnh dùng cho trang mạng xà hội của nhà hường (vi dụ: 820 px X 312 px).
+-	Đẻ bàn in có độ săc nét, em càn đặt độ phàn giài (X resolution và Y resolution) tối tluểu là 300 như ở Hình 2. Em có thẻ thay đòi những thòng sò nãy tư thẻ Image Settings sau khi chọn File Print
+Dự án 2: Nhóm em hãy giúp làm một banner đẻ trưng bày tiước cửa hội chợ Tẻt và một ảnh đè lãm một tàm hình dùng cho trang web của nhà trương
+Chít ý: Em càn phải xác định kích thước tệp ảnh dừng cho trang web của nhà hường (vi dụ: 820 px X 312 px).
+Dự án 3: Nhằm tạo sư đoàn kèt và không khi vui vẻ giửa các bạn h òng lớp, nhóm em hãy thực hiện một càu chuyện VUI về các bạn trong lớp học băng hình ảnh (có thè minh hoa các nội dung chữ) gôm tìr 5 đèn 7 tàm 1111111
+Cháo mùng "Ngây hôi huõng nghiẽp" \gÓỴ 02 thang oa nam 2023
+Hình 1 Một ành về ngày hội htrởng nghiệp
+Hình 2. Thiết lập tham sồ in
+Chú ý: Việc thêm lời minh
+hoa cho càu chuyện hòng ảnlì phài tránh nói xẩu hay thiếu lịch sự hòng ngôn tư và hĩnh ảnh.
+Dự án 4: Các em lớp 6 mời bãt đàu làm quen với ngòi hường trung học cơ sờ và cỏn nhiêu bỡ ngờ. Nhóm em hãy làm một ảnh thè hiện sơ đò trường mình với những ghi chú, hình minh hoạ hợp li giúp các em lớp 6.
+Chú ý: Nhóm em có thè chuân bị ảnh sơ đò của hường minli băng cách tài xuòng từ trang web của nhà trương (nẻu có) hoặc vẽ tay sơ đỏ cơ bàn của nhà trường ròi bò sung các hình ành minh hoạ bằng phẩn mềm GIMP
+81
+VỌIĨSUĨTROĨGÍI^	n h
+Chu dề F
+WỂ| tìỊÊ^J GÁyj TR^TlUẶNI WĨR2K£ gĩỊ]^®^!™^
+ỉ ỉ ỌC xong bài này, em sẽ:
+. Mó tà được kịch bàn đơn giàn dưới dang thuật toán và tạo được một chương trình đơn giàn.
+•	Hiểu đươc mỗi chương trình là dăy các lệnh điều khiển máy tính thưc hiện mồt thuật toán.
+•	Nhận biết được cẩu trúc tuần tự trong thuât toán và thể hiên được cấu trúc tuần tự trong chương trình.
+(!)
+Em hãy chuyên kịch bản ờ Hình ỉ sang thành dạng mò tà thuật toán đè có thè điều khiên nhàn vật Mèo băng chương trinh Scratch.
+1.	Tuần tụ trong kịch bản và tuần tụ trong thuật toán
+Chúng ta cỏ thè mò tà một quá trinh VỚI các bước lân lượt diên ra, thực hiện xong bước này thi thực hiện bước tiẻp theo, cứ như thẻ cho đèn bước CUÒ1 cùng. Đó là mò tà một thuật toán cỏ các bước đươc thực hiện tuần tự.
+Kịch bản điêu khiên một nhân vật cỏ thè được mò tã dưới dạng thuật toán. Nêu thay đòi thứ tự các bước trong mò tả thuật toán thi ta nhận được một kích bàn khác KIII có kịch bàn được mỏ tà ờ dạng một thuật toán tiu những ngươi bièt sử dụng Scratch sẽ tạo dược chương trinh thè hiện kịch bàn này.
+BÓI cành Nhân vật Mèo đứng bèn trái căn phòng.
+-	Nhàn vật Mèo kêu “Grừ. Grừ... lạnh quái ”
+-	Nhàn vật Mèo kêu “Lò sưởi ờ đâit nhi? ”
+-	Nhân vật Mèo chạy một đoạn (10 bước)
+-	Nhàn vật Mèo kêu “Không có cái nào ”
+Hình 1. Một đoạn kịch bàn
+82
+Em hãy thay đòi thư tự cãc bước trong thuật toán mò tâ kịch bàn ỡ Hình ì đẻ tạo ra một thuật toán khác. Chương trinh Scratch thề hiện thuật toán vừa nhận được có khác VỚI chương trình thè hiện kịch bàn ở Hình ỉ không?
+2.	Thê hiện thuật toán bằng chuông trình
+MÒI chương trinh máy tính là một dãy các lệnh điểu khiên máy tính thực hiện một thuật toán. Các bước của thuật toán được mỏ tã theo thứ tự như thè nào thi các lệnh thê hiên các bước đỏ cũng phải tuân tự kè tièp nhau như vậy. Đẻ thè hiên một bước trong bàn mỏ tâ có thẻ chì càn dùng một lệnh đơn giãn cùa Scratch. Nhưng cũng có bước trong bàn mò tã phai dùng những khỏi lệnh gồm nhiều lệnh đè thè hiện.
+Vi dụ: Trong Hình 2, moi khỏi lệnh ờ còt phải điêu khiên máy tinh thè hiện một bước của thuật toán (mò tà bước này năm ở cột trái và cùng hàng).
+83
+• Với kịch bân cân chuyện nhỏ của hai nhân vật Mèo và Hươu cao cỏ dưới đày, em hãy thực hiện các việc sau:
+1)	Viết mỏ tâ thuật toán điều khiên nhàn vật Meo.
+2)	Vièt mò tà thuật toán điều klìièn nhân vật Hươu cao cổ.
+Kịch bàn càu chuyện nhỏ (Hình 3): - Nhân vật Mèo nói “Trời lạnh, điều tồi tệ với cậu là gi?” trong 2 giày - Nhân vật Hươu cao cổ suy nghĩ trong 1,5 giày
+- Nhàn vật Hươu cao cò đáp: “Là uống tià nóng, Mèo ạ!” trong 2 giây.
+-	Nhàn vật Mèo hỏi: “Sao lai vậy?” trong 1,5 giày.
+-	Nhàn vật Hươu cao cò trà lời: “Khi trà xuống được bung minh tlú nó nguội lạnh mất rồi!” trong 2 giày.
+-	Cà hai nhàn vật cìing cười trong 2,5 giày.
+Hình 3. Câu chtạện nhân vớt Mèo và Hirơu cao cô
+ÚĨB Em hãy tạo chương trinh thè hiện câu chuyện cùa hai nhản vật Mèo và Hươu cao cổ như mỏ tã ờ bài Luyện tập trên đày.
+Trong các cảu sau, những câu não đủng?
+1)	Cổ thể mô tà một kịch bàn dưới dạng các bước tuần tự cùa một thuật toán.
+2)	Trong một kịch bản, thứ tự thực hiện các bước rất quan trọng, nhưng trong mô tà thuật toán thi thứ tự các bước không quan trọng.
+3)	Thứ tự các bước trong một thuật toán quy định thứ tự các lệnh (hay khối lệnh) trong chương trình thẻ hiện thuật toán đó.
+TÓM TẤT BÀI HỌC
+❖	Việc thẻ hiện một kịch bàn có các bước kẻ tiẻp nhau là thực hiện tuân tự các bước của một thuật toán.
+❖	Chương trinh máy tính là một day các lệnh điều khiển mây tinh thực hiện một thuật toán. Các lênh (hay các khỏi lệnh) kê tièp nhau trong chương trinh điêu khiên máy tinh thực hiện các bước tuân tư trong thuật toán.
+84
+c^àb 2.
+
+ỉ ỉ ỌC.xong bài này, em sẽ:
+. Nẻu được khái niệm về biến và hằng, sử dụng được biến trong chương trình Scratch đơn gián.
+• Nêu được các kiểu dữ liệu trong Scratch.
+(!)
+Em hãy chạy thử chương trinh Scratch ờ Hình 1 vá giài thích ý nghĩa của mòi lệnh.
+Hình 1. Mọt chirơng trỉnh Scratch
+1. Biên và hăng trong chuông trình
+Xét bài toán: Một vận động viên chay hẻt quãng đường dài D km, trong thời gian s giày gôm cã Af giây nghi giữa đường chạy. Hãy tính tòc độ chạy của vận đòng viên đó.
+Em hãy cho biẻt:
+1)	Có những dữ liệu nào đã cho và những dữ liệu nào càn tính?
+2)	Nêu dùng Scratch đẻ giải bài toán trên, em làm thê nào đê lưu các giá trị đã cho và kèt quà lời giãi?
+Btến (gọi đày đù là biến nhở) là tên một vùng bộ nhớ, nơi lưu trữ các dữ liệu trong chương trinh. Giá trị biên được xác định và có thê thay đỏi khi chạy chương trinh.
+Trong một chương trinh Scratch, biển được tạo và đặt tẻn theo các bước nlìư ờ Hình 2. Nên đặt tên biến ngắn gọn, dễ nhở và gợi được ý nghĩa của dữ liệu lưu trữ ỏ biên đó. Trong Hình 2 biên nhớ tạo ra được mặc định thuộc kiêu For all sprỉtes tức lã biến dìuig chung cho mọi nhàn vật cùa chương trinh. Neu muốn biên tạo ra là của riêng nhân vật hiện thời thi em cần phài nháy chuột vào nút For this sprite only trước khi chọn OK đẻ hoàn tàt việc tạo biên.
+85
+Vanabtes
+MyBlocks
+Variables
+Motion
+Mako a VanaMo
+Looks
+Sound
+Evonts
+Con troi
+SonNng
+Operators
+change my vartaNe
+Chọn lệnh tạo biển
+New variable name:
+Mako a List
+o For this sprite only
+• For all spntes
+My Blocks
+Cancel
+MakeaBIOCk
+X
+OK
+my vartabíe
+showvanaue my vanaote
+New Varĩable
+Biến dnuìg cùa cảc nhàn vật
+3	) Nhạp tên biển
+Biến riêng cùa nhân vặt hiện thời
+4	) Chọn OK
+Hình 2. Cảc birớc tạo và đạt tên cho biển nhở trong Scratch
+Vẻ biên có hai lênh quan trọng: lệnh gán một giá trị cho biên và lệnh thay đôi giá
+trị của biên (Bang 1).
+Bàng ỉ. Vi dụ về ỉệnh gân và lệnh thay dỏt giá trị cùa biền
+Lệnh • Lệnh set... to...: gán một giá trị cho biến				Ví (lụ		/1 Gận giá tộ 5000 cho biến D
+Nhâp độ dai quàng đu			ong	Yêu cầu nhập giá trị từ bàn phim Gán giá tiị vừa nhập từ bàn phím cho biến D
+Lệnh change... by...: tăng hay giậm giá trị của biến nhớ						Tăng giá tn cùa biến ũ thèm 2
+□	1		Giâm giá tiị cùa biến D đi 5
+Với người lập trinh điêu khiên máy tinh, biên là khái niệm ràt quan trọng và quen thuộc dù sử dụng ngôn ngữ lập trình nào. Biên là dại lương có thè thay đòi giá trị trong quá trinh thực hiện chương trinh Trong nhiêu ngôn ngữ lập trinh còn cỏ khái niệm hằng đé clìi một đại lượng được đặt tên mã giá trị không thay đòi trong khi chạy chương trinh. Scratch không hô trợ việc tạo ra hãng
+86
+2. Các kiêu dù liệu trong Scratch
+Một biên có thẻ nhận giã trị thuộc các kiêu dữ liệu khác nhau. Trong Scratch cỏ ba kiêu dữ liệu được nêu ờ Bâng 2.
+Bàng 2. Ba kiểu dữ liệu trong Scratcỉi
+Kiều dủ liệu	Miền giá trị	Ví (lụ	
+số	Bao gồm số nguyên và sò thập phàn		
+Giá tộ cùa biến Chiêu cao có kiểu dữ liệu số	
+Logic	Bao gôm hai giá trị Tnie (đúng) và False (saí)		
+Giá tn cùa biến chẵn có kiêu dữ liêu Logic (là đúng nếu giá tiị biên a clũa hết cho 2, là sai trong trường hợp ngược lại)	
+Xâu kí tụ •	Bao gồm ki tu hoặc dãy ki tụ		
+Giá tn của biến tên có kiểu dữ liệu là xâu ki tự	
+* Em hãy tạo chương trinh Scratch đè giài quyết bài toán nên ở mục Hoạt động.
+■UB Em hãy tạo chương trinh Scratch đè giãi quyèt bài toán sau đày:
+R là hợp chát cua s (sulíủr) và o (oxygen), khỏi lượng phàn tử của R là 64 amu. Bièt khôi lượng nguyên tử cùa s là 32 amu, khỏi lượng nguyên tử của o là 16 amu, phàn trăm khỏi lương cùa o trong R là 50%. Hãy xác định sò lượng nguyên tử trong hợp chât.
+Trong các câu sau, những câu não đúng?
+1)	Biến là đại lượng dùng đề lưu trữ dữ liệu được xử lí trong chương trinh.
+2)	Đẻ dùng được biến phải đạt tên cho biến.
+3)	Trong nhiều ngôn ngứ lập trinh khác còn có khái niệm hằng, đó là đại lượng được đặt tên và giá trị của nó không thay đồi khi chạy chương trình.
+4)	Giá trị cùa một biến trong Scratch chì thuộc một trong hai kiểu dữ liệu: kiều sổ hoạc kiêu xâu kí tự.
+TÓM TÁT BÀI HỌC
+❖	Biến dùng đè lưu trữ dữ liệu được xử li trong thuật toán cũng như chương trinh.
+❖	Trong Scratch có ba kiêu dữ liệu: kiêu sỏ, kièu logic, kiẻu xâu kí tự
+87
+lì RQNÍãKàaQNgT R i N H
+Học xong bài này, em sẽ:
+Nêu được khái niệm biểu thức số, biểu thức logic, biêu thức xâu kí tự và sử dụng được các loại biểu thút đó trong chương trình Scratch đơn giàn.
+(!)
+Em đã từng tinh toán giá trị cúa một sô biêu thức toán học. Nêu em đã tinig tạo ra chương trinh Scratch có chúa biên thức toán học thi hãy nẻu tinh huòng sừ dung biêu thức đó.
+Trong lập trinh, có kin ta không gán một giã trị cụ thê cho biên mà gán một biêu thức cho biến. VỚI trường hợp như vậy. máy tinh tinh toán biêu thức đè có kèt quà là một giá trị cụ thè, rỏi gán giá trị đó cho biên Biêu thức là một toán hạng hoặc nhiêu toán hạng đươc kèt nôi VỚI nhau bời các phép toán. Trong Scratch, giã trị của biêu thức chì có thè thuộc một trong ba kiểu dữ liệu: sô, logic, xâu ki tự.
+1.	Biêu thúc kiêu số
+Nhỏm Operators trong Scratch cung càp những phép toán đè tạo các biểu thức kiêu sò. Báng ỉ trình bày một sô phép toán thường dìuig trong Scratch.
+Bàng 1. Một sồ phép toán thường dùng trong Scratch
+88
+2. Biêu thúc kiêu logic
+Trong nhóm Operators còn có các phép toán so sánh Một biêu thức logic đơn giàn thường được tạo nèn bởi một trong các phép so sánh băng (=), nhỏ hơn (<) và lớn hơn (>) kẻt nôi hai biêu thức sỏ.
+Vi dụ 2
+Biểu thức logic ở bên nhận giá trị đúng nếu giá tụ cùa biển a nhỏ hơn 10, nhận giã trị sai trong trường hợp giá tn cùa biến a lớn hơn hoặc bằng 10.
+Biểu thúc logic ờ bèn nhận giá trị saỉ vi 12 X 4 = 48 và 48 < 50.
+Các biêu thức logic có thè kẻt nôi VỚI nhau bời các phép toán logic and. or, not tạo nén các biểu thức logic phức tạp hơn. Bâng 2 giải thích các phép toán logic và vi dụ vẻ biêu thức logic trong Scratch.
+Bảng 2. Các phép toán logic trong Scratch
+Phép toán logic	Ỷ nghía	Ví dụ biêu thức logic	
+Chi đúng khi hai biệu thức thành phần đều đủng	^í ^^^3 Biểu thức clù (lúng hơn 9 và lớn hon 1	khi giá tộ biên a nhỏ
+Clu sai khi hai biệu thức thành phần đểu sai	Biểu thức clù sa ỉ kl clua hểt cho 2 và lới	^^ li giá tiị biên a không 1 hơn hay băng 9
+Là giá trị phủ định của biểu thức	Biểu thức (lúng khi biến ơ có giá tụ lớn hơn hay bằng 10	
+89
+3.	Biêu thúc kiêu xâu kí tụ
+Xâu kí tự là một biêu thúc xâu ki tự. Vi du, “Hello” trong Hình 1 là một biêu thửc kiêu xâu ki tụ (gọi tãt là biêu thúc xâu ki tự).
+Với phép toán join (thuộc nhỏm Operators) trong Scratch, ta có thê kẻt nòi các biêu thức xâu kí tự với nhau đê tạo ra dược biêu thúc xâu ki tự mới dài hơn.
+Hình 1. Một biện ĩhírc
+xâu kí tir trong một cân ỉệnh
+ỉ 7 dụ 3
+Tổc đô &»t»:
+.1 ^^ ^^
+Biểu thức xâu ki tụ ở bèn cộ giả tụ là xâu ghép cua giá trị biến s VỚI xâu “giây”. Nếu s có giả trị là xâu “100” tlù biểu thức này có giá trị là xâu “100 giây”.
+Lệnh say ở bên sẽ đưa ra màn hình tòc độ chạy được lưụ trữ ở biến rkẻm theo đơn VỊ “m/giây”. Nếu già trị biến ria xâu “3” thi kêt quả thòng báo như ờ Hìỉih 2.
+Hình 2. Một câu hỉến thị trẽn màn hình
+Bài 1. Em hãy biêu diên các biêu thức sau đày trong Scratch và cho bièt mòi biêu thức đó thuộc kiêu dữ liệu nào.
+a)	(m + n): I 5 + JI ;	c) (x > 30) và (y < 100);
+b)	(P không chia hẻt cho 3); d) “Hãy nhập mật khâu”.
+Bài 2. Khi thực hiện lệnh ở Hình 3, máy tính sẽ lày một sỏ ngàu nluèn trong khoáng tu 1 đến 10 làm giá tri cho biến sổ bí mật. Em hãy tạo càu lệnh đè máy thông báo trên màn hình con sỏ đa được máy chọn Ví dụ, nêu máy lây sò ngàn nhiên là 9, càn dua ra thông báo “Sò mà máy đã chọn ngâu nhiên là 9”.
+set sổ bí mật *
+to pick random
+0 to Q
+Hình 3. Mọt ỉệnh troìtg c/ìirơng trình Scratch
+u Em hãy tạo chương trinh Scratch đè nhập từ bàn phim sỏ giày X, sau đó thông báo ra màn hình kẻt quà đòi X thành giờ, phút và giày. Ví dụ: nêu X là “3 678 giày" thi kèt quà càn thông báo ra màn hình là “1 giờ 1 phút 18 giày".
+90
+Trong các câu sau, những câu nào đúng?
+1)	Biều thức thề hiên cách tính một giá trị.
+2)	Nhóm Operators trong Scratch cung cấp các phép toán đê tạo ra các biêu thức.
+3)	Trong Scratch. tát cà các biẻu thức đều thề hiện dử liệu kiều số.
+4)	Nếu một biến cổ giá trị là một dòng chữ thì biến đó không phải lả một biẻu thức.
+z--------------------------------------------------------------------------------\
+TÓM TÁT BÀI HỌC
+❖ Một bièu thúc trong Scratch lã một dãy các toán hạng kèt nòi VỜI nhau băng các phép toán Dãy nãy thẻ hiện một giá trị nào đỏ thuộc một trong ba kiẻu dữ liệu của Scratch: sô, logic, xâu ki tụ.
+❖ Có thẻ tạo một biểu thức mới tir các biêu thức đã cỏ nhờ các phép toán:
++, -, x, /, mod đỏi với biêu thức sò. and, or, not đòi VỚI biêu thức logic. join đổi VÓI biêu thức kiêu xàu ki tụ.
+Bài đọc thêm
+BIẾN NHỚ KIỂU DANH SÁCH
+Trong Scratch, em đã biết cách tạo ra biến nhở để lưu trữ một giá trị tại một thời điếm. Thêm nữa, Scratch còn cho phép tạo ra biến nhớ lưu trữ một dãy giá trị. Ví dụ, có thể tạo biến ——
+nhớ để chứa một dãy số góm 7 số, mỏi số trong day được đánh chỉ số từ 1
+Dãy' các sỏ >1 124
+53	287 158	98
+Hình 4. Vi dụ ìỉíột dây sổ
+đến 7 (Hình 4).
+Một ví dụ khác là biến nhớ chứa một dáy tên các bạn trong tổ em. Ta thường gọi mõi dãy như vậy là một danh sách.
+Việc tạo ra biến nhớ kiểu danh sách rất đơn giản: chọn Variables Make a List (Hình 5). Cũng như biến nhớ bình thường, biến nhớ kiểu danh sách có thé là biến nhớ chung hay biến nhớ riêng của một nhân vật.
+Em có thể nhập dữ liệu vào biến nhớ dãy số kiểu danh sách bằng lệnh:
+Sử dụng thêm các lệnh nhập dữ liêu từ bàn phim (có từ khoá ask...), em có thể nhập một danh sách trực tiếp từ màn hình sân khấu vào biến nhớ dùng để chứa nỏ.
+Sensino
+Operakxs
+VariabiM
+MyBl<X*S
+Chọn l arìables	Chọn Make
+a List
+MatealM •<
+My Block«
+Make a Btock
+Hình 5. Hirớngdấn tạo biển kiểu danh sách
+91
+ỈSKBĩSịrinh
+Học xong bài này, em sẽ:
+Thể hiện được cấu trúc rẽ nhánh trong chương trình Scratch.
+(!)
+Em hãy mỏ tà thuật toán giãi phương trinh bậc nhât ax + b = ồ (băng hệt kè các bước hoặc băng sơ đỏ khôi).
+1.	Thê hiện cấu trúc rẽ nhánh trong Scratch
+Trong quá trinh thè hiện một thuật toán, khi phải đưa trên điêu kiện cụ thè nào đó đỏ xác định bước thực liiện tiẻp theo thi ta càn sử dụng câu trúc rẽ nhánh.
+Đẻ thè luện càu trúc rẽ nhánh dây đủ và càu trúc rẽ nhánh khuyèt trong mò tả tliuật toán, trong nhóm Control cùa Scratch có hai khỏi lệnh tương ung VỚI hai dạng: rẽ nhánh đày đủ {Hình la) vã rẽ nhánh khuy ẻt (Hình 2a). Điẻư kiện đè rẽ nhánh luôn lã một biêu thức logic.
+Hình ỉb cho một ví dự vè một khỏi lệnh rẽ nhanh đày đù trong Scratch. Điêu kiện đẻ rẽ nhánh là biêu thức logic ((m mod 2) = 0). Nêu biều thức này đúng thi thông báo ni là sỏ chăn. Trường hợp ngược lại, biểu thức điều kiện đó sai thi thòng báo m là sỏ lẻ.	______________
+Hình ỉa. Khối lệnh để thề hiện Hình Ib. Một vi dụ về khối lệnh rẽ nhành đây đù	rẽ nhành dạng đây dà
+92
+Hình 2a. Khối ỉệììh Hình 2b. Một vi dụ về khối lệnh đề thể hiện	rẽ nhành dạng khuyết
+rẽ nhánh khuyết
+Khỏi lệiili ờ Hinh 2b có điêu kiện rẽ nhánh lã biên thức logic ((12 mod w) = 0). Nếu biểu thúc này đúng thi thòng bão m là một ước sô của sò 12. Trường hợp ngược lại, bièu thức điêu kiện đó sai thi không thực hiện gi trong khỏi lệnh rẻ nhánh này.
+ơ lớp 6 em đã bièt một màu mô tà cẩu trúc rẽ nhanh đày dù như ỏ Hình 3a. Em hãy thê hiện mò tà câu trúc re nhánh ờ Hình 3b băng một khôi lệnh hòng Scratch.
+Nếu <điều kiện>:
+nhánh điuig
+Trái lạỉ:
+nhảnh sai
+Het nhánh
+Hình 3a. Một mau mỏ tã cấn tnic rẽ nhành dây dù
+Nếu (a > b và a > c):
+Thòng bão “a là số lớn nhất trong 3 sổ”
+Trái lại:
+Thòng bão “a không là sổ lờn nhất”
+Hết nhánh
+Hình 3b. Một mô tà cấu tnic rẽ nhánh trong thuật toàn
+2.	Thục hành
+Các bạn Hoa, Ngọc và Tuân cìuig tạo chương trinh “Trò chơi mẻ cung”. Trò chơi được mò tâ như sau: Băng phím mũi tên người chơi sẽ điều khiên nhân vật Robot đi tim bánh sinlì nhật trong mẻ cung. Trẻn đương đi, nẻu nhàn vật Robot chạm phài tường thi sẽ bị bật trở lại vị tn xuàt pliát và đông thời gặp nhân vật Con bọ đưa ra càu hỏi là phép cộng các sò ngàn nhiên. Nêu người chơi trả lời đúng sẽ được đi tièp. trái lai sẽ bị
+Hình 4. Sơ đồ một cách chict nhò công việc
+93
+Nhóm bạn xày dựng kẻ hoạch và phàn còng việc tạo chương trinh trò chơi theo từng đòi tượng như mò tà ờ Hình 4.
+Hướng dẫn
+Bạn Ngọc đã viet xong các lệnh điêu khiên nhàn vật Con bọ đưa ra càu hỏi (có sử dụng các biên a, b và Tỏng như ờ Hình 5). Bạn Tuân sẽ viẻt tiẻp phàn xử li càu trà lời, Tuấn dùng cẩu trúc rẽ nhánh đày đù như sau:
+Nếu cân trả lời đúng:
+when
+show
+wart
+set
+Sỡt
+set
+ask
+jntil touchmg Robot V ?
+b
+to
+to
+Tống
+to a
+a
+b
+pick random
+b
+to
+and wait
+Hình 5. híột khổi ỉènh đưa ra phèp toán cùa bạn Ngọc
+Nhàn vật con bọ thay đòi trang phục
+Nhàn vật con bọ đưa ra thòng báo “Ban tinh đúng, mời đi qua”
+Nhàn vật con bọ biên màt
+Ngtrời chơi được đi tiếp trong trò chơi
+Trái lại:
+Nhàn vật con bọ tliông báo “Bạn tính sai? Dừng chơi”
+Dùng trò chơi
+Hốt nhá 1111
+Dừng trò chơi
+Để dinig ưỏ chơi, Tuân dự định dìing khôi lênh stop all í ương nhóm Control Em hãy tạo đoạn chương trinh giúp bạn Tuân.
+MOM VỚI mỏ tà thuật toán giài phương trinh bậc nhàt ax + b = OỜ mục Khởi động.
+em hãy tạo chương trình Scratch thê hiện thuật toán dó.
+Trong các câu sau. những câu nảo đúng với môi trường lập trình Scratch?
+1)	Hoàn toàn thề hiện được cấu trúc ré nhánh của thuật toán.
+2)	Khối lệnh rẽ nhánh dạng đầy đủ mới cần điều kiện rẽ nhánh, còn khối lệnh rẽ nhánh dạng khuyết không cần có điều kiện nào.
+3)	Điều kiện rẻ nhánh cần phài được thề hiện bàng một biều thức logic.
+4)	Đẻ thẻ hiện cấu trúc rẽ nhánh dạng khuyẻt, có thề dùng khối lệnh rẽ nhánh dạng đầy đù (lí... then... else...) nhưng khổng kéo thà lệnh nào vào phần else.
+94
+/-----------------------------------------------------------------X
+TÓM TÁT BÀI HỌC
+❖	Ngôn ngữ Scratch có hai khối lênh the hiện cấu trúc rẻ nhanh trong thuật toán: rẽ nhánh dạng đày đù và rẽ nhánh dạng khuyèt.
+❖	Càn cỏ biẻu thức logic thè hiện điêu kiện rẽ nhánh.
+❖	Chia nhò còng việc cũng sẽ giúp chủng ta dè dang quàn lí và kiêm tra còng việc.
+Bãi dọc thêm
+SỬ DỤNG MY BLOCKS
+Em cỏ thể làm một đoạn các lệnh kế tiếp nhau trở thành một block có tên gọi. Nên đặt tên cho block thể hiện mục tiêu của nỏ. Khi đa cỏ khai báo một block được đặt tên (ví dụ như ở Hình 6a), em có thể đặt tén của block vào vị trí đáng lẽ đặt đoạn lệnh cùa block (ví dụ ở Hình 6b).
+Hình 6a. Khai bâo các Ịệỉìỉi cìỉa một block	các lệnh của bỉock
+Dê dàng tạo một block bàng cách: nháy chuột vào nút Make Block, rói đặt tên cho block, hoàn tất với chọn OK (Xem Hình 7).
+Sử dụng My Blocks có thể giúp em chia nhỏ và quản lí chưong trình dỗ dàng hơn.
+Hình 7. Sừ dụng My Bỉocks
+95
+HỊENrcAgg^ GựRi n Hi
+Học xong bài này, em sẽ:
+Thể hiện được trong chương trình Scratch hai loại cấu trúc lặp: lặp với số iần lặp biết trước và lặp với sổ lần lặp không biết trước.
+(!)
+Khi nào trong mò tã thuật toán ta cân dùng càu trúc lặp? Nêu em đã tìmg tạo chương trinh Scratch có thè hiện câu trúc lặp tiu đỏ là tinh huống nào?
+1.	Thê hiện trong Scratch cấu trúc lặp khi biết trước số lần lặp
+Đè thẻ hiện việc một sò lệnh được thực hiện lặp đi lặp lại vời sỏ làn lặp đã xác định trước, trong nhỏm Control của Scratch có khôi lệnh như ở Hình ỉa.
+Các thao tác cấn lạp
+repeat ©
+next costume
+Sổ lấn lạp
+repeat
+Hình la. Khối lệnh thế hiện láp với so ỉầtì láp biết trirớc
+Hình Ib. Vi dụ về khối lệnh ỉáp với sổ lấn lộp là 10
+ở Hình Ib ìà một ví dụ về khối lệnh lặp b ong Scratch. Cụ thẻ là ba thao tác sau đây được thực hiện lặp lại 10 làn liên tiếp:
+- Nhân vật thay đỏi bang phục.
+-	Chơ 1 giày.
+-	Nhàn vật dịch chuyên 5 đơn vị (theo trục x).
+Em hãy cho biẻt chương trinh ỡ Hình 2 thực hiện điêu gi
+Hình 2. Một chương trinh Scratch
+cnange num
+se; sum
+96
+2.	Thê hiện trong Scratch cấu trúc lặp khi không biết trước số lần lặp
+Có những trường hợp ta không bièt trước được sò làn càn lặp một lệnh (hay nhóm lệnh) nào đó klũ thực luện thuật toán. Vi dụ, chương trinh lặp đi lặp lại yêu càu nhập mật khàu cho đèn khi nhận đươc đúng mật khâu nhập vào thi mới dừng lặp đè thực hiện việc tiêp theo.
+Điền kiện dừng lập
+Cớc thao tác cấn lập
+repeat until
+Scratch có khỏi lệnh như ỡ Hình 3a đẻ thè hiện càu trúc lặp khi không biẻt trước sò làn lặp nhưng biẻt điêu kiện dùng lặp. Điêu kiện dừng lặp phải được thê hiện băng một biêu thức logic. KI 11 biêu thức này nhận giá trị đúng thi việc lặp lại sẽ dìmg.
+Hình 3a. Khồi lệnh thể hiện lặp với diều kiện dìmg láp
+Chương trinh ờ Hình 3b yêu cầu nhập mật khâu và clũ dìmg yêu càu này cho đèn klu xàu ki tự “T11111OC8” dược nhập vào từ bàn phim, tức là khi biêu thức logic (answer = password) nhận giá trị đủng
+whon
+Điều kiện dímg láp
+set password
+to
+Các thao tác cầĩì lãp
+Hình 4a. Khối lệnh thề
+hiện lặp vỏ hạn lần
+Hình 3b. Một chương trình cỏ càu tnic láp với diều kiện dinìg lặp
+Trong Scratch khòi lệnh ờ Hình 4a cũng thẻ hiện càu trúc lặp. Khôi lệnh trong khung lặp mãi mãi, muốn dừng vòng lặp nãy phải dùng lệnh stop this script trong nhóm Control. Hinh 4b cho ta một vi dụ m 11111 hoạ điêu này.
+Hình 4b. Một vi du dùng lạp vỏ hạn lần
+Bài 1. Sử dụng cấu trúc lặp và rẽ nhánh, em hãy viết nhóm lệnh điểu khiển nhân vật Robot đi trong mè cung băng các phim mũi tên và khi Robot chạm phải tường cùa mẻ cung thi sẽ xuàt hiện thông báo “Bạn không thẻ đi được”.
+97
+Bài 2. Vòng lặp ờ Hình 5 sẽ làm nhàn vật vẽ một hình vuông VỚI các cạnh có màu khác nhau. Em hãy tạo chương trình vẽ Hình 6.
+Gợi ý: Hãy lặp lại việc vè liinh vuông 12 làn, nhưng sau mòi làn vẽ xong một hình vuông thi xoay hướng nhàn
+pen down
+change pen cotor * by
+movo © stops
+tum 0* o degrees
+sot pon size to
+
+Hình 5. Khối láp vẽ một hình vuông
+Hình 6. Hình tạo bởi 12 hình vuông
+vật vẽ 30° trước khi vẽ hình vuông tièp theo.
+■Lĩb Theo một mẫu mò tà cấu trúc lặp đã học ờ lớp 6, bạn Quàn mò tã một thuật toán như ở Hình 7. Em hãy thè luân thuật toán này băng một chương trinh Scratch. Gợi ý: Trong Scratch em sử dụng khỏi lệnh lặp VỚI điêu kiện dìmg ỉặp, tuy nhiên mô tả cùa bạn Quàn là lặp VỚI điều kiện lặp, bời vậy em phải lây điêu kiện dừng lặp băng phủ địnli của điểu kiện lặp.
+i = ồ
+tông = 0
+Lặp khi (tổng < 325):
+Tâng i lèn 1
+Cộng i vào tổng
+Hốt lặp
+Thông báo: i là sổ tự nhiên nhỏ nhất để tổng các sổ tu 1 đến i không nhỏ hơn 325
+Hình 7. Kíò tã niột thuật toán cùa Quàn
+°-&
+Trong cãc cảu sau, những câu não đúng trong Scratch?
+1)	Có ba khối lệnh khác nhau để thê hiện cấu trúc lập trong thuật toán.
+2)	Chì cỏ thể SỪ dụng cấu trúc lập khi biết trước số lần lặp.
+3)	Chì có thề sù’ dụng cấu trúc lap đẻ lạp đi lạp lại một lệnh.
+4)	Điều kiện dừng lặp phài là một biểu thức logic.
+TÓM TẮT BẢI HỌC
+❖ Scratch cung càp ba khói lệnh khác nhau đẻ thè hiện các càu trúc lặp: lặp VỚI sò làn biẻt trước, lặp cho đèn khi điêu kiện dừng lặp được thoà mãn, lặp vỏ hạn
+»:• Điêu kiện dừng lặp phải là một biêu thức logic.
+98
+
+ỉ ỉ ọc.xong bài này, em sẽ:
+•	Nêu được một vài lỗi đã từng gặp khi lập trình.
+.	Thực hiện được chia nhỏ công việc để tìm ra lỗi.
+•	Tìm và sửa đươc lỗi trong một vài chương trình Scratch.
+Chương binh hay một khôi lệnh nào đó có thè không thực hiện đủng những gi người tạo ra nó mong muốn. Việc tim nguyên nhàn và sừa chữa các lỗi này được gọi là gỡ lòi (debug). Đày là những hoạt động cản tluèt bong lập binh, khỏng chi VỚI ngôn ngữ Scratcli, mã VỚI bảt ki ngôn ngữ lập bình nào khác.
+Klu gặp lòi bong chương bình Scratch em có tliè dùng một sô cách dẻ tìm và gỡ lỗi như sau:
+-	Đọc và kiêm ba chương b inh.
+-	Thử đăt mình vào vị b i máy tinh, klu nhàn được những lệnh, khối lệnh như b ong chương trinh tlù sẽ làm gi.
+-	Tách nhỏ tìnig phàn kiẻm ba xem chứng có hoạt động đúng như mong mưòn không, sửa chữa nêu có lòi, chạy thử trước và cà sau khi ghép các khôi đã chạy đủng ý muòn.
+Bài thực hành. Tìm và sửa lỗi một chuông trình tính giá trị cúa biêu thức
+Nhiệm vụ: Ban Ngọc tạo chương trinh như ở Hinh Ja (được hni b ong tệp Bai6 ThucHanh2.sb3) đè giúp nhân vật Mèo thực hiện phép tinh và đưa ra kèt quà cùa biêu thức sau:
+^^^^ +ĩ°õ
+Tuy nlũẻn klũ chạy chương binh, nhàn vật Mèo không thòng báo kèt quà nào. Em hãy giúp bạn Ngọc:
+-	Xác định nguyên nhân gày lỏi.
+-	Chĩnh sửa chương binh (Hình 7) đè nhàn vật Mèo đưa ra kết quà đủng.
+Hướng dan
+a)	Hãy chạy thử, quan sát và b'à lòi các càu hỏi sau:
+99
+Khi chạy thư chương trinh, em thây nhàn vật Mèo thực liiện được đên những bước nào? Lệnh đó có được thực hiện đủng như mong muôn không?
+- Bãt đàu tìr khôi lênh nào, chương trinh gặp phải sự cô không mong muôn?
+when dicked
+go tox:
+say
+Xin chào!
+- Quan sát biến T trong mãn hình khi gặp lỏi vã bièn n chạy tới giá trị àm, em nghĩ tới lỏi có thè xày ra ờ đàu?
+say
+
+seconds
+say
+for
+hép tính sau: J
+T=1/2+1/3+1/4+..+1/100
+for
+seconds
+set
+set
+repeat untì
+say
+T
+say
+join
+Mình đà có két quả phép toán
+say
+a) Chương trình cùa bạn Ngọc
+bị Lỗi khi chạy chirơng trình
+Hình ỉ. Chirơng trình còn cỏ ỉồi cùa b(ĩìì Ngọc
+b)	Em cũng có thè thèm các khôi lệnh kèm độ trẻ đưa ra kẻt quả của từng bước lặp đẻ xác định bước nào gày lòi:
+change T * by / n
+say join	7 for seconds
+c)	Chương trinh bạn Ngọc đã viết nhăm thực hiên ba còng việc sau: 1. Giời thiệu phép toán; 2. Thực hiện 111111 toán, 3. Đưa ra kẻt quả.
+100
+Nhăm xác dịiili lòi một cách dè dang hơn. hãy thực liiện: tách ba khôi lệnh tương ứng VỚI ba công việc nói trẻn như ở Hình 2a, 2b, 2c\ chạy thử tìnig khôi. Kẻt quả nhận được là:
+-	Khổi lệnh Giới thiệu phép toán không gày lòi gì.
+-	Hai khôi lệnh Thực hiện tính toán và Dưa ra kêt quà không thực hiện đúng như mong muôn.
+Hình 2a Khối lệnh Giới thiệu phép toàn
+Hin/ì 2c. Khối lệnh Đira ra kết quà
+Hình 2b. Khối lênh Thirc hiện tinh toàn
+Khi chay khỏi lệnh Thực hĩện tinh toán, ta thấy chương trinh báo lòi T^inhnity (vò cùng), đây là lỏi thực hiện phép chia cho 0. Ngoài ra còn một sô phát hiện sau:
+-	Lệnh giâm n được thực hiện trước nên sẽ bi thiếu mất số hạng pồQ. Đẻ sữa chỗ này, ta càn thêm vão Tgiá trị 1 trước khi giảm n, đỏng thời tránh lòi chia cho 0. Như vậy, càn đôi lệnh cộng thèm cho 7’ lèn trước lệnh giảm n.
+Đẻ tính giá trị biểu thức, trong vòng lặp biến n giâm dàn giá trị. Trước khi đạt điêu kiện n < 1, thi w cỏ giá trị băng 1, khôi lệnh trong vòng lặp vàn dươc thực hiện VỚI việc T nhận thèm giá trị -ị-. Nhưng trong biếu thức không có số hạng -ị- mà chi có -y lã Sỏ hạng cuôi cùng được thêm vào T. Do vậy, điêu kiện của vòng lặp phải là n <2 thi khỏi lệnh mới tu 111 đủng giá tụ biều thức ban đàu.
+-	Khi tliực liiện khỏi lệnh Dim ra kêt quà, ta clù thày được kẻt quà ờ lệnh cuôi cùng. Đè sửa lòi này, ta càn thèm thơi gian chờ đê nhìn thày két quà hièn tlu ỡ các lệnh phía ti ên.
+■	» Em hãy chỉnh sừa lòi cho chương trinh Bai6 Thuchanh2.sb3.
+101
+yóài'7.
+Học xong bài này, em sẽ:
+•	Tạo được trò chơi mẻ cung ở mức đơn giàn.
+•	Sử dụng được cấu trúc lặp, rẽ nhánh, biến, biểu thức trong chương trình Scratch.
+Bài thực hành. Trò choi trong mẽ cung
+Nhiệm vụ: Trò chơi mê cung đa được mỏ tà ở Mục 2, Bài 4 (trang 93). Dựa vào sơ đò một cách chia nhỏ còng vièc (xem Hình 4, Bãi 4), em xác định xem việc nào đã được giãi quyết, việc nào càn thực hiện hay hoàn thiện nôt.
+Hướng (ỉân
+Bước 1. Em dùng các đòi tượng có săn trong tèp MazeAssets.sb3 ở thư mục Bai" hoặc chọn các đỏi tượng theo ý muôn (Nẻu muôn tự vế mẻ cung, em có the dùng còng cụ vẽ vector trong Scratch đê tạo mẻ ciuig VỜI một đường di duy nhất).
+Bước 2. Điểu khiển nhân vật Robot.
+- Đặt nhân vật Robot ở vị tri lòi vào của Mê cung, xác định toạ độ cua nhân vật này và sừ dụng lệnh go to trong nhóm Motion đẻ đãt vị tri băt đâu cùa Robot (ví dụ như ở Hình 1).
+Điểu khiên nhân vật Robot di chuyển băng mũi tên, càn dùng một câu trúc lặp hèn tục kiêm tra xem mũi tên nào vừa được nhàn đê làm cho nhàn vật Robot dịch chuyên theo trục tung hay trục hoành (ờ Hình 2 là một vi dụ cho khôi lệnh này).
+Đè nhân vật Robot không di chuyên xuyên tường, càn có càu trúc lặp liên tục kiểm tia nliàn vật Robot có chạm màu bức tường liay không. Nêu cham tường thi phải đưa nhân vật Robot vẻ vị trí xuât phát băng lệnh go to. Như vậy, em càn tạo thêm khỏi lênh như ờ Hình 3.
+Hùìh ỉ. Vị trí bẳt đất ỉ cùa nhân vát Robot
+đ»*»9»yby o
+lí kny nght.inrvi • PTOVỈOƠ? thon
+crtango X byO|^»M
+Hình 2. Điền khiển nhân vật Robot báng các phiììì tìini tên
+102
+Bước 3. Điêu khiên Bánh
+Dùng lệnh go to đua Bánh vào vị tri trung tàm Mê cung Klu băt đâu tro chơi Bánh xuàt lnện và khi Bánh được tim thày thi Bánh càn biênmàt (sứ dụng lệnh Show và lệnh Hide đè thục hiện điêu này). Dùng khỏi lệnh ờ Bài 5 phàn 2 dè hoàn thành Bánh dược tìm thây.
+Bước 4. Viêt lệnh cho nhàn vật Con họ
+-	Thèm biên a, b vã Tông ciuig các khói lệnh ờ Bài 4 phàn Thực hành đè nhân vật Con bọ Đưa ra câu hôi và Xừ ìi trà ỉời.
+Hình 3. Ngân nhân vát Robot không di chuyên xuyên tirờng
+Hình 4. Nhàn thêm nhân vật Con bọ
+-	Tạo thèm các vật càn kliac băng cách nháy chuột phải vào nhân vật Con bọ, chọn Duplicate (Hình 4) và đặt nhàn vật Con bọ ờ các vị tri nhân vật Robot đi qua.
+Bước 5. Gỡ lỗi.
+Trò chơi còn có lòi: Nêu như em nháy chuột vào vị tri bât ki trên mé cung lúc xuàt hiện càu hỏi,, thi nhàn vật Robot vàn có thẻ đi qua mặc dù không tra lời càu hỏi. Đẻ giài quyêt lỏi này, càn kiêm tra càu hỏi đã dược trả lời chưa băng cách sử dụng thèm biển Dang trã lòi. Biến này sẽ được gán giá trị 0 klìi bãt đâu trò chơi. Nliàn vật Robot sẽ thực hiện lặp lại hèn tục việc Di chuyên klu Đang trả lòi = 0.
+Ngay sau khi nhân vật Con bọ đưa ra càu hỏi, biên Dang trả lòi sẽ được đặt băng một giã trị khác 0. Chỉ khi người chơi đua ra càu trà lời (answer) thi biến Đang trả lòi mới được nhận lại giá trị 0.
+Em có thẻ thày việc sử dụng biẻn Dang tra lòi như ở Hình 5.
+Khối lệnh thực hiện việc di chuyển
+Hình 5a Sừ dụng Đang trá lời cho nhàn vát Robot
+Hình 5b. Sừ dụng Đang trà lời cho nhân vật Con bọ
+103
+Bàl đọc thèm
+_____CHƯƠNG TRÌNH SCRATCH THỰC HIỆN SẮP XÉP CHỌN __________
+Em hoán toan co thể tạo chương trinh Scratch để sắp xếp một dãy số giảm dân theo thuật toán sấp xếp chọn. Trươc hết. càn xem lại mo tả thuạl toan (Hình 6).
+Bãi toan sip xép:
+Đáu vào: Dãy số ar a„..., an
+Đâu ra: Dãy sô a'r đj,.., a^ gòm các sô cùa dày đâu vào nhung thứ tự giám dàn
+Đoạn chương trinh ồ Hình 7 thực hiẹn Bưỏc (1) vởi dãy số la biến nhỡ kiểu danh sach.
+Hình 6. ThtưỊt toàn sẳp xếp chọn
+D*y «4 CO bM nMu lò?
+and WM
+Tliuáí toan sip xép chọn
+(1) Nhập váo dây cổ cân sỉp xẽp
+(2) Lạp với 1 từ 1 đen M-l:
+a) Tỉm sô lon nhat trong day sô ứp a chàng hạn aa
+b) Đồi chỏ a# cho đt
+Hct lặp
+NMp ló thừ
+cúadiyM
+ISk jc«i
+cnange I
+lo ơayaó
+Khồi tạo gia trị đâu cho bién chạy i
+Vong láp thực hiện (2), lập n - 1 lân
+chisốrsa*
+ơi số
+J«<
+chi sổ ma*
+tín’số
+chỉ tỏ ma of <ây tó
+ma
+repeat
+Ml
+dunge chlsA
+ot dãy 30
+tg • to
+retdace aem i 0( dty sổ - w<h tem chỉ si ma* of đ&y SẮ
+to chi số
+ma*
+lo tem chì si ot điy sỏ
+tem chỉ sỏ of đày sỏ
+rcptacc tem chi sổ ma* ot dãy sô
+chanqe I • by
+Hình 7. Đoạn chirơng trình nháp một dãy sồ
+Chuẩn bi cho viẽc tim só lớn nhất của dãy a, a„,.... a. Thiét lạp tham sỗ ban đàu cho cac biến: chí số la biến chạy, max va chỉ số max tương ưng biểu thị số lơn nhất va chỉ số cùa só lơn nhất tạm thời.
+Vỏng lặp thực hiện nhiệm vụ (a): lặp (n + 1 - /) làn. xet duyệt từng phân tử, tử phàn tử co chỉ só / đến phàn tử co chỉ số n ỏ cuối dãy, nếu phân tử dang xet lon hơn số lớn nhất tạm thơi thi ghi nhặn lại số lớn nhất tạm thời vá chỉ só của nó.
+Hoan đồi giá trị của hai phàn tử: phân tử có chỉ số i va phân từ lỡn nhất trong
+day a. a
+3-
+Sau hoan đỏi nay. a la số lơn nhất
+trong dãy a.. a
+3„.
+Tang i len 1 để thực hiẹn tiếp vong lạp (2)
+Hình 8. Đoạn chương trình thực hiện sấp xểp chọn
+Tham khào cac đoạn chương trinh ồ Hình 7 va Hinh 8, em dè dang co được chương trinh Scratch cho nhạp vao một dày số vá sấp xếp day số do giảm dãn.
+104
+ỉ ỉ ọc xong bài này, em sẽ:
+. Nêu đươc một số nghề nghiệp mà ứng dụng tin học sẽ làm tăng hiệu quà công việc.
+• Nêu đươc tên môt số nghề liên quan đến ứng dụng tin học.
+(!)
+Theo em. tại sao càn học mòn Tin học9
+1.	Tin học cần cho mọi nguòi trong thòi dại thông tin
+Tm học nghiên cứu việc dùng máy tính đè tỏ chức, lưu tnì, xử li vã tniyên tải thòng tin. \'ới sự phát triên nhanh chóng, mang lại lọi ích to lớn và tạo ra những thay đòi lớn lao cho xã hội loài người, Tin học được img dtmg bong mọi mặt của đời sòng, ơ trường phò thòng, mòn Tin học cỏ vai trò chù đạo trong việc hình thành và phát tnèn năng lực tin học cho học sinh Mòn Tin học cung càp các kiên thức, kĩ năng cơ bàn nhăm giúp các em:
+-	Sử dung được các tliiêt bị sô và phàn mèm CO' bàn thòng diuig một cách có dao đửc, vãn hoá và tuân thũ pháp luật;
+-	Sừ dỊing và áp dụng được máy tinh đẻ giãi quyèt vàn đẻ thực tẻ;
+-	Phát ưiên tư duy giãi quyêt vàn đè VỜI sự trợ giúp cùa máy tinh một cách luèu quà và sáng tạo.
+Lĩnh vục tin học đang mờ ra nhiều nghề, nhiều cơ hội việc làm như: sàn xuất phàn cứng, sàn xuât phàn mèm và cung úng dich vụ. Các sản phàm phàn cứng như: máy tinh, điện tlioại thòng minh, tluẻt bị mạng và thiêt bị vién thông,... Các sàn phàm phàn mèm ràt đa dạng: từ các tiện ích hay ưò chơi đèn các phàn mèm kê toán, quàn
+105
+lí kho hàng, điẻu kluèn dày chuyên sản xuất,... Các dịch vụ điện thoại, dịch vụ truy cập Internet,... là các dịch vụ thuộc lĩnh vực tin học.
+Học món Tin học các em được phát triển năng lục tin học đé tlìiclì ứng VỜI xã hội hiện đại, được chuẩn bi những khà năng cho học tàp và lam việc trong tương lai.
+Em hãy nêu tèn một nghè càn dùng đèn máy tinh và nói rõ dùng máy tinh đẻ làm gi.
+2.	r ng dụng tin học đê làm việc nảng suất cao và có hiệu quả
+ứng dụng Ún học tãng nãng suất lao động
+Sử dụng máy tính như còng cụ lao động đẻ làm việc nhanh hơn, dé hơn là thục tẻ ràt phò biên cùa việc ứng dụng còng nghè thòng tin trong lao động nghè nghiệp. Nhiêu thòng báo tuyên dụng người lao động thường nêu yêu câu ngăn gọn “Tin học thành thạo”. Không chì nlìân viên văn phòng mới càn đáp ứng điêu kiện này. Nhàn viên quay hang siêu thị cũng cần dũng máy tinh. Kc toán viên hiện nay phải biẻt thè nào là “kế toán máy”. Ngày nay, các kĩ sư xày dựng, kiến trúc, cơ khi, chế tạo máy,... phải biẻt làm bản vẽ băng máy tinh.
+ửng dụng tỉn học đẽ hỗ trợ sáng tạo
+Máy tính không thay thè con người trong sáng tạo nghệ thuật nhưng có thẻ hò trợ rất hiệu quà cho lao động sáng tạo. Một sò nghè có yêu càu sáng tạo khi làm sàn phàm cũng càn đèn máy tinh.
+Các kiên trúc sư thièt kè công trinh xảy dụng, nhà thiêt kê kiêu dâng sản phàm, tluẻt kế mì thuật còng nghiệp, tluết kế thơi trang,... sừ dụng máy tinh trong lao động sáng tạo. Máy tinh giúp nhanh chóng tạo mâu, mò phòng thực tại, xem hước dưới nhiều góc độ đẻ có lựa chọn ưng ý nhất.
+Con người sử dụng máy tinh, thiết bị kĩ thuật sỏ và ứng dụng tin học trong nliiéu công việc kè cà trong những nghè hoạt động sáng tạo.
+ưng dụng tin học đê hỗ trợ mọi người nâng cao châĩ tượng cuộc sông
+KI lỏng phàn biệt nam nữ, người già, trè em, mọi địa vị xã hội, việc làm,... ai cũng có thè học và sử dụng máy tinh, thiêt bị sỏ đẻ nàng cao hiệu quà còng việc, vui choi giài b i làm cho cuộc sòng ngày một tươi đẹp. Hơn thẻ nữa, tin học còn hò trợ đẻ cho người khuyêt tật có thè lãm việc, trơ thành người hữu ich, có đóng góp cho xã hội. Máy tinh dẻ dàng chuyên tiêng nói thành văn bàn nêu bạn không dùng được bàn phim Thậm chí việc đọc tin hiệu bộ não và viết ra thành chữ cái đã thừ nghiệm thành công. Nhờ hô trợ cua các thiẻt bị sô, nhà bác học nòi tiêng Stephen w. Hawking hon
+106
+50 năm sòng chung VỜI căn bệnh ròi loạn thân kinh vận đòng, không di lại được, thậm chi không thè phát âm vàn cỏ thẻ làm việc và có những đỏng góp khoa học to lớn vẻ vũ trụ học.
+3.	Một số nghề úng dụng tin học
+Nhiêu ngành nghè thuộc lĩnh vực khoa học kĩ thuật, kinh tế. an ninh quốc phong, quàn li tài chinh, ngàn hàng, hành chính sự nghiệp có nhu càu ứng dụng tin học rất cao. Ngày nay còng việc trong nhiều nghè yêu càu sử dụng những phàn mèm chuyên dung. Một sỏ nghè thòng dụng thu hút nhiêu nhàn lục có thẻ kẻ tới như: Hành chinh văn phòng. Kê toán. Kĩ thuật sửa chữa và lăp rãp máy tinh,... Một sò nghè có ứng dụng tin học đẻ sáng tạo như: Đô hoạ, Thiêt kẻ kiên trúc, Thiét kẻ còng nghiệp, Tạo hình hoá trang,...
+Bài 1. Em hãy nêu một sô nghê nghiệp mà ứng dụng tin học sẽ làm tăng hiệu quả còng việc.
+Bài 2. Em hãy kè tên một số nghè hèn quan đèn ứng dụng tin học.
+«■ Hãy cho bièt sau khi học bài này ein thày có nên chọn học mòn Tin học khi học trung học phô thông hay khỏng. Vi sao?
+731
+Câu 1. Theo em, vì sao có thể nói "Món Tin học chuần bị cho học sinh những khả nâng học tập và làm việc trong tương lai"?
+Câu 2. Em hiẻu thế não là ứng dụng tin học?
+Câu 3. Khàng định rằng mây tính không giúp gi cho lao động sáng tạo là đúng hay sai? Vì sao?
+TÓM TẢT BÀI HỌC
+❖	Mòn Tin học giúp học sinh phát trién nãng lực tin học
+❖	ứng dụng tin học giúp tăng năng suất lao động, tăng hiệu quà lam việc.
+❖	Có rất nhiều nghe thuộc hầu hốt các lĩnh vục đen hèn quan đen ứng dung tin học như: Hanh chinh vãn phòng. Kẻ toán, Giáo viên, Kĩ thuật xây dung, Thiết kè còng nghiệp,...
+107
+^ẨNTrNGHẾ
+ỉ ỉ ọc xong bài này, eni sẽ:
+• Nêu được tên một sổ nghề thuộc lĩnh vực tin học.
+. Nhận thức và trình bày được vắn đề bình đăng giới trong các ngành nghề cống nghệ thông tin.
+(!)
+Em hãy nêu những nghè thuộc lĩnh vực tin học mà em biét.
+1.	Ngành nghề và trình dộ chuyên môn nghề nghiệp
+Bộ Giáo dục và Đào tạo có còng bỏ danh mục các ngành đào tạo. Một trường cao đăng, đại học có thè đao tạo một sổ ngành nhàt định có hèn quan VỚI nhau. Người ta thường gọi đó là các ngành nghè đào tạo khi tuy ên diing lao động Người tuyên diuig quan tàm thòng tin ngành học cùa ứng viên. Ngành nghè được đào tạo có vai trò ràt quan họng với chuyên mòn của mỏi người trong tương lai Giáo dục hướng nghiệp nhằm hướng dan học sinh chọn nghề, chọn sẽ học những gi phù hợp nhất với dự kiến việc làm cùa minh sau này.
+Nhiêu ngành, nhỏm ngành đào tạo hường đèn các việc làm trong lĩnh vực tin học. Vi dụ: Mảy tinh và còng nghệ thòng tiiL Còng nghệ kĩ thuật điện tư - viên thòng, Kĩ thuật điện tử - viên thông.
+Có nhiêu ngành đào tạo hướng đèn việc lam trong linli vực tin học.
+2.	Một số nghề thuộc lĩnh vực tin học
+a)	Một sổ nghề thuộc lĩnh vục phát triển phần niềm
+Phát triẻn phàn mèm là làm ra phàn mèm. Sàn phàm phàn mèm ràt đa dạng, tìr nhò, dơn giàn đèn ràt lớn, ràt phức tạp. Một người được đào tạo phù hợp vẻ công nghệ thòng tin có tliẻ viẻt được các tiện ích hay trò chơi rỏi đưa lẻn chợ ứng dụng. E>ày là một vi dụ về làm phần mềm theo kiểu hành nghề tự do. Có thể so sánh việc làm một sàn phàm phần mềm VỚI xày một toà nhà.
+Kiên trúc sư toã nhà vẽ kiẻn trúc tỏng thè, ghép nôi nhiêu hình khỏi, bỏ tri theo còng năng sữ dụng. Kiên trúc sư phán mẽm có nhiệm vụ tương tự klu làm sàn phàm
+108
+phàn mêm vi một phàn mèm lớn dươc ghép tư nhiêu thành phàn nhỏ hơn. Kĩ sư (thỉêt kẽ) phân mêm có nỉũệm vụ tương tự như kĩ sư xây dựng, chịu trách nhièm thiêt kè chi tiẻt sau khi đã có kiến trúc tòng thẻ. Cuối cùng là các ỉập trình viên có vai trò giông như thợ xây lãp, đặt những vién gạch, lãp những thiét bị khác,... đẻ xây thành toà nhã.
+Lĩnh vực phát triền phân mèm càn nguôn nhân lực thuộc cãc nghè như: Phàn tích hè thòng. Làp trinh máy tinh.... Các chức danh nghè nghiệp thương gập của nhũng người làm việc trong lĩnh vực nãy là: kiên trúc sư phàn mèm, kĩ sư phàn mèm, lập trinh viên, kiểm thừ vién,...
+b)	Một sô nghê thuộc lĩnh vực vận hành hệ thông công nghệ thống tin
+Hệ thòng công nghệ thông tin của một cơ quan doanh nghiệp vi như một toà nhà văn phòng, phai có ban quàn li và một sò nhân viên kĩ thuật, nhân viên bào vè. Bộ phận (tò, phòng, ban) còng nghệ thòng tin clụu tr ách nhiệm quàn 11 các tiện ích còng nghệ thông tin, phàn cứng cũng như phân mém, đàm bào hoạt động thông suỏt. Quân li công nghệ thông tỉn lã người đứng đàu bộ phàn còng nghệ thông tin.
+Một sò trường hợp, người quản li hệ thông cũng kiêm luôn việc cùa lã sư quân trị mạng. Các kĩ sư an toàn thông tin chòng truy cập trai phép, đàm bão dữ liệu không bị đánh cãp hay phá hoại Các kĩ thuật viên trực tiẻp sữa chữa, khãc phục sự cỏ và hò trợ người dùng máy tínlì.
+Lỉnh vực vận hãnh hệ thống còng nghè thông tin càn nguồn nhàn lực thuòc các nghê như: Quân trị hệ thòng, Quân trị mạng,... Các chức danh nghè nghiệp thường gãp của những người làm viêc trong lĩnh vực nãy là: quản 11 còng nghê thõng tin, kĩ sư an toàn thòng tin. kì sư quàn trị mạng, kĩ thuật viên,...
+3. Bình đãng giói trong các ngành nghê tin học
+Em có đòng ý với lập luận: “Phải giòi mòn Toán và là con trai thi mới nèn chọn mòn Tin học” hay không?
+Các nghè ờ lĩnh vực tni học thuộc nhóm lao động tr í óc, không phải lao động chàn tay nên nữ giới không là phái bị yêu thê, thậm chí tinh kiên tri, chăm chỉ, càn thận của nữ giới có thẻ là diêm ưu việt hơn. Bà Ada Loveỉace, một phụ nữ thường được nhăc tên khi nói vẻ giai đoạn đàu cùa lịch sử phát triẻn máy tinh. Lĩnh vực tin học mở ra rât nhiêu ngành nghè, đòi hòi năng lực trí tuệ, khả năng tư duy sáng tạo khoa học ở nhiéu mức độ khác nhau. Cho răng phải giòi mòn Toán mới nén chọn mòn Tin học và theo các nghè tin học là do mơ hò, 111 làm lân, đòng nhàt các nghè tin học với việc nghĩ ra thuật toán và lập hình.
+Dù là nam hay nữ đèu có thè chon cãc nghè tin học.
+109
+Câu 1. Hãy kè tẻn một số ngành đào tạo hướng đèn việc lam trong linh vực tin học.
+Câu 2. Hãy kè tên một sò nghè chuyên môn trong 111111 vực tin lioc.
+UM San này em muôn làm nghè gi? Theo em, nghè ày có thè làm việc ờ những
+lĩnh vực nào trong nên kinh tè xã hội?
+Câu 1. Lập trình viên là một nghề thuộc lĩnh vực nào của tin học?
+Câu 2. Quàn trị mạng cổ phải là một nghề tin học trong cùng lĩnh vực vời nghề lập trinh viên hay không?
+TÓM TÁT BÀI HỌC
+❖	Chọn ngành nghè đào tạo có tác động rât lớn đèn việc làm nghè gì, đạt trinh độ chuyên mòn nao trong tương lai
+❖	Có nhiêu nghè chuyên mòn trong lĩnh vực tin học, vi dụ: Phân tích hệ thòng, Lập trinh máy 111111, Quàn trị hệ thòng, Quàn trị mạng, Xử 11 dữ liệu,...
+❖	Dù là nam hay nữ đèư càn học vã có thè học mòn 'rin học. đèư có thè chọn sẽ làm việc trong lĩnh vực tin học.
+Bài dọc thêm
+NHỮNG ĐIỀU CẨN BIẾT
+VÉ NGHÉ CÒNG NGHỆ THÒNG TIN Ở VIỆT NAM
+Cuốn “Tài liệu những điẻu cân biết vế nghẻ công nghệ thông tin” do Bộ Thòng tin và Truyền thông phát hành sè giúp các em biết thêm nhiéu điéu mà sách giáo khoa chưa giới thiệu được. Cuốn sách mõ tả chi tiết công việc chuyên môn của từng vị trí việc làm, những đòi hỏi vé kiến thửc, kĩ năng và tố chất cá nhân tương ứng. Cuốn sách cũng giói thiệu những thông tin tổng quan và xu hướng tuyển dụng, triển vọng của ngành công nghệ thông tin ồ nước ta và nhưng chù đé liên quan đến cách mạng công nghiệp 4.0 như: Trí tuệ nhân tạo, Internet vạn vật. điện toán đám mây,...
+Tài liệu này mỏ tả các nghế công nghệ thông tin theo các lĩnh vực:
+A.	Lĩnh vực phát triển phân mếm.
+B.	Lĩnh vực mạng và an toàn thông tin mạng.
+c. Lỉnh vực đa phương tiện.
+D.	Lĩnh vực khác.
+E.	Các lĩnh vực công nghệ mới.
+110
